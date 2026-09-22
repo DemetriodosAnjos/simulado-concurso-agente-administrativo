@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "info-b-01",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Hardware de Entrada e Saída",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a alternativa que apresenta apenas dispositivos periféricos de ENTRADA de dados em um computador:",
+    "options": [
+      { "id": "A", "text": "Teclado, mouse e scanner." },
+      { "id": "B", "text": "Monitor, impressora e caixa de som." },
+      { "id": "C", "text": "Teclado, monitor e pendrive." },
+      { "id": "D", "text": "Mouse, fone de ouvido e plotter." },
+      { "id": "E", "text": "Projetor, microfone e webcam." }
+    ],
+    "correctOption": "A",
+    "explanation": "Teclado, mouse e scanner enviam informações do usuário/meio externo para a CPU do computador, sendo exclusivamente periféricos de entrada. Monitor, impressora e caixas de som são dispositivos de saída."
+  },
+  {
+    "id": "info-b-02",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Atalhos de Teclado no Windows 10/11",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No sistema operacional Windows 10/11, o atalho de teclado utilizado para abrir o Explorador de Arquivos (File Explorer) é:",
+    "options": [
+      { "id": "A", "text": "Ctrl + E" },
+      { "id": "B", "text": "Windows + E" },
+      { "id": "C", "text": "Alt + E" },
+      { "id": "D", "text": "Windows + F" },
+      { "id": "E", "text": "Ctrl + Shift + Esc" }
+    ],
+    "correctOption": "B",
+    "explanation": "A combinação de teclas logotipo do Windows + E abre imediatamente a janela do Explorador de Arquivos."
+  },
+  {
+    "id": "info-b-03",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Processador de Texto (Word 2016)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Microsoft Word 2016 em português, qual atalho de teclado é padrão para salvar o documento ativo?",
+    "options": [
+      { "id": "A", "text": "Ctrl + S" },
+      { "id": "B", "text": "Ctrl + B" },
+      { "id": "C", "text": "Ctrl + G" },
+      { "id": "D", "text": "Alt + B" },
+      { "id": "E", "text": "Ctrl + Shift + S" }
+    ],
+    "correctOption": "B",
+    "explanation": "No Word em português, Ctrl + B é o atalho para salvar o documento (Ctrl + S é sublinhado). Nota: no Windows em geral ou navegadores salvar é Ctrl + S, mas na suíte Office em português salvar é Ctrl + B."
+  },
+  {
+    "id": "info-b-04",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Planilhas Eletrônicas (Excel 2016)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Microsoft Excel 2016 em português, a fórmula correta para somar os valores contidos entre as células A1 e A10 de maneira contínua é:",
+    "options": [
+      { "id": "A", "text": "=SOMA(A1;A10)" },
+      { "id": "B", "text": "=SOMA(A1:A10)" },
+      { "id": "C", "text": "=SOMAR(A1-A10)" },
+      { "id": "D", "text": "=TOTAL(A1:A10)" },
+      { "id": "E", "text": "=ADICIONAR(A1..A10)" }
+    ],
+    "correctOption": "B",
+    "explanation": "No Excel, os dois-pontos (:) indicam intervalo contínuo ('de A1 até A10'). O ponto e vírgula (;) é separador de argumentos ('A1 e A10 apenas'). Logo, =SOMA(A1:A10) soma todo o intervalo de A1 até A10."
+  },
+  {
+    "id": "info-b-05",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Segurança da Informação (Phishing)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O golpe em que criminosos enviam e-mails ou mensagens fraudulentas imitando instituições financeiras ou órgãos públicos para roubar senhas e dados confidenciais denomina-se:",
+    "options": [
+      { "id": "A", "text": "Phishing." },
+      { "id": "B", "text": "Firewall." },
+      { "id": "C", "text": "Spyware legítimo." },
+      { "id": "D", "text": "Cookie." },
+      { "id": "E", "text": "Spooler." }
+    ],
+    "correctOption": "A",
+    "explanation": "Phishing é uma técnica de engenharia social que visa 'pescar' informações sigilosas (senhas, números de cartão, dados pessoais) por meio de comunicações fraudulentas simulando fontes confiáveis."
+  },
+  {
+    "id": "info-b-06",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Navegadores de Internet (Navegação Privada/Anônima)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Ao utilizar a 'Janela Anônima' no Google Chrome, o navegador:",
+    "options": [
+      { "id": "A", "text": "Torna o usuário totalmente invisível ao provedor de internet e administrador da rede." },
+      { "id": "B", "text": "Não salva no histórico local os sites visitados, cookies e dados de formulários após o fechamento." },
+      { "id": "C", "text": "Impede qualquer download de arquivos durante a sessão." },
+      { "id": "D", "text": "Bloqueia automaticamente 100% dos ataques de hackers." },
+      { "id": "E", "text": "Criptografa o tráfego com garantia militar absoluta." }
+    ],
+    "correctOption": "B",
+    "explanation": "A navegação anônima não grava o histórico local, cookies de sites ou informações preenchidas em formulários no dispositivo, embora a atividade ainda permaneça visível para o provedor, empregador e sites acessados."
+  },
+  {
+    "id": "info-b-07",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Correio Eletrônico (Campo Cco)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Ao redigir um e-mail com múltiplos destinatários, o campo 'Cco' (Cópia Oculta / Bcc) tem como função precípua:",
+    "options": [
+      { "id": "A", "text": "Enviar o e-mail em formato criptografado obrigatório." },
+      { "id": "B", "text": "Impedir que os demais destinatários vejam os endereços de e-mail inseridos nesse campo." },
+      { "id": "C", "text": "Bloquear o anexo para os usuários de cópia simples." },
+      { "id": "D", "text": "Garantir a entrega da mensagem sem passar pela pasta de spam." },
+      { "id": "E", "text": "Confirmar a leitura automática sem consentimento." }
+    ],
+    "correctOption": "B",
+    "explanation": "Os destinatários incluídos em Cco recebem a mensagem sem que seus endereços sejam visíveis aos outros destinatários constantes em 'Para' e 'Cc'."
+  },
+  {
+    "id": "info-b-08",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Extensões de Arquivos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a extensão padrão gerada nativamente ao salvar uma pasta de trabalho no Microsoft Excel 2016:",
+    "options": [
+      { "id": "A", "text": ".docx" },
+      { "id": "B", "text": ".pptx" },
+      { "id": "C", "text": ".xlsx" },
+      { "id": "D", "text": ".pdf" },
+      { "id": "E", "text": ".accdb" }
+    ],
+    "correctOption": "C",
+    "explanation": "O Excel 2016 salva planilhas nativamente no formato .xlsx (baseado em XML). .docx é do Word; .pptx é do PowerPoint; .accdb é do Access."
+  },
+  {
+    "id": "info-b-09",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Memórias do Computador (RAM vs HD/SSD)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Sobre a memória RAM, é correto afirmar que se trata de uma memória:",
+    "options": [
+      { "id": "A", "text": "Não volátil, que mantém os dados salvos mesmo ao desligar o computador." },
+      { "id": "B", "text": "Volátil, cujo conteúdo é apagado quando o computador é desligado." },
+      { "id": "C", "text": "Óptica, gravada apenas uma vez pelo fabricante." },
+      { "id": "D", "text": "Exclusiva para armazenamento de backups em nuvem." },
+      { "id": "E", "text": "Secundária de armazenamento permanente de longo prazo." }
+    ],
+    "correctOption": "B",
+    "explanation": "A memória RAM (Random Access Memory) é a memória principal de trabalho da CPU, de acesso rápido e natureza volátil: ao ser cortada a energia, todo o seu conteúdo é perdido."
+  },
+  {
+    "id": "info-b-10",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Armazenamento em Nuvem (Google Drive)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Google Drive, ao conceder permissão de 'Leitor' a um usuário em um arquivo compartilhado, ele poderá:",
+    "options": [
+      { "id": "A", "text": "Apenas visualizar e baixar o arquivo, sem permissão para editar seu conteúdo." },
+      { "id": "B", "text": "Editar livremente o texto e alterar as permissões de acesso." },
+      { "id": "C", "text": "Excluir permanentemente o arquivo da lixeira do proprietário." },
+      { "id": "D", "text": "Mudar a propriedade do documento para si mesmo." },
+      { "id": "E", "text": "Adicionar comentários e sugestões diretas na edição." }
+    ],
+    "correctOption": "A",
+    "explanation": "O perfil 'Leitor' (Viewer) permite somente a visualização/leitura (e download/cópia, caso não restrito pelo proprietário), sem poder modificar ou editar o conteúdo."
+  },
+  {
+    "id": "info-b-11",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Atalhos no Windows (Bloqueio de Tela)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Ao se afastar temporariamente da estação de trabalho na repartição pública, o agente deve bloquear o computador para segurança. O atalho rápido no Windows é:",
+    "options": [
+      { "id": "A", "text": "Windows + L" },
+      { "id": "B", "text": "Windows + B" },
+      { "id": "C", "text": "Ctrl + Alt + Del apenas" },
+      { "id": "D", "text": "Alt + F4" },
+      { "id": "E", "text": "Windows + Tab" }
+    ],
+    "correctOption": "A",
+    "explanation": "Windows + L (Lock) bloqueia imediatamente a estação de trabalho, exigindo a senha do usuário para retornar ao ambiente de trabalho."
+  },
+  {
+    "id": "info-b-12",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Word 2016 (Formatação de Parágrafo)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Word 2016, a opção que alinha o texto simultaneamente às margens esquerda e direita, distribuindo o espaço entre as palavras, chama-se:",
+    "options": [
+      { "id": "A", "text": "Centralizar." },
+      { "id": "B", "text": "Alinhar à Esquerda." },
+      { "id": "C", "text": "Justificar (Ctrl + J)." },
+      { "id": "D", "text": "Alinhar à Direita." },
+      { "id": "E", "text": "Distribuir Caracteres." }
+    ],
+    "correctOption": "C",
+    "explanation": "O alinhamento 'Justificar' (Ctrl + J) alinha o texto a ambas as margens, criando uma apresentação regular e uniforme típica de documentos oficiais e acadêmicos."
+  },
+  {
+    "id": "info-b-13",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Busca na Web (Uso de Aspas)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Ao pesquisar no Google por uma frase exata entre aspas, como \"Concurso Prefeitura de Curitiba 2026\", o mecanismo de busca irá:",
+    "options": [
+      { "id": "A", "text": "Excluir os resultados que contenham qualquer uma dessas palavras." },
+      { "id": "B", "text": "Retornar apenas páginas que contenham a correspondência exata dessas palavras na mesma ordem." },
+      { "id": "C", "text": "Buscar somente imagens relacionadas ao certame." },
+      { "id": "D", "text": "Traduzir automaticamente os termos para o inglês." },
+      { "id": "E", "text": "Restringir a busca a arquivos em formato PDF." }
+    ],
+    "correctOption": "B",
+    "explanation": "O uso de aspas duplas (\"...\") força o buscador a procurar pela correspondência literal e exata da frase com os termos dispostos exatamente na ordem indicada."
+  },
+  {
+    "id": "info-b-14",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Inteligência Artificial Generativa",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "ChatGPT (OpenAI), Gemini (Google) e Copilot (Microsoft) são exemplos modernos de ferramentas de:",
+    "options": [
+      { "id": "A", "text": "Sistemas de gerenciamento de banco de dados relacional clássicos." },
+      { "id": "B", "text": "Antivírus baseados em assinatura heurística." },
+      { "id": "C", "text": "Inteligência Artificial Generativa baseada em Grandes Modelos de Linguagem (LLMs)." },
+      { "id": "D", "text": "Sistemas operacionais de tempo real para servidores de rede." },
+      { "id": "E", "text": "Protocolos de roteamento dinâmico de pacotes IP." }
+    ],
+    "correctOption": "C",
+    "explanation": "Essas ferramentas são aplicações de IA Generativa impulsionadas por Modelos de Linguagem de Grande Escala (LLMs), capazes de sintetizar textos, redigir minutas, analisar códigos e responder questionamentos em linguagem natural."
+  },
+  {
+    "id": "info-b-15",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Gerenciamento de Arquivos no Windows (Lixeira)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Windows 10/11, ao selecionar um arquivo no disco rígido local e pressionar a combinação de teclas Shift + Delete:",
+    "options": [
+      { "id": "A", "text": "O arquivo é movido para a Lixeira normalmente." },
+      { "id": "B", "text": "O arquivo é excluído permanentemente, sem passar pela Lixeira." },
+      { "id": "C", "text": "O arquivo é compactado em formato ZIP." },
+      { "id": "D", "text": "O arquivo é ocultado nas propriedades." },
+      { "id": "E", "text": "Uma cópia de segurança é enviada para o OneDrive." }
+    ],
+    "correctOption": "B",
+    "explanation": "Shift + Delete realiza a exclusão definitiva do item selecionado, ignorando o envio para a Lixeira do sistema."
+  },
+  {
+    "id": "info-b-16",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Webmail (Zimbra)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O Zimbra é amplamente utilizado na administração pública municipal e estadual como uma solução integrada de:",
+    "options": [
+      { "id": "A", "text": "Webmail corporativo, colaboração, agenda e lista de contatos." },
+      { "id": "B", "text": "Edição vetorial de plantas de engenharia civil." },
+      { "id": "C", "text": "Gerenciamento de tráfego de semáforos urbanos." },
+      { "id": "D", "text": "Compilador de código-fonte de sistemas embarcados." },
+      { "id": "E", "text": "Emulador de terminais mainframe de bancos centrais." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Zimbra Collaboration Suite é uma plataforma de correio eletrônico corporativo (webmail) de código aberto/empresarial que inclui e-mail, catálogo de endereços, calendário compartilhado e tarefas."
+  },
+  {
+    "id": "info-b-17",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Excel 2016 (Função MÉDIA)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Se as células B1, B2 e B3 contêm os valores 10, 20 e 30, o resultado da fórmula =MÉDIA(B1:B3) será:",
+    "options": [
+      { "id": "A", "text": "15" },
+      { "id": "B", "text": "20" },
+      { "id": "C", "text": "30" },
+      { "id": "D", "text": "60" },
+      { "id": "E", "text": "#VALOR!" }
+    ],
+    "correctOption": "B",
+    "explanation": "A média aritmética é (10 + 20 + 30) / 3 = 60 / 3 = 20."
+  },
+  {
+    "id": "info-b-18",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Conceitos de Software",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O software básico indispensável que gerencia todos os recursos de hardware, processos e fornece a interface para interação com o usuário chama-se:",
+    "options": [
+      { "id": "A", "text": "Sistema Operacional." },
+      { "id": "B", "text": "Antivírus comercial." },
+      { "id": "C", "text": "Browser de navegação." },
+      { "id": "D", "text": "Planilha de cálculo." },
+      { "id": "E", "text": "Driver de vídeo secundário." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Sistema Operacional (ex: Windows, Linux) é o software fundamental de sistema que controla a CPU, memória, dispositivos de E/S e executa os demais aplicativos."
+  },
+  {
+    "id": "info-b-19",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Navegadores de Internet (Cookies)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No contexto da navegação na Internet, o termo 'Cookie' refere-se a:",
+    "options": [
+      { "id": "A", "text": "Um vírus destrutivo que queima o disco rígido." },
+      { "id": "B", "text": "Pequeno arquivo de texto armazenado no navegador para registrar preferências e sessões de usuários em websites." },
+      { "id": "C", "text": "Um dispositivo físico para acelerar a conexão Wi-Fi." },
+      { "id": "D", "text": "Um software de backup em fita magnética." },
+      { "id": "E", "text": "Um plugin de streaming de vídeo." }
+    ],
+    "correctOption": "B",
+    "explanation": "Cookies são arquivos de texto enviados por servidores web e salvos no navegador do cliente para guardar informações de login, preferências de idioma e rastreamento de sessões."
+  },
+  {
+    "id": "info-b-20",
+    "subject": "informatica",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Atalhos no Windows (Copiar e Colar)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Os atalhos universais no Windows para 'Recortar', 'Copiar' e 'Colar' arquivos ou textos são, respectivamente:",
+    "options": [
+      { "id": "A", "text": "Ctrl + X, Ctrl + C e Ctrl + V" },
+      { "id": "B", "text": "Ctrl + C, Ctrl + X e Ctrl + V" },
+      { "id": "C", "text": "Ctrl + R, Ctrl + C e Ctrl + P" },
+      { "id": "D", "text": "Ctrl + Z, Ctrl + Y e Ctrl + V" },
+      { "id": "E", "text": "Alt + X, Alt + C e Alt + V" }
+    ],
+    "correctOption": "A",
+    "explanation": "Ctrl + X (Recortar), Ctrl + C (Copiar) e Ctrl + V (Colar)."
+  },
+  {
+    "id": "info-i-01",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Excel 2016 (Função SE e Operadores Lógicos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na célula C1 foi digitada a fórmula: =SE(A1>=60; \"Aprovado\"; \"Reprovado\"). Se o valor inserido na célula A1 for exatamente 60, o valor exibido na célula C1 será:",
+    "options": [
+      { "id": "A", "text": "\"Aprovado\"" },
+      { "id": "B", "text": "\"Reprovado\"" },
+      { "id": "C", "text": "#VALOR!" },
+      { "id": "D", "text": "#NOME?" },
+      { "id": "E", "text": "0" }
+    ],
+    "correctOption": "A",
+    "explanation": "O operador >= significa 'maior ou igual'. Como 60 é igual a 60, o teste lógico é Verdadeiro, retornando o segundo argumento: 'Aprovado'."
+  },
+  {
+    "id": "info-i-02",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Excel 2016 (Referências Absolutas com Cifrão $)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Excel 2016, ao arrastar a fórmula =$B$1*A2 da célula C2 para a célula C3, a fórmula resultante em C3 será:",
+    "options": [
+      { "id": "A", "text": "=$B$1*A3" },
+      { "id": "B", "text": "=$B$2*A3" },
+      { "id": "C", "text": "=B2*A3" },
+      { "id": "D", "text": "=$C$1*A3" },
+      { "id": "E", "text": "=$B$1*A2" }
+    ],
+    "correctOption": "A",
+    "explanation": "O uso do cifrão ($B$1) fixa a coluna e a linha da célula (referência absoluta), impedindo sua alteração ao copiar ou arrastar. Já A2 possui referência relativa de linha, mudando para A3 ao descer uma linha."
+  },
+  {
+    "id": "info-i-03",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Ambiente Linux Ubuntu (Comandos Básicos de Terminal)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No terminal de comando do Linux Ubuntu, o comando utilizado para listar os arquivos e diretórios contidos na pasta atual é:",
+    "options": [
+      { "id": "A", "text": "dir /w" },
+      { "id": "B", "text": "ls" },
+      { "id": "C", "text": "pwd" },
+      { "id": "D", "text": "cd" },
+      { "id": "E", "text": "cat" }
+    ],
+    "correctOption": "B",
+    "explanation": "O comando 'ls' (list) lista o conteúdo do diretório no Linux. 'pwd' exibe o diretório de trabalho atual e 'cd' altera o diretório."
+  },
+  {
+    "id": "info-i-04",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Word 2016 (Mala Direta e Quebras de Seção)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Word 2016, para permitir que páginas de um mesmo documento tenham orientações distintas (por exemplo, página 1 em retrato e página 2 em paisagem), deve-se inserir uma:",
+    "options": [
+      { "id": "A", "text": "Quebra de Página Simples." },
+      { "id": "B", "text": "Quebra de Seção (Próxima Página)." },
+      { "id": "C", "text": "Quebra de Coluna." },
+      { "id": "D", "text": "Nota de Rodapé." },
+      { "id": "E", "text": "Marca d'água personalizada." }
+    ],
+    "correctOption": "B",
+    "explanation": "A orientação da página (retrato/paisagem), margens e cabeçalhos são atributos de seção. Para mudar a orientação de páginas isoladas é imprescindível inserir uma Quebra de Seção."
+  },
+  {
+    "id": "info-i-05",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Segurança da Informação (Ransomware)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O tipo de código malicioso (malware) que criptografa os arquivos do computador da vítima e exige o pagamento de um resgate financeiro para fornecer a chave de descriptografia é o:",
+    "options": [
+      { "id": "A", "text": "Adware." },
+      { "id": "B", "text": "Ransomware." },
+      { "id": "C", "text": "Rootkit puro." },
+      { "id": "D", "text": "Worm de rede sem carga." },
+      { "id": "E", "text": "Spyware de teclado." }
+    ],
+    "correctOption": "B",
+    "explanation": "Ransomware (de 'ransom' = resgate) sequestra dados por meio de criptografia forte e exige pagamento (geralmente em criptomoedas) para restaurar o acesso."
+  },
+  {
+    "id": "info-i-06",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Excel 2016 (Função PROCV)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A sintaxe padrão da função PROCV no Excel é: =PROCV(valor_procurado; matriz_tabela; núm_índice_coluna; [procurar_intervalo]). Se o quarto argumento for definido como FALSO (ou 0), a função irá:",
+    "options": [
+      { "id": "A", "text": "Buscar uma correspondência aproximada do valor." },
+      { "id": "B", "text": "Buscar apenas uma correspondência exata do valor." },
+      { "id": "C", "text": "Retornar erro proposital." },
+      { "id": "D", "text": "Procurar de baixo para cima." },
+      { "id": "E", "text": "Ignorar a primeira coluna da matriz." }
+    ],
+    "correctOption": "B",
+    "explanation": "Com o argumento 'procurar_intervalo' igual a FALSO (ou 0), o PROCV busca estritamente uma correspondência exata. Caso não encontre, retorna o erro #N/D."
+  },
+  {
+    "id": "info-i-07",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Operadores Avançados de Busca no Google",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Para pesquisar no Google exclusivamente arquivos no formato PDF contendo as palavras edital agente administrativo hospedados apenas no domínio da FAFIPA, a sintaxe de pesquisa recomendada é:",
+    "options": [
+      { "id": "A", "text": "edital agente administrativo site:fafipa.org filetype:pdf" },
+      { "id": "B", "text": "edital agente administrativo url=fafipa doc=pdf" },
+      { "id": "C", "text": "find:edital fafipa .pdf" },
+      { "id": "D", "text": "search fafipa pdf edital" },
+      { "id": "E", "text": "domain:fafipa format:pdf edital" }
+    ],
+    "correctOption": "A",
+    "explanation": "O operador 'site:' restringe a busca ao domínio especificado e o operador 'filetype:' restringe a busca ao formato de arquivo indicado (ex: filetype:pdf)."
+  },
+  {
+    "id": "info-i-08",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Segurança da Informação (Autenticação em Dois Fatores - 2FA)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A Autenticação em Dois Fatores (2FA ou MFA) aumenta a segurança das contas corporativas porque exige:",
+    "options": [
+      { "id": "A", "text": "Duas senhas de texto cadastradas no mesmo dia." },
+      { "id": "B", "text": "Dois fatores distintos de validação, geralmente combinando algo que você sabe (senha) com algo que você tem (código no celular) ou algo que você é (biometria)." },
+      { "id": "C", "text": "O uso simultâneo de dois navegadores diferentes." },
+      { "id": "D", "text": "Que dois servidores municipais digitem senhas juntos." },
+      { "id": "E", "text": "A reinicialização do computador a cada login." }
+    ],
+    "correctOption": "B",
+    "explanation": "A autenticação de múltiplos fatores combina duas ou mais categorias de fatores independentes: conhecimento (senha/PIN), posse (token/smartphone) ou inerência (impressão digital/reconhecimento facial)."
+  },
+  {
+    "id": "info-i-09",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Linux Ubuntu (Comandos de Navegação e Arquivos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Linux, para criar um novo diretório (pasta) chamado 'concurso2026' via terminal, utiliza-se o comando:",
+    "options": [
+      { "id": "A", "text": "mkdir concurso2026" },
+      { "id": "B", "text": "create dir concurso2026" },
+      { "id": "C", "text": "touch concurso2026" },
+      { "id": "D", "text": "rmdir concurso2026" },
+      { "id": "E", "text": "new folder concurso2026" }
+    ],
+    "correctOption": "A",
+    "explanation": "'mkdir' (make directory) é o comando padrão do Linux para criar novos diretórios. 'touch' cria arquivos vazios; 'rmdir' remove diretórios vazios."
+  },
+  {
+    "id": "info-i-10",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Excel 2016 (Função CONT.SE)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Excel, a função utilizada para contar quantas células em um intervalo atendem a um determinado critério textual ou numérico (como contar quantos servidores têm situação 'Ativo') é:",
+    "options": [
+      { "id": "A", "text": "CONTAR.VALORES" },
+      { "id": "B", "text": "CONT.SE" },
+      { "id": "C", "text": "CONTAR.NÚM" },
+      { "id": "D", "text": "SOMASE" },
+      { "id": "E", "text": "LOCALIZAR" }
+    ],
+    "correctOption": "B",
+    "explanation": "CONT.SE(intervalo; critérios) conta o número de células dentro de um intervalo que atendem à condição especificada."
+  },
+  {
+    "id": "info-i-11",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Sistemas de Arquivos (NTFS vs FAT32)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma das principais limitações do sistema de arquivos FAT32 quando comparado ao NTFS do Windows é:",
+    "options": [
+      { "id": "A", "text": "Não permitir a gravação de arquivos individuais maiores do que 4 GB." },
+      { "id": "B", "text": "Incompatibilidade total com pen drives USB." },
+      { "id": "C", "text": "Não aceitar nomes de arquivos com mais de 8 caracteres." },
+      { "id": "D", "text": "Impossibilidade de funcionar em portas USB 3.0." },
+      { "id": "E", "text": "Limitação de capacidade máxima de disco a 1 GB." }
+    ],
+    "correctOption": "A",
+    "explanation": "No sistema de arquivos FAT32, o tamanho máximo de um único arquivo individual é de 4 GB (especificamente 4.294.967.295 bytes), limite superado amplamente pelo NTFS."
+  },
+  {
+    "id": "info-i-12",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Word 2016 (Recurso Controlar Alterações)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Na guia 'Revisão' do Word 2016, a ferramenta 'Controlar Alterações' (Track Changes) serve para:",
+    "options": [
+      { "id": "A", "text": "Proteger o arquivo contra abertura por senha mestra." },
+      { "id": "B", "text": "Registrar em destaque todas as inserções, exclusões e alterações de formatação feitas pelos revisores." },
+      { "id": "C", "text": "Realizar backup automático para o Google Drive." },
+      { "id": "D", "text": "Traduzir o documento em tempo real via IA." },
+      { "id": "E", "text": "Converter automaticamente o documento para apresentação de slides." }
+    ],
+    "correctOption": "B",
+    "explanation": "O recurso 'Controlar Alterações' grava e exibe visualmente todas as edições e correções propostas no documento para posterior aceitação ou rejeição pelo autor."
+  },
+  {
+    "id": "info-i-13",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Backup (Completo, Incremental e Diferencial)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O tipo de backup que copia apenas os arquivos criados ou modificados desde o ÚLTIMO backup de qualquer tipo (seja completo ou incremental), desmarcando o atributo de arquivo para indicar cópia realizada, é o backup:",
+    "options": [
+      { "id": "A", "text": "Completo (Full)." },
+      { "id": "B", "text": "Incremental." },
+      { "id": "C", "text": "Diferencial." },
+      { "id": "D", "text": "Espelho (Mirror)." },
+      { "id": "E", "text": "Diário sem marcação." }
+    ],
+    "correctOption": "B",
+    "explanation": "O backup incremental grava apenas o que foi alterado desde o último backup realizado e limpa o atributo de arquivo (archive bit). Já o backup diferencial copia tudo o que foi alterado desde o último backup COMPLETO sem desmarcar o atributo."
+  },
+  {
+    "id": "info-i-14",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Protocolos de E-mail (IMAP vs POP3)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Ao configurar uma conta de e-mail no Outlook ou no smartphone, a principal vantagem do protocolo IMAP em relação ao POP3 clássico é:",
+    "options": [
+      { "id": "A", "text": "Permitir a sincronização em tempo real das mensagens e pastas entre múltiplos dispositivos e o servidor." },
+      { "id": "B", "text": "Excluir obrigatoriamente as mensagens do servidor assim que forem lidas." },
+      { "id": "C", "text": "Não exigir conexão de internet para receber novos e-mails." },
+      { "id": "D", "text": "Funcionar apenas em computadores com sistema Linux." },
+      { "id": "E", "text": "Garantir o anonimato do remetente." }
+    ],
+    "correctOption": "A",
+    "explanation": "O protocolo IMAP mantém as mensagens centralizadas no servidor e sincroniza o status de leitura, exclusão e pastas entre todos os clientes de e-mail conectados, ao passo que o POP3 tradicionalmente baixa as mensagens para um dispositivo local."
+  },
+  {
+    "id": "info-i-15",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Segurança da Informação (Firewall)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A função primordial de um Firewall em uma rede corporativa municipal é:",
+    "options": [
+      { "id": "A", "text": "Escanear arquivos em busca de vírus já gravados no disco rígido." },
+      { "id": "B", "text": "Filtrar o tráfego de dados de entrada e saída com base em políticas de segurança predefinidas, bloqueando conexões não autorizadas." },
+      { "id": "C", "text": "Substituir a necessidade de nobreaks na rede elétrica." },
+      { "id": "D", "text": "Acelerar a velocidade de download de arquivos grandes." },
+      { "id": "E", "text": "Recuperar senhas perdidas de usuários da rede." }
+    ],
+    "correctOption": "B",
+    "explanation": "O Firewall funciona como uma barreira de proteção de perímetro que monitora e filtra o tráfego de rede entre a rede interna confiável e a Internet, bloqueando acessos e portas não autorizados."
+  },
+  {
+    "id": "info-i-16",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Inteligência Artificial (Engenharia de Prompt)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No uso de ferramentas como ChatGPT, Copilot ou Gemini para apoio no serviço administrativo, a prática de fornecer contexto claro, persona, instruções de formato e restrições é conhecida como:",
+    "options": [
+      { "id": "A", "text": "Engenharia de Prompt." },
+      { "id": "B", "text": "Mineração de criptomoedas." },
+      { "id": "C", "text": "Overclocking de software." },
+      { "id": "D", "text": "Engenharia reversa de hardware." },
+      { "id": "E", "text": "Jailbreak de sistema." }
+    ],
+    "correctOption": "A",
+    "explanation": "Engenharia de Prompt é a disciplina e técnica de estruturar e refinar comandos e instruções para obter as respostas mais precisas, úteis e alinhadas aos modelos de linguagem de IA."
+  },
+  {
+    "id": "info-i-17",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Excel 2016 (Classificação e Filtro)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Excel 2016, para visualizar temporariamente apenas as linhas de uma planilha que contenham o cargo 'Agente Administrativo', sem apagar as outras linhas, deve-se aplicar o recurso de:",
+    "options": [
+      { "id": "A", "text": "AutoFiltro (Filtro)." },
+      { "id": "B", "text": "Validação de Dados restritiva." },
+      { "id": "C", "text": "Congelar Painéis." },
+      { "id": "D", "text": "Quebra de Texto Automática." },
+      { "id": "E", "text": "Remover Duplicadas." }
+    ],
+    "correctOption": "A",
+    "explanation": "O recurso de Filtro permite ocultar temporariamente registros que não correspondem aos critérios selecionados, exibindo apenas as linhas desejadas sem excluir os demais dados."
+  },
+  {
+    "id": "info-i-18",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Windows 11 (Áreas de Trabalho Virtuais)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Windows 10 e 11, o recurso 'Visão de Tarefas' (Task View), acionado pelo atalho Windows + Tab, permite ao usuário:",
+    "options": [
+      { "id": "A", "text": "Alternar janelas ativas e criar múltiplas Áreas de Trabalho Virtuais para organizar diferentes tarefas." },
+      { "id": "B", "text": "Encerrar forçadamente a execução do sistema operacional." },
+      { "id": "C", "text": "Desinstalar aplicativos com privilégios de administrador." },
+      { "id": "D", "text": "Configurar o endereço IP estático da placa de rede." },
+      { "id": "E", "text": "Desfragmentar o disco rígido principal." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Visão de Tarefas (Windows + Tab) mostra uma visão geral de todas as janelas abertas e possibilita a criação e gerenciamento de múltiplas áreas de trabalho virtuais."
+  },
+  {
+    "id": "info-i-19",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Armazenamento em Nuvem (Sincronização Seletiva)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em clientes de armazenamento em nuvem (como Google Drive para computador ou OneDrive), o recurso de manter arquivos 'Apenas online' serve para:",
+    "options": [
+      { "id": "A", "text": "Economizar espaço de armazenamento no disco rígido local do computador, baixando o arquivo sob demanda ao abri-lo." },
+      { "id": "B", "text": "Impedir que outros servidores vejam o arquivo na internet." },
+      { "id": "C", "text": "Criptografar arquivos com senha do Windows." },
+      { "id": "D", "text": "Bloquear o compartilhamento com links públicos." },
+      { "id": "E", "text": "Desativar o salvamento automático do Office." }
+    ],
+    "correctOption": "A",
+    "explanation": "Manter arquivos 'Apenas online' armazena-os na nuvem sem ocupar espaço no disco rígido local, fazendo o download temporário e transparente apenas quando o usuário clica para abri-los."
+  },
+  {
+    "id": "info-i-20",
+    "subject": "informatica",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Word 2016 (Inserção de Cabeçalho e Rodapé)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Word 2016, para que a primeira página de um ofício não exiba o número de página que aparece nas páginas seguintes, deve-se marcar a opção:",
+    "options": [
+      { "id": "A", "text": "'Primeira Página Diferente' nas ferramentas de Cabeçalho e Rodapé." },
+      { "id": "B", "text": "'Ocultar Números Ímpares'." },
+      { "id": "C", "text": "'Modo de Leitura'." },
+      { "id": "D", "text": "'Margens Estreitas'." },
+      { "id": "E", "text": "'Orientação Retrato Estrita'." }
+    ],
+    "correctOption": "A",
+    "explanation": "A opção 'Primeira Página Diferente' permite definir um cabeçalho ou rodapé exclusivo para a primeira página da seção (ou deixá-lo totalmente em branco)."
+  },
+  {
+    "id": "info-a-01",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Excel 2016 (Fórmulas Combinadas ÍNDICE e CORRESP)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Excel 2016, a combinação das funções ÍNDICE e CORRESP é frequentemente preferida em relação ao PROCV tradicional porque:",
+    "options": [
+      { "id": "A", "text": "Permite realizar pesquisas à esquerda da coluna de busca, consome menos processamento em grandes planilhas e não quebra com a inserção de novas colunas." },
+      { "id": "B", "text": "Funciona apenas com números pares inteiros." },
+      { "id": "C", "text": "Obriga a matriz a estar ordenada em ordem alfabética estrita." },
+      { "id": "D", "text": "Impede a visualização dos dados por usuários não autorizados." },
+      { "id": "E", "text": "Converte automaticamente o resultado em moeda corrente." }
+    ],
+    "correctOption": "A",
+    "explanation": "Enquanto o PROCV só consegue buscar valores à direita da coluna de pesquisa, a combinação ÍNDICE(coluna_retorno, CORRESP(valor, coluna_busca, 0)) busca em qualquer direção (inclusive à esquerda) e independe da posição relativa estática das colunas."
+  },
+  {
+    "id": "info-a-02",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Segurança da Informação (Certificação Digital e Assinatura Eletrônica)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), a Assinatura Digital qualificada assegura quais princípios da segurança da informação?",
+    "options": [
+      { "id": "A", "text": "Apenas confidencialidade." },
+      { "id": "B", "text": "Integridade, autenticidade e não repúdio (irretratabilidade)." },
+      { "id": "C", "text": "Disponibilidade e redundância de servidores." },
+      { "id": "D", "text": "Imunidade total contra vírus informáticos." },
+      { "id": "E", "text": "Backup redundante automático em fita DAT." }
+    ],
+    "correctOption": "B",
+    "explanation": "A assinatura digital garante: Autenticidade (certeza de quem assinou com sua chave privada), Integridade (o documento não foi adulterado, verificado pelo hash criptográfico) e Não Repúdio (o signatário não pode negar juridicamente a autoria)."
+  },
+  {
+    "id": "info-a-03",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Linux Ubuntu (Permissões de Arquivos e Chmod)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Linux Ubuntu, o comando chmod 755 arquivo.sh atribui quais permissões ao arquivo, respectivamente, para Dono (User), Grupo (Group) e Outros (Others)?",
+    "options": [
+      { "id": "A", "text": "Dono: Leitura, Escrita e Execução (rwx); Grupo: Leitura e Execução (r-x); Outros: Leitura e Execução (r-x)." },
+      { "id": "B", "text": "Dono: Leitura e Escrita; Grupo: Escrita; Outros: Nenhuma." },
+      { "id": "C", "text": "Acesso total irrestrito para todos os usuários do sistema." },
+      { "id": "D", "text": "Dono: Somente Leitura; Grupo: Execução; Outros: Escrita." },
+      { "id": "E", "text": "Permissão somente de execução para o administrador root." }
+    ],
+    "correctOption": "A",
+    "explanation": "Em notação octal no Linux: 4 = leitura (r), 2 = escrita (w), 1 = execução (x). 7 = 4+2+1 = rwx (dono). 5 = 4+1 = r-x (grupo). 5 = 4+1 = r-x (outros)."
+  },
+  {
+    "id": "info-a-04",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "IA Generativa e Alucinação de Modelos",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No contexto do uso de ferramentas de inteligência artificial generativa (como ChatGPT ou Gemini) na redação de minutas e atos administrativos, o fenômeno da 'alucinação' consiste em:",
+    "options": [
+      { "id": "A", "text": "O computador esquentar a ponto de travar a placa-mãe." },
+      { "id": "B", "text": "O modelo gerar informações plausíveis e gramaticalmente perfeitas, porém factualmente incorretas, inventadas ou sem base na realidade." },
+      { "id": "C", "text": "A invasão da rede municipal por bots maliciosos externos." },
+      { "id": "D", "text": "O congelamento temporário da interface gráfica do Windows." },
+      { "id": "E", "text": "A exclusão acidental da base de dados do servidor." }
+    ],
+    "correctOption": "B",
+    "explanation": "Alucinação em LLMs ocorre quando o modelo produz afirmações falsas, inventa leis, jurisprudências ou dados inexistentes com alto grau de convicção aparente, exigindo sempre validação humana pelo agente público."
+  },
+  {
+    "id": "info-a-05",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Excel 2016 (Tabelas Dinâmicas e Segmentação)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Excel 2016, a ferramenta 'Segmentação de Dados' (Slicer) associada a uma Tabela Dinâmica tem como finalidade primordial:",
+    "options": [
+      { "id": "A", "text": "Fornecer botões visuais e interativos de filtragem rápida para facilitar a exploração analítica dos dados agregados." },
+      { "id": "B", "text": "Dividir o arquivo da planilha em 10 arquivos menores." },
+      { "id": "C", "text": "Proteger as fórmulas contra edição por usuários comuns." },
+      { "id": "D", "text": "Substituir a memória RAM durante o processamento." },
+      { "id": "E", "text": "Criar cópias de segurança criptografadas em servidores externos." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Segmentação de Dados oferece filtros visuais clicáveis que filtram relatórios de Tabelas Dinâmicas de modo intuitivo e dinâmico, sendo recurso central em dashboards executivos."
+  },
+  {
+    "id": "info-a-06",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Criptografia Simétrica vs Assimétrica",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Sobre os modelos de criptografia utilizados nas comunicações seguras (como no protocolo HTTPS/SSL), assinale a afirmativa correta:",
+    "options": [
+      { "id": "A", "text": "Na criptografia simétrica, utiliza-se a mesma chave secreta tanto para codificar quanto para decodificar a mensagem." },
+      { "id": "B", "text": "Na criptografia assimétrica, a chave privada é distribuída publicamente para todos os usuários da rede." },
+      { "id": "C", "text": "O protocolo HTTPS não utiliza chaves de criptografia em nenhum momento." },
+      { "id": "D", "text": "A chave pública é guardada em segredo pelo proprietário e nunca compartilhada." },
+      { "id": "E", "text": "Criptografia simétrica não é mais utilizada na informática moderna." }
+    ],
+    "correctOption": "A",
+    "explanation": "Na criptografia simétrica (como AES), há uma única chave compartilhada para cifrar e decifrar. Na assimétrica (como RSA), há um par de chaves: a chave pública (compartilhada com todos) e a chave privada (mantida em segredo absoluto pelo dono)."
+  },
+  {
+    "id": "info-a-07",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Redes de Computadores (VPN Corporativa)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Ao realizar trabalho remoto (teletrabalho), o servidor público utiliza uma VPN (Virtual Private Network) para conectar seu computador doméstico à rede da prefeitura. A VPN atua:",
+    "options": [
+      { "id": "A", "text": "Criando um túnel criptografado e seguro sobre a Internet pública, permitindo o tráfego seguro de dados confidenciais como se estivesse na rede local do órgão." },
+      { "id": "B", "text": "Aumentando a velocidade do plano de banda larga contratado pelo servidor." },
+      { "id": "C", "text": "Desativando o antivírus para acelerar o envio de arquivos." },
+      { "id": "D", "text": "Excluindo a necessidade de autenticação por senha." },
+      { "id": "E", "text": "Permitindo navegar sem consumir energia elétrica." }
+    ],
+    "correctOption": "A",
+    "explanation": "A VPN estabelece uma conexão criptografada (tunelamento) ponto a ponto sobre redes públicas desprotegidas, assegurando sigilo e integridade nas comunicações remotas institucionais."
+  },
+  {
+    "id": "info-a-08",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Linux Ubuntu (Comandos Administrativos e Sudo)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Linux Ubuntu, o comando 'sudo apt update && sudo apt upgrade -y' executa:",
+    "options": [
+      { "id": "A", "text": "A atualização da lista de pacotes dos repositórios e a atualização de todos os programas instalados para suas versões mais recentes." },
+      { "id": "B", "text": "A exclusão completa de todos os dados do disco rígido." },
+      { "id": "C", "text": "O cancelamento da licença de uso do sistema." },
+      { "id": "D", "text": "A formatação da partição de boot EFI." },
+      { "id": "E", "text": "A alteração imediata da senha do superusuário root." }
+    ],
+    "correctOption": "A",
+    "explanation": "O gerenciador de pacotes APT utiliza 'update' para sincronizar os índices dos repositórios oficiais e 'upgrade' para baixar e instalar as novas versões disponíveis dos softwares do sistema com privilégios de superusuário (sudo)."
+  },
+  {
+    "id": "info-a-09",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Excel 2016 (Função SOMASE e SOMASES)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Excel 2016, a diferença estrutural primordial entre as funções SOMASE e SOMASES é que:",
+    "options": [
+      { "id": "A", "text": "O SOMASE permite apenas um critério de soma, enquanto o SOMASES permite múltiplos critérios combinados e seu primeiro argumento é o intervalo de soma." },
+      { "id": "B", "text": "O SOMASES só funciona em arquivos compartilhados na nuvem." },
+      { "id": "C", "text": "O SOMASE soma texto e o SOMASES soma números." },
+      { "id": "D", "text": "O SOMASES não aceita operadores de comparação como '>' ou '<'." },
+      { "id": "E", "text": "Ambas possuem exatamente a mesma ordem de sintaxe sem distinção." }
+    ],
+    "correctOption": "A",
+    "explanation": "SOMASE(intervalo_critério; critério; [intervalo_soma]) suporta apenas 1 critério. Já SOMASES(intervalo_soma; intervalo_critério1; critério1; [intervalo_critério2; critério2]...) suporta múltiplos critérios e coloca o intervalo_soma como primeiro parâmetro."
+  },
+  {
+    "id": "info-a-10",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Segurança de Dados (Ataques DDoS)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um ataque cibernético do tipo DDoS (Distributed Denial of Service) visa comprometer qual pilar fundamental da segurança da informação?",
+    "options": [
+      { "id": "A", "text": "Disponibilidade." },
+      { "id": "B", "text": "Confidencialidade." },
+      { "id": "C", "text": "Legalidade estrita." },
+      { "id": "D", "text": "Privacidade de dados pessoais." },
+      { "id": "E", "text": "Criptografia de disco." }
+    ],
+    "correctOption": "A",
+    "explanation": "O ataque de negação de serviço distribuído (DDoS) sobrecarrega os servidores e links de rede com um volume massivo de requisições coordenadas para tirar o portal ou sistema do ar, atacando a Disponibilidade."
+  },
+  {
+    "id": "info-a-11",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Word 2016 (Estilos de Título e Sumário Automático)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Para que o Microsoft Word 2016 possa gerar automaticamente um Sumário (Índice Analítico) preciso com numeração de páginas atualizável, os títulos dos tópicos devem estar formatados com:",
+    "options": [
+      { "id": "A", "text": "Estilos de Título predefinidos (ex: Título 1, Título 2, Título 3) da Galeria de Estilos." },
+      { "id": "B", "text": "Tamanho de fonte 18 em negrito e cor azul manualmente." },
+      { "id": "C", "text": "Marcadores gráficos de bolinhas personalizadas." },
+      { "id": "D", "text": "Caixa alta digitada letra por letra." },
+      { "id": "E", "text": "Alinhamento centralizado simples." }
+    ],
+    "correctOption": "A",
+    "explanation": "O recurso de Sumário automático do Word rastreia estruturalmente a hierarquia de parágrafos demarcados com os Estilos nativos (Título 1, Título 2, etc.), coletando seus textos e números de página correspondentes."
+  },
+  {
+    "id": "info-a-12",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Ambientes Operacionais (Virtualização e Contêineres)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Em centros de dados modernos de prefeituras, a tecnologia de Máquinas Virtuais (VMs) gerenciadas por um Hypervisor permite:",
+    "options": [
+      { "id": "A", "text": "Executar múltiplos sistemas operacionais completos e isolados em um mesmo servidor físico compartilhado." },
+      { "id": "B", "text": "Eliminar a necessidade de cabos de rede em toda a cidade." },
+      { "id": "C", "text": "Substituir placas de vídeo por monitores de papel." },
+      { "id": "D", "text": "Impedir qualquer tipo de manutenção preventiva no hardware." },
+      { "id": "E", "text": "Converter computadores de 32 bits em supercomputadores quânticos." }
+    ],
+    "correctOption": "A",
+    "explanation": "A virtualização por hypervisor divide os recursos do hardware físico entre várias instâncias de sistemas operacionais independentes (máquinas virtuais), otimizando custos e espaço no data center."
+  },
+  {
+    "id": "info-a-13",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Excel 2016 (Auditoria de Fórmulas e Erros Comuns)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Excel, quando uma célula exibe o erro #REF!, a causa provável é:",
+    "options": [
+      { "id": "A", "text": "A fórmula faz referência a uma célula ou intervalo que foi excluído da planilha." },
+      { "id": "B", "text": "Ocorreu uma divisão por zero." },
+      { "id": "C", "text": "O nome de uma função foi digitado incorretamente." },
+      { "id": "D", "text": "A largura da coluna é insuficiente para exibir o número." },
+      { "id": "E", "text": "O valor procurado pelo PROCV não existe." }
+    ],
+    "correctOption": "A",
+    "explanation": "O erro #REF! (Referência inválida) indica que a fórmula continha uma coordenada de célula que deixou de existir (por exemplo, após a exclusão de uma linha ou coluna inteira)."
+  },
+  {
+    "id": "info-a-14",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Segurança e Privacidade (LGPD nos Sistemas de Informática)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Sob a ótica técnica da segurança de sistemas computacionais alinhada à LGPD (Lei 13.709/2018), a técnica de anonimização garante que:",
+    "options": [
+      { "id": "A", "text": "O dado pessoal perde a possibilidade de associação, direta ou indireta, a um indivíduo, considerando os meios técnicos razoáveis disponíveis." },
+      { "id": "B", "text": "O arquivo é protegido exclusivamente por uma senha de 4 dígitos numéricos." },
+      { "id": "C", "text": "O servidor público que tratou o dado tem sua identidade ocultada." },
+      { "id": "D", "text": "Os dados são mantidos em sigilo judicial por 5 anos." },
+      { "id": "E", "text": "O banco de dados é apagado ao final do expediente diário." }
+    ],
+    "correctOption": "A",
+    "explanation": "Anonimização é a utilização de meios técnicos razoáveis e disponíveis no momento do tratamento pelos quais um dado perde a possibilidade de associação com seu titular original."
+  },
+  {
+    "id": "info-a-15",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Gerenciamento de Armazenamento em Nuvem (Google Workspace)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em contas corporativas do Google Workspace, qual a principal diferença de um 'Drive Compartilhado' (Shared Drive) em relação ao 'Meu Drive' individual?",
+    "options": [
+      { "id": "A", "text": "Os arquivos pertencem à organização e à equipe como um todo, e não a um indivíduo específico; assim, quando um servidor é exonerado, os arquivos não são perdidos." },
+      { "id": "B", "text": "O Drive Compartilhado só pode ser acessado de segunda a sexta-feira." },
+      { "id": "C", "text": "Não permite o upload de planilhas e apresentações." },
+      { "id": "D", "text": "Exige obrigatoriamente pagamento avulso por cada arquivo aberto." },
+      { "id": "E", "text": "É restrito a arquivos com menos de 1 MB." }
+    ],
+    "correctOption": "A",
+    "explanation": "Nos Drives Compartilhados da equipe corporativa, a propriedade dos arquivos é institucional. Mesmo se o criador do arquivo deixar o órgão público, os documentos permanecem intactos acessíveis ao setor."
+  },
+  {
+    "id": "info-a-16",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Segurança de Redes (Certificados SSL/TLS e HSTS)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O mecanismo de segurança web HSTS (HTTP Strict Transport Security) configurado nos portais do município tem como função:",
+    "options": [
+      { "id": "A", "text": "Forçar o navegador do cidadão a se comunicar exclusivamente por meio de conexões criptografadas HTTPS seguras, prevenindo ataques de interceptação (man-in-the-middle)." },
+      { "id": "B", "text": "Bloquear downloads de fotos e vídeos." },
+      { "id": "C", "text": "Acelerar a renderização de fontes tipográficas." },
+      { "id": "D", "text": "Limitar o acesso a computadores com Windows 11." },
+      { "id": "E", "text": "Desativar formulários de ouvidoria pública." }
+    ],
+    "correctOption": "A",
+    "explanation": "O cabeçalho de resposta HSTS instrui os navegadores a nunca carregarem o site por HTTP comum inseguro, convertendo todas as conexões automaticamente para HTTPS."
+  },
+  {
+    "id": "info-a-17",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Excel 2016 (Função SEERRO)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Para evitar que uma planilha com fórmulas complexas exiba erros inestéticos como #N/D ou #DIV/0! quando um campo estiver em branco, utiliza-se a função protetora:",
+    "options": [
+      { "id": "A", "text": "=SEERRO(valor; valor_se_erro)" },
+      { "id": "B", "text": "=LIMPAR.ERRO(valor)" },
+      { "id": "C", "text": "=IGNORAR(valor)" },
+      { "id": "D", "text": "=PROTEGER(valor)" },
+      { "id": "E", "text": "=ANULAR(valor)" }
+    ],
+    "correctOption": "A",
+    "explanation": "A função SEERRO(cálculo; valor_se_erro) avalia a expressão e, se ela resultar em qualquer código de erro, devolve o valor alternativo especificado (como vazio \"\" ou zero)."
+  },
+  {
+    "id": "info-a-18",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Linux Ubuntu (Gerenciamento de Processos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No Linux Ubuntu, o comando interativo executado no terminal que exibe em tempo real o consumo de CPU e memória RAM pelos processos em execução chama-se:",
+    "options": [
+      { "id": "A", "text": "top (ou htop)" },
+      { "id": "B", "text": "taskkill" },
+      { "id": "C", "text": "ping -t" },
+      { "id": "D", "text": "grep" },
+      { "id": "E", "text": "whoami" }
+    ],
+    "correctOption": "A",
+    "explanation": "O comando 'top' (e sua versão aprimorada 'htop') fornece uma exibição dinâmica em tempo real do status dos processos ativos do sistema operacional Linux, similar ao Gerenciador de Tarefas do Windows."
+  },
+  {
+    "id": "info-a-19",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "E-mails e Cabeçalhos Técnicos (SPF, DKIM e DMARC)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Para combater falsificações de remetentes de e-mails institucionais (spoofing) e assegurar a autenticidade de mensagens enviadas pela prefeitura, a equipe de TI implementa os padrões de DNS:",
+    "options": [
+      { "id": "A", "text": "SPF, DKIM e DMARC." },
+      { "id": "B", "text": "FTP, Telnet e SNMPv1." },
+      { "id": "C", "text": "HTML, CSS e JavaScript." },
+      { "id": "D", "text": "FAT, NTFS e EXT4." },
+      { "id": "E", "text": "VGA, HDMI e DisplayPort." }
+    ],
+    "correctOption": "A",
+    "explanation": "SPF (autoriza servidores IP emissores), DKIM (assina criptograficamente a mensagem) e DMARC (define políticas de rejeição/quarentena e relatórios) formam o tripé essencial de proteção contra spoofing de e-mails corporativos."
+  },
+  {
+    "id": "info-a-20",
+    "subject": "informatica",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "IA Generativa e Segurança de Dados Públicos",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Ao utilizar ferramentas públicas de inteligência artificial em navegadores na rotina de trabalho administrativo, qual conduta ética e de segurança é mandatória para o servidor?",
+    "options": [
+      { "id": "A", "text": "Não inserir dados pessoais sensíveis de cidadãos, documentos com sigilo funcional ou segredos de licitações nas caixas de diálogo dos modelos públicos." },
+      { "id": "B", "text": "Inserir todas as senhas funcionais para que a IA agilize o preenchimento de formulários." },
+      { "id": "C", "text": "Substituir todas as assinaturas de atos oficiais por respostas automáticas de chatbots sem ler." },
+      { "id": "D", "text": "Tornar públicas as chaves de API do município no GitHub." },
+      { "id": "E", "text": "Desabilitar as políticas de segurança da informação do órgão." }
+    ],
+    "correctOption": "A",
+    "explanation": "Em conformidade com a LGPD e o dever de sigilo funcional, o servidor não deve submeter dados protegidos, pessoais sensíveis ou informações reservadas em chats de IAs públicas de terceiros, pois estes dados podem ser incorporados em logs e no treinamento de futuros modelos."
+  }
+]

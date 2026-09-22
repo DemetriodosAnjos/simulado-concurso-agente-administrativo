@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "rlm-b-01",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Operações Fundamentais e Problemas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um setor da prefeitura comprou 15 pacotes de papel sulfite, contendo 500 folhas cada um. Se ao final do mês foram utilizadas 4.350 folhas, quantas folhas ainda restam no estoque?",
+    "options": [
+      { "id": "A", "text": "3.150 folhas." },
+      { "id": "B", "text": "3.250 folhas." },
+      { "id": "C", "text": "2.850 folhas." },
+      { "id": "D", "text": "3.350 folhas." },
+      { "id": "E", "text": "3.500 folhas." }
+    ],
+    "correctOption": "A",
+    "explanation": "Total de folhas compradas = 15 × 500 = 7.500 folhas. Restante após o uso = 7.500 - 4.350 = 3.150 folhas."
+  },
+  {
+    "id": "rlm-b-02",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Sequências Numéricas",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Observe a sequência lógica: 4, 9, 16, 25, 36, ... O próximo termo dessa sequência é:",
+    "options": [
+      { "id": "A", "text": "45" },
+      { "id": "B", "text": "47" },
+      { "id": "C", "text": "49" },
+      { "id": "D", "text": "50" },
+      { "id": "E", "text": "54" }
+    ],
+    "correctOption": "C",
+    "explanation": "A sequência é formada pelos quadrados de números inteiros sucessivos a partir do 2: 2² = 4, 3² = 9, 4² = 16, 5² = 25, 6² = 36. O próximo termo é 7² = 49."
+  },
+  {
+    "id": "rlm-b-03",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Regra de Três Simples",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Três impressoras digitais idênticas imprimem 1.200 páginas em 40 minutos. Quantas páginas cinco dessas impressoras imprimiriam no mesmo intervalo de tempo?",
+    "options": [
+      { "id": "A", "text": "1.800 páginas." },
+      { "id": "B", "text": "2.000 páginas." },
+      { "id": "C", "text": "2.200 páginas." },
+      { "id": "D", "text": "2.400 páginas." },
+      { "id": "E", "text": "2.500 páginas." }
+    ],
+    "correctOption": "B",
+    "explanation": "3 impressoras -> 1.200 páginas (ou seja, 1 impressora imprime 1.200 / 3 = 400 páginas). Logo, 5 impressoras imprimem 5 × 400 = 2.000 páginas."
+  },
+  {
+    "id": "rlm-b-04",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Porcentagem",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O valor da taxa de inscrição de um concurso é de R$ 100,00. Quem pagar com desconto especial de 15% pagará:",
+    "options": [
+      { "id": "A", "text": "R$ 75,00" },
+      { "id": "B", "text": "R$ 80,00" },
+      { "id": "C", "text": "R$ 85,00" },
+      { "id": "D", "text": "R$ 90,00" },
+      { "id": "E", "text": "R$ 95,00" }
+    ],
+    "correctOption": "C",
+    "explanation": "Desconto de 15% sobre R$ 100,00 = 0,15 × 100 = R$ 15,00. Valor a pagar = 100 - 15 = R$ 85,00."
+  },
+  {
+    "id": "rlm-b-05",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Estatística Básica (Média Aritmética)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "As notas de um candidato em 4 simulados preparatórios foram: 68, 74, 82 e 76. A média aritmética das notas obtidas foi de:",
+    "options": [
+      { "id": "A", "text": "73,5" },
+      { "id": "B", "text": "74,0" },
+      { "id": "C", "text": "75,0" },
+      { "id": "D", "text": "76,5" },
+      { "id": "E", "text": "77,0" }
+    ],
+    "correctOption": "C",
+    "explanation": "Soma das notas = 68 + 74 + 82 + 76 = 300. Dividindo por 4 = 300 / 4 = 75,0."
+  },
+  {
+    "id": "rlm-b-06",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Cálculo de Área de Retângulo",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Uma sala administrativa possui formato retangular com 8 metros de comprimento e 5,5 metros de largura. A área total dessa sala é de:",
+    "options": [
+      { "id": "A", "text": "40 m²" },
+      { "id": "B", "text": "42 m²" },
+      { "id": "C", "text": "44 m²" },
+      { "id": "D", "text": "46 m²" },
+      { "id": "E", "text": "48 m²" }
+    ],
+    "correctOption": "C",
+    "explanation": "Área do retângulo = comprimento × largura = 8 × 5,5 = 44 m²."
+  },
+  {
+    "id": "rlm-b-07",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Estatística Básica (Moda e Mediana)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Considere o conjunto ordenado de idades de 7 candidatos: {21, 23, 23, 27, 29, 31, 35}. A mediana e a moda dessas idades são, respectivamente:",
+    "options": [
+      { "id": "A", "text": "27 e 23" },
+      { "id": "B", "text": "23 e 27" },
+      { "id": "C", "text": "25 e 23" },
+      { "id": "D", "text": "27 e 29" },
+      { "id": "E", "text": "23 e 31" }
+    ],
+    "correctOption": "A",
+    "explanation": "A mediana é o elemento central em rol ordenado de 7 elementos: o 4º elemento é 27. A moda é o valor mais frequente: 23 (aparece 2 vezes)."
+  },
+  {
+    "id": "rlm-b-08",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Noções de Direção e Orientação",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Um entregador sai da sede da prefeitura caminhando 300 metros para o Norte, depois vira 90 graus à sua direita e anda 400 metros. Em que direção ele caminhou no segundo trecho?",
+    "options": [
+      { "id": "A", "text": "Sul." },
+      { "id": "B", "text": "Oeste." },
+      { "id": "C", "text": "Leste." },
+      { "id": "D", "text": "Noroeste." },
+      { "id": "E", "text": "Sudeste." }
+    ],
+    "correctOption": "C",
+    "explanation": "Quem está virado para o Norte e gira 90 graus no sentido horário (à sua direita) passa a caminhar na direção Leste."
+  },
+  {
+    "id": "rlm-b-09",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Razão e Proporção Simples",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Em uma repartição pública com 60 funcionários, a razão entre o número de homens e o número de mulheres é de 2 para 3. Quantas mulheres trabalham nessa repartição?",
+    "options": [
+      { "id": "A", "text": "24 mulheres." },
+      { "id": "B", "text": "30 mulheres." },
+      { "id": "C", "text": "36 mulheres." },
+      { "id": "D", "text": "40 mulheres." },
+      { "id": "E", "text": "42 mulheres." }
+    ],
+    "correctOption": "C",
+    "explanation": "A proporção é de 2 partes de homens para 3 partes de mulheres, totalizando 2 + 3 = 5 partes. Cada parte vale 60 / 5 = 12 funcionários. O número de mulheres é 3 × 12 = 36."
+  },
+  {
+    "id": "rlm-b-10",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Probabilidade Simples",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Uma urna contém 12 bolas numeradas de 1 a 12. Retirando-se aleatoriamente uma bola, qual a probabilidade de o número sorteado ser par?",
+    "options": [
+      { "id": "A", "text": "1/4" },
+      { "id": "B", "text": "1/3" },
+      { "id": "C", "text": "1/2 (50%)" },
+      { "id": "D", "text": "2/3" },
+      { "id": "E", "text": "5/12" }
+    ],
+    "correctOption": "C",
+    "explanation": "Números pares de 1 a 12: {2, 4, 6, 8, 10, 12}, total de 6 casos favoráveis. Probabilidade = 6 / 12 = 1/2 = 50%."
+  },
+  {
+    "id": "rlm-b-11",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Sequências de Letras do Alfabeto",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Considere a sequência alfabética: B, E, H, K, N, ... Qual é a próxima letra da sequência?",
+    "options": [
+      { "id": "A", "text": "O" },
+      { "id": "B", "text": "P" },
+      { "id": "C", "text": "Q" },
+      { "id": "D", "text": "R" },
+      { "id": "E", "text": "S" }
+    ],
+    "correctOption": "C",
+    "explanation": "A posição das letras no alfabeto avança de 3 em 3: B (2), E (5), H (8), K (11), N (14). A próxima posição é 14 + 3 = 17, que corresponde à letra Q."
+  },
+  {
+    "id": "rlm-b-12",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Perímetro de Figuras Geométricas",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Um terreno quadrado possui área de 144 m². O perímetro desse terreno é igual a:",
+    "options": [
+      { "id": "A", "text": "24 metros." },
+      { "id": "B", "text": "36 metros." },
+      { "id": "C", "text": "48 metros." },
+      { "id": "D", "text": "52 metros." },
+      { "id": "E", "text": "60 metros." }
+    ],
+    "correctOption": "C",
+    "explanation": "Lado do quadrado = √144 = 12 metros. O perímetro é a soma dos 4 lados: 4 × 12 = 48 metros."
+  },
+  {
+    "id": "rlm-b-13",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Cálculo de Área de Triângulo",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um canteiro triangular no pátio público possui base medindo 6 metros e altura relativa medindo 4 metros. A área desse canteiro é:",
+    "options": [
+      { "id": "A", "text": "10 m²" },
+      { "id": "B", "text": "12 m²" },
+      { "id": "C", "text": "16 m²" },
+      { "id": "D", "text": "24 m²" },
+      { "id": "E", "text": "28 m²" }
+    ],
+    "correctOption": "B",
+    "explanation": "Área do triângulo = (base × altura) / 2 = (6 × 4) / 2 = 24 / 2 = 12 m²."
+  },
+  {
+    "id": "rlm-b-14",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Comprimento da Circunferência",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Adotando π = 3,14, qual é o comprimento aproximado de uma praça circular cujo raio mede 10 metros?",
+    "options": [
+      { "id": "A", "text": "31,4 metros." },
+      { "id": "B", "text": "62,8 metros." },
+      { "id": "C", "text": "94,2 metros." },
+      { "id": "D", "text": "125,6 metros." },
+      { "id": "E", "text": "314,0 metros." }
+    ],
+    "correctOption": "B",
+    "explanation": "Comprimento da circunferência C = 2 × π × r = 2 × 3,14 × 10 = 62,8 metros."
+  },
+  {
+    "id": "rlm-b-15",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Matemática Financeira (Juros Simples)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um capital de R$ 2.000,00 foi aplicado a juros simples com taxa de 2% ao mês durante 5 meses. O valor total dos juros produzidos é de:",
+    "options": [
+      { "id": "A", "text": "R$ 100,00" },
+      { "id": "B", "text": "R$ 150,00" },
+      { "id": "C", "text": "R$ 200,00" },
+      { "id": "D", "text": "R$ 250,00" },
+      { "id": "E", "text": "R$ 300,00" }
+    ],
+    "correctOption": "C",
+    "explanation": "J = C × i × t = 2000 × 0,02 × 5 = 2000 × 0,10 = R$ 200,00."
+  },
+  {
+    "id": "rlm-b-16",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Resolução de Problemas com Conjuntos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em um grupo de 40 servidores, 25 gostam de café, 20 gostam de chá e 10 gostam de ambas as bebidas. Quantos servidores não gostam de nenhuma dessas duas bebidas?",
+    "options": [
+      { "id": "A", "text": "3 servidores." },
+      { "id": "B", "text": "5 servidores." },
+      { "id": "C", "text": "7 servidores." },
+      { "id": "D", "text": "8 servidores." },
+      { "id": "E", "text": "10 servidores." }
+    ],
+    "correctOption": "B",
+    "explanation": "União dos que gostam de ao menos uma bebida = n(Café) + n(Chá) - n(Café ∩ Chá) = 25 + 20 - 10 = 35 servidores. Aqueles que não gostam de nenhuma = 40 - 35 = 5 servidores."
+  },
+  {
+    "id": "rlm-b-17",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Grandezas Inversamente Proporcionais",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um veículo viajando a uma velocidade constante de 60 km/h realiza determinado percurso em 4 horas. Se a velocidade aumentasse para 80 km/h, o mesmo percurso seria feito em:",
+    "options": [
+      { "id": "A", "text": "2 horas e 30 minutos." },
+      { "id": "B", "text": "3 horas." },
+      { "id": "C", "text": "3 horas e 15 minutos." },
+      { "id": "D", "text": "3 horas e 30 minutos." },
+      { "id": "E", "text": "5 horas." }
+    ],
+    "correctOption": "B",
+    "explanation": "A distância percorrida é D = 60 km/h × 4 h = 240 km. Com velocidade de 80 km/h, o tempo será t = 240 / 80 = 3 horas."
+  },
+  {
+    "id": "rlm-b-18",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Sequências Lógicas com Alternância de Operações",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Observe o padrão: 3, 6, 5, 10, 9, 18, 17, ... O próximo número é:",
+    "options": [
+      { "id": "A", "text": "16" },
+      { "id": "B", "text": "24" },
+      { "id": "C", "text": "34" },
+      { "id": "D", "text": "35" },
+      { "id": "E", "text": "36" }
+    ],
+    "correctOption": "C",
+    "explanation": "A regra alterna entre multiplicar por 2 e subtrair 1: 3 × 2 = 6; 6 - 1 = 5; 5 × 2 = 10; 10 - 1 = 9; 9 × 2 = 18; 18 - 1 = 17; próximo: 17 × 2 = 34."
+  },
+  {
+    "id": "rlm-b-19",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Arredondamentos e Estimativas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O custo de uma licitação foi estimado em R$ 487.649,80. Arredondando esse valor para a centena de milhar mais próxima, obtém-se:",
+    "options": [
+      { "id": "A", "text": "R$ 400.000,00" },
+      { "id": "B", "text": "R$ 480.000,00" },
+      { "id": "C", "text": "R$ 490.000,00" },
+      { "id": "D", "text": "R$ 500.000,00" },
+      { "id": "E", "text": "R$ 600.000,00" }
+    ],
+    "correctOption": "D",
+    "explanation": "O dígito na ordem das dezenas de milhar é 8 (maior ou igual a 5), portanto arredonda-se para cima para a centena de milhar mais próxima: 500.000."
+  },
+  {
+    "id": "rlm-b-20",
+    "subject": "raciocinio_logico",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Interpretação de Tabelas",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Uma tabela mostra atendimentos em 3 dias: Segunda (120), Terça (150) e Quarta (180). Qual o percentual de atendimentos na Terça em relação ao total dos três dias?",
+    "options": [
+      { "id": "A", "text": "25%" },
+      { "id": "B", "text": "30%" },
+      { "id": "C", "text": "33,33%" },
+      { "id": "D", "text": "35%" },
+      { "id": "E", "text": "40%" }
+    ],
+    "correctOption": "C",
+    "explanation": "Total = 120 + 150 + 180 = 450 atendimentos. Percentual de terça = 150 / 450 = 1/3 ≈ 33,33%."
+  },
+  {
+    "id": "rlm-i-01",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Regra de Três Composta",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Se 6 agentes administrativos arquivam 360 pastas trabalhando 4 horas por dia durante 3 dias, quantas pastas 8 agentes arquivariam trabalhando 5 horas por dia durante 4 dias com a mesma eficiência?",
+    "options": [
+      { "id": "A", "text": "640 pastas." },
+      { "id": "B", "text": "720 pastas." },
+      { "id": "C", "text": "800 pastas." },
+      { "id": "D", "text": "840 pastas." },
+      { "id": "E", "text": "900 pastas." }
+    ],
+    "correctOption": "C",
+    "explanation": "Total de horas-homem no primeiro caso = 6 agentes × 4 h/dia × 3 dias = 72 horas-homem para 360 pastas (ou seja, 360 / 72 = 5 pastas por hora-homem). No segundo caso = 8 agentes × 5 h/dia × 4 dias = 160 horas-homem. Pastas = 160 × 5 = 800 pastas."
+  },
+  {
+    "id": "rlm-i-02",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Teorema de Tales",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Três retas paralelas r, s e t são cortadas por duas transversais. Na primeira transversal, os segmentos medem 6 cm e 9 cm. Na segunda transversal, o segmento correspondente a 6 cm mede 8 cm. Quanto mede o segmento correspondente a 9 cm?",
+    "options": [
+      { "id": "A", "text": "10 cm." },
+      { "id": "B", "text": "11 cm." },
+      { "id": "C", "text": "12 cm." },
+      { "id": "D", "text": "13,5 cm." },
+      { "id": "E", "text": "15 cm." }
+    ],
+    "correctOption": "C",
+    "explanation": "Pelo Teorema de Tales, as razões entre segmentos correspondentes são iguais: 6 / 9 = 8 / x => 6x = 72 => x = 12 cm."
+  },
+  {
+    "id": "rlm-i-03",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lógica Proposicional (Negação de Proposição Composta)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Qual é a negação lógica da proposição: 'O candidato estudou muito e foi aprovado no concurso'?",
+    "options": [
+      { "id": "A", "text": "O candidato não estudou muito e não foi aprovado no concurso." },
+      { "id": "B", "text": "O candidato estudou muito ou foi aprovado no concurso." },
+      { "id": "C", "text": "O candidato não estudou muito ou não foi aprovado no concurso." },
+      { "id": "D", "text": "Se o candidato não estudou, então não foi aprovado." },
+      { "id": "E", "text": "O candidato foi aprovado, mas não estudou." }
+    ],
+    "correctOption": "C",
+    "explanation": "Pelas Leis de De Morgan, a negação de uma conjunção ~(P ∧ Q) equivale a (~P ∨ ~Q): nega-se a primeira, troca-se 'e' por 'ou' e nega-se a segunda."
+  },
+  {
+    "id": "rlm-i-04",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Probabilidade de Eventos Independentes",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em dois lançamentos sucessivos de um dado honesto de seis faces, qual é a probabilidade de sair o número 5 no primeiro lançamento e um número par no segundo lançamento?",
+    "options": [
+      { "id": "A", "text": "1/12" },
+      { "id": "B", "text": "1/6" },
+      { "id": "C", "text": "1/4" },
+      { "id": "D", "text": "1/36" },
+      { "id": "E", "text": "5/36" }
+    ],
+    "correctOption": "A",
+    "explanation": "Como os lançamentos são independentes, multiplicam-se as probabilidades: P(5) = 1/6; P(par) = 3/6 = 1/2. P(5 e par) = (1/6) × (1/2) = 1/12."
+  },
+  {
+    "id": "rlm-i-05",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Equivalência Lógica do Condicional",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma proposição logicamente equivalente a 'Se o servidor agir com probidade, então será promovido' é:",
+    "options": [
+      { "id": "A", "text": "Se o servidor não for promovido, então não agiu com probidade." },
+      { "id": "B", "text": "Se o servidor for promovido, então agiu com probidade." },
+      { "id": "C", "text": "O servidor agiu com probidade e não foi promovido." },
+      { "id": "D", "text": "O servidor não age com probidade ou não é promovido." },
+      { "id": "E", "text": "Se o servidor não agir com probidade, não será promovido." }
+    ],
+    "correctOption": "A",
+    "explanation": "Pela contrapositiva (equivalência fundamental do condicional): (P -> Q) ≡ (~Q -> ~P). Logo, 'Se não foi promovido, então não agiu com probidade'."
+  },
+  {
+    "id": "rlm-i-06",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Área de Círculo e Coroa Circular",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Considerando π = 3,14, a área de uma praça circular cujo diâmetro mede 20 metros é de:",
+    "options": [
+      { "id": "A", "text": "62,8 m²" },
+      { "id": "B", "text": "125,6 m²" },
+      { "id": "C", "text": "314,0 m²" },
+      { "id": "D", "text": "628,0 m²" },
+      { "id": "E", "text": "1.256,0 m²" }
+    ],
+    "correctOption": "C",
+    "explanation": "Se o diâmetro é 20 m, o raio é r = 10 m. Área = π × r² = 3,14 × 10² = 3,14 × 100 = 314 m²."
+  },
+  {
+    "id": "rlm-i-07",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Aumentos e Descontos Sucessivos",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um produto sofreu um aumento de 20% no mês de janeiro e, em fevereiro, um desconto de 20% sobre o novo preço. Em relação ao preço original antes dos dois ajustes, o produto ficou:",
+    "options": [
+      { "id": "A", "text": "Com o mesmo preço." },
+      { "id": "B", "text": "4% mais barato." },
+      { "id": "C", "text": "4% mais caro." },
+      { "id": "D", "text": "2% mais barato." },
+      { "id": "E", "text": "1% mais caro." }
+    ],
+    "correctOption": "B",
+    "explanation": "Fator acumulado = (1 + 0,20) × (1 - 0,20) = 1,20 × 0,80 = 0,96, ou seja, 96% do valor original, correspondendo a uma redução líquida de 4%."
+  },
+  {
+    "id": "rlm-i-08",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Análise Combinatória (Princípio Fundamental da Contagem)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Para acessar o sistema de protocolo, o agente deve cadastrar uma senha composta por 2 letras distintas seguidas de 3 dígitos distintos (de 0 a 9). Considerando o alfabeto de 26 letras, quantas senhas distintas podem ser criadas?",
+    "options": [
+      { "id": "A", "text": "468.000 senhas." },
+      { "id": "B", "text": "472.500 senhas." },
+      { "id": "C", "text": "500.000 senhas." },
+      { "id": "D", "text": "520.000 senhas." },
+      { "id": "E", "text": "650.000 senhas." }
+    ],
+    "correctOption": "A",
+    "explanation": "Possibilidades para letras: 26 × 25 = 650. Possibilidades para dígitos: 10 × 9 × 8 = 720. Total = 650 × 720 = 468.000 senhas."
+  },
+  {
+    "id": "rlm-i-09",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Problemas com Frações e Equações de 1º Grau",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um agente gastou 1/3 do seu salário com aluguel e 2/5 do que sobrou com alimentação. Se ainda lhe restaram R$ 1.600,00, qual é o valor do seu salário?",
+    "options": [
+      { "id": "A", "text": "R$ 3.600,00" },
+      { "id": "B", "text": "R$ 4.000,00" },
+      { "id": "C", "text": "R$ 4.200,00" },
+      { "id": "D", "text": "R$ 4.500,00" },
+      { "id": "E", "text": "R$ 4.800,00" }
+    ],
+    "correctOption": "B",
+    "explanation": "Após o aluguel, sobra 1 - 1/3 = 2/3. Gasta 2/5 de 2/3 com alimentação = 4/15 do salário. Resta: 2/3 - 4/15 = 10/15 - 4/15 = 6/15 = 2/5 do salário. Se 2/5 do salário = 1.600 => Salário = (1.600 × 5) / 2 = 4.000 reais."
+  },
+  {
+    "id": "rlm-i-10",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Probabilidade da União de Eventos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em um concurso com 100 candidatos, 40 estudaram Legislação, 50 estudaram Português e 20 estudaram ambas as matérias. Escolhendo ao acaso um candidato, qual a probabilidade de ele ter estudado Legislação OU Português?",
+    "options": [
+      { "id": "A", "text": "0,50" },
+      { "id": "B", "text": "0,70" },
+      { "id": "C", "text": "0,80" },
+      { "id": "D", "text": "0,90" },
+      { "id": "E", "text": "0,60" }
+    ],
+    "correctOption": "B",
+    "explanation": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 40/100 + 50/100 - 20/100 = 70/100 = 0,70 (70%)."
+  },
+  {
+    "id": "rlm-i-11",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Conversão de Unidades de Superfície",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma área desapropriada pelo município mede 2,5 hectares (ha). Sabendo que 1 hectare equivale a 10.000 m², essa área em metros quadrados corresponde a:",
+    "options": [
+      { "id": "A", "text": "2.500 m²" },
+      { "id": "B", "text": "25.000 m²" },
+      { "id": "C", "text": "250.000 m²" },
+      { "id": "D", "text": "250 m²" },
+      { "id": "E", "text": "50.000 m²" }
+    ],
+    "correctOption": "B",
+    "explanation": "2,5 ha × 10.000 m²/ha = 25.000 m²."
+  },
+  {
+    "id": "rlm-i-12",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Negação do Quantificador Todo",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A negação da proposição categórica 'Todo servidor público municipal é pontual' é dada por:",
+    "options": [
+      { "id": "A", "text": "Nenhum servidor público municipal é pontual." },
+      { "id": "B", "text": "Algum servidor público municipal não é pontual." },
+      { "id": "C", "text": "Todo servidor público municipal é impontual." },
+      { "id": "D", "text": "Se alguém é servidor, então não é pontual." },
+      { "id": "E", "text": "Ninguém no serviço público é pontual." }
+    ],
+    "correctOption": "B",
+    "explanation": "A negação lógica de 'Todo A é B' não é 'Nenhum A é B', mas sim a existência de pelo menos um contraexemplo: 'Pelo menos um / Algum / Existe servidor que não é pontual'."
+  },
+  {
+    "id": "rlm-i-13",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Divisão Proporcional",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma gratificação de R$ 3.600,00 foi dividida entre dois servidores de forma diretamente proporcional ao tempo de serviço de cada um no setor: 2 anos e 4 anos. Aquele que tem 4 anos recebeu:",
+    "options": [
+      { "id": "A", "text": "R$ 1.200,00" },
+      { "id": "B", "text": "R$ 1.800,00" },
+      { "id": "C", "text": "R$ 2.400,00" },
+      { "id": "D", "text": "R$ 2.600,00" },
+      { "id": "E", "text": "R$ 2.800,00" }
+    ],
+    "correctOption": "C",
+    "explanation": "Soma das partes = 2 + 4 = 6 partes. Valor por parte = 3.600 / 6 = R$ 600,00. O servidor com 4 anos recebe: 4 × 600 = R$ 2.400,00."
+  },
+  {
+    "id": "rlm-i-14",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Estatística (Variância e Desvio Conceitual)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em um concurso, os grupos A e B obtiveram a mesma média aritmética de 70 pontos nas provas. Contudo, o desvio-padrão do grupo A foi 3 e o do grupo B foi 12. Isso indica que:",
+    "options": [
+      { "id": "A", "text": "O grupo B foi mais homogêneo que o grupo A." },
+      { "id": "B", "text": "O grupo A foi mais homogêneo e com menor dispersão de notas que o grupo B." },
+      { "id": "C", "text": "Ambos os grupos apresentaram idêntica variabilidade." },
+      { "id": "D", "text": "A mediana do grupo B é necessariamente 82." },
+      { "id": "E", "text": "Nenhum candidato do grupo A tirou nota inferior a 70." }
+    ],
+    "correctOption": "B",
+    "explanation": "O desvio-padrão mede a dispersão dos dados em torno da média. Quanto menor o desvio-padrão (3 vs 12), mais concentradas estão as notas e mais homogêneo é o conjunto."
+  },
+  {
+    "id": "rlm-i-15",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Problemas de Torneiras e Vazões",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma torneira enche um reservatório de água em 3 horas e outra torneira o enche em 6 horas. Abrindo-se ambas simultaneamente, o reservatório ficará totalmente cheio em:",
+    "options": [
+      { "id": "A", "text": "1 hora." },
+      { "id": "B", "text": "1 hora e 30 minutos." },
+      { "id": "C", "text": "2 horas." },
+      { "id": "D", "text": "2 horas e 30 minutos." },
+      { "id": "E", "text": "4 horas e 30 minutos." }
+    ],
+    "correctOption": "C",
+    "explanation": "Em 1 hora, a primeira torneira enche 1/3 e a segunda enche 1/6 do tanque. Juntas enchem 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 do tanque por hora. Logo, o tempo total é de 2 horas."
+  },
+  {
+    "id": "rlm-i-16",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Sequência Lógica de Figuras e Matrizes",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em uma sequência de giros de um ponteiro sobre um mostrador octogonal (8 posições), o ponteiro parte da posição 1 e salta: 1 posição, depois 2 posições, depois 3 posições, depois 4 posições. O número de posições saltadas no 5º passo é:",
+    "options": [
+      { "id": "A", "text": "4" },
+      { "id": "B", "text": "5" },
+      { "id": "C", "text": "6" },
+      { "id": "D", "text": "7" },
+      { "id": "E", "text": "8" }
+    ],
+    "correctOption": "B",
+    "explanation": "A série de passos incrementa uma unidade a cada iteração: 1, 2, 3, 4, 5 posições."
+  },
+  {
+    "id": "rlm-i-17",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Relação de Pertinência e Inclusão",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Se o conjunto A tem 5 elementos e o conjunto B tem 7 elementos, e sabendo que A ∩ B possui 3 elementos, quantos elementos possui o conjunto A ∪ B?",
+    "options": [
+      { "id": "A", "text": "8 elementos." },
+      { "id": "B", "text": "9 elementos." },
+      { "id": "C", "text": "10 elementos." },
+      { "id": "D", "text": "11 elementos." },
+      { "id": "E", "text": "12 elementos." }
+    ],
+    "correctOption": "B",
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B) = 5 + 7 - 3 = 9 elementos."
+  },
+  {
+    "id": "rlm-i-18",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Diagramas de Venn e Dedução",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Sabe-se que: 'Algum curitibano é servidor público' e 'Todo servidor público tem direitos estatutários'. Logo, é uma conclusão logicamente necessária:",
+    "options": [
+      { "id": "A", "text": "Todo curitibano tem direitos estatutários." },
+      { "id": "B", "text": "Algum curitibano tem direitos estatutários." },
+      { "id": "C", "text": "Nenhum curitibano tem direitos estatutários." },
+      { "id": "D", "text": "Quem tem direitos estatutários é necessariamente curitibano." },
+      { "id": "E", "text": "Nenhum servidor público é curitibano." }
+    ],
+    "correctOption": "B",
+    "explanation": "Aquele subgrupo de curitibanos que pertence ao conjunto dos servidores públicos obrigatoriamente possui direitos estatutários, logo 'Algum curitibano tem direitos estatutários'."
+  },
+  {
+    "id": "rlm-i-19",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Geometria Plana (Trapézio)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um terreno em formato de trapézio possui base maior medindo 18 metros, base menor medindo 12 metros e altura de 10 metros. Sua área total é:",
+    "options": [
+      { "id": "A", "text": "120 m²" },
+      { "id": "B", "text": "140 m²" },
+      { "id": "C", "text": "150 m²" },
+      { "id": "D", "text": "180 m²" },
+      { "id": "E", "text": "300 m²" }
+    ],
+    "correctOption": "C",
+    "explanation": "Área do trapézio = [(Base Maior + Base Menor) × Altura] / 2 = [(18 + 12) × 10] / 2 = (30 × 10) / 2 = 300 / 2 = 150 m²."
+  },
+  {
+    "id": "rlm-i-20",
+    "subject": "raciocinio_logico",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Juros Simples com Montante",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Qual o montante gerado por um capital de R$ 5.000,00 aplicado a uma taxa de juros simples de 1,5% ao mês durante 8 meses?",
+    "options": [
+      { "id": "A", "text": "R$ 5.400,00" },
+      { "id": "B", "text": "R$ 5.600,00" },
+      { "id": "C", "text": "R$ 5.800,00" },
+      { "id": "D", "text": "R$ 6.000,00" },
+      { "id": "E", "text": "R$ 6.200,00" }
+    ],
+    "correctOption": "B",
+    "explanation": "J = 5000 × 0,015 × 8 = 5000 × 0,12 = R$ 600,00 de juros. Montante M = Capital + Juros = 5000 + 600 = R$ 5.600,00."
+  },
+  {
+    "id": "rlm-a-01",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Probabilidade Condicional e Teorema de Bayes",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Em um lote com 50 processos administrativos, 30 são de Curitiba e 20 são da Região Metropolitana. Sabe-se que 10% dos processos de Curitiba contêm erros cadastrais e 20% dos da Região Metropolitana contêm erros. Retirando-se um processo ao acaso, verificou-se que ele continha erro cadastral. Qual é a probabilidade de ele ser de Curitiba?",
+    "options": [
+      { "id": "A", "text": "3/7 (aproximadamente 42,8%)" },
+      { "id": "B", "text": "4/7 (aproximadamente 57,1%)" },
+      { "id": "C", "text": "1/2 (50%)" },
+      { "id": "D", "text": "3/10 (30%)" },
+      { "id": "E", "text": "2/5 (40%)" }
+    ],
+    "correctOption": "A",
+    "explanation": "Processos de Curitiba com erro: 30 × 0,10 = 3 processos. Processos da RM com erro: 20 × 0,20 = 4 processos. Total de processos com erro = 3 + 4 = 7. A probabilidade de ser de Curitiba dado que tem erro é P(C|Erro) = 3 / 7 ≈ 42,85%."
+  },
+  {
+    "id": "rlm-a-02",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Tabela-Verdade e Tautologia",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Considere a proposição composta: [(P -> Q) ∧ P] -> Q. Essa proposição caracteriza-se formalmente como uma:",
+    "options": [
+      { "id": "A", "text": "Contradição pura." },
+      { "id": "B", "text": "Contingência simples." },
+      { "id": "C", "text": "Tautologia (sempre verdadeira, correspondente à regra do Modus Ponens)." },
+      { "id": "D", "text": "Falácia da afirmação do consequente." },
+      { "id": "E", "text": "Inconsistência sintática." }
+    ],
+    "correctOption": "C",
+    "explanation": "Esta fórmula representa o célebre argumento dedutivo 'Modus Ponens' em forma de condicional. Qualquer que seja o valor lógico de P e Q, a proposição inteira resultará sempre em Verdadeiro (V), caracterizando uma tautologia."
+  },
+  {
+    "id": "rlm-a-03",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Análise Combinatória (Combinação Simples)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Uma comissão de processo administrativo disciplinar (PAD) deve ser formada por 3 servidores titulares escolhidos entre um grupo de 8 servidores estáveis. De quantas maneiras distintas essa comissão pode ser constituída?",
+    "options": [
+      { "id": "A", "text": "24 maneiras." },
+      { "id": "B", "text": "56 maneiras." },
+      { "id": "C", "text": "112 maneiras." },
+      { "id": "D", "text": "336 maneiras." },
+      { "id": "E", "text": "512 maneiras." }
+    ],
+    "correctOption": "B",
+    "explanation": "A ordem dos membros na comissão não altera sua composição, tratando-se de Combinação simples C(8, 3) = (8 × 7 × 6) / (3 × 2 × 1) = 336 / 6 = 56 maneiras distintas."
+  },
+  {
+    "id": "rlm-a-04",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Sequências Recorrentes e Progressões",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma Progressão Aritmética (P.A.) possui o primeiro termo a₁ = 7 e razão r = 4. O vigésimo termo (a₂₀) dessa progressão é:",
+    "options": [
+      { "id": "A", "text": "80" },
+      { "id": "B", "text": "83" },
+      { "id": "C", "text": "87" },
+      { "id": "D", "text": "91" },
+      { "id": "E", "text": "95" }
+    ],
+    "correctOption": "B",
+    "explanation": "Termo geral da P.A.: a_n = a₁ + (n - 1) × r => a₂₀ = 7 + (20 - 1) × 4 = 7 + 19 × 4 = 7 + 76 = 83."
+  },
+  {
+    "id": "rlm-a-05",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Geometria Espacial Básica (Volume de Prisma)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Uma caixa d'água em formato de paralelepípedo retângulo possui dimensões internas de 2 metros de comprimento, 1,5 metro de largura e 1,2 metro de altura. A capacidade volumétrica dessa caixa em litros é de:",
+    "options": [
+      { "id": "A", "text": "1.800 litros." },
+      { "id": "B", "text": "2.400 litros." },
+      { "id": "C", "text": "3.600 litros." },
+      { "id": "D", "text": "4.200 litros." },
+      { "id": "E", "text": "5.000 litros." }
+    ],
+    "correctOption": "C",
+    "explanation": "Volume V = 2 × 1,5 × 1,2 = 3,6 m³. Como 1 m³ = 1.000 litros, a capacidade é de 3,6 × 1.000 = 3.600 litros."
+  },
+  {
+    "id": "rlm-a-06",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lógica de Argumentação (Silogismos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Considere verdadeiras as premissas:\n1. Se o prazo decadencial expirar, o direito se extingue.\n2. Se o direito se extingue, o pedido não é apreciado.\n3. O pedido foi apreciado pelo órgão.\nConclui-se logicamente que:",
+    "options": [
+      { "id": "A", "text": "O prazo decadencial expirou." },
+      { "id": "B", "text": "O direito foi extinto." },
+      { "id": "C", "text": "O prazo decadencial não expirou e o direito não se extinguiu." },
+      { "id": "D", "text": "O requerente perdeu a causa no mérito." },
+      { "id": "E", "text": "A autoridade julgadora foi omissa." }
+    ],
+    "correctOption": "C",
+    "explanation": "Pela premissa 3, 'O pedido foi apreciado'. Pelo Modus Tollens na premissa 2, segue-se que 'o direito NÃO se extinguiu'. Pelo Modus Tollens na premissa 1, conclui-se que 'o prazo decadencial NÃO expirou'."
+  },
+  {
+    "id": "rlm-a-07",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Matemática Financeira (Juros Compostos)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Um investimento de R$ 10.000,00 foi aplicado à taxa de juros compostos de 10% ao ano durante 2 anos. O montante ao final desse período é de:",
+    "options": [
+      { "id": "A", "text": "R$ 12.000,00" },
+      { "id": "B", "text": "R$ 12.100,00" },
+      { "id": "C", "text": "R$ 12.500,00" },
+      { "id": "D", "text": "R$ 13.000,00" },
+      { "id": "E", "text": "R$ 13.310,00" }
+    ],
+    "correctOption": "B",
+    "explanation": "M = C × (1 + i)^t = 10.000 × (1 + 0,10)² = 10.000 × 1,21 = R$ 12.100,00."
+  },
+  {
+    "id": "rlm-a-08",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Equivalência do Bicondicional (Se e Somente Se)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A negação lógica de uma proposição bicondicional 'P se e somente se Q' (P <-> Q) é logicamente equivalente à:",
+    "options": [
+      { "id": "A", "text": "Conjunção (~P ∧ ~Q)." },
+      { "id": "B", "text": "Disjunção exclusiva: 'Ou P ou Q' (P ⊻ Q)." },
+      { "id": "C", "text": "Condicional (~P -> ~Q)." },
+      { "id": "D", "text": "Disjunção inclusiva (P ∨ Q)." },
+      { "id": "E", "text": "Tautologia irrestrita." }
+    ],
+    "correctOption": "B",
+    "explanation": "O bicondicional é verdadeiro quando ambos têm o mesmo valor lógico (V e V, ou F e F). Sua negação é verdadeira exatamente quando têm valores opostos, o que define a disjunção exclusiva (ou... ou)."
+  },
+  {
+    "id": "rlm-a-09",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Princípio da Casa dos Pombos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em um departamento com servidores públicos nascidos nos 12 meses do ano, qual é o número mínimo de servidores que o departamento deve ter para garantir com certeza absoluta que pelo menos 3 deles façam aniversário no mesmo mês?",
+    "options": [
+      { "id": "A", "text": "13 servidores." },
+      { "id": "B", "text": "24 servidores." },
+      { "id": "C", "text": "25 servidores." },
+      { "id": "D", "text": "36 servidores." },
+      { "id": "E", "text": "37 servidores." }
+    ],
+    "correctOption": "C",
+    "explanation": "Pelo Princípio das Gavetas / Casa dos Pombos: no pior cenário possível, teríamos 2 pessoas aniversariando em cada um dos 12 meses (2 × 12 = 24 servidores). O 25º servidor adicionado obrigatoriamente fará aniversário em algum mês que já possui 2 pessoas, garantindo 3 no mesmo mês."
+  },
+  {
+    "id": "rlm-a-10",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Geometria Plana (Triângulo Retângulo e Pitágoras)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Uma rampa de acessibilidade em um prédio público sobe uma altura vertical de 3 metros e possui comprimento horizontal de base de 4 metros. O comprimento reto da rampa (sua hipotenusa) mede:",
+    "options": [
+      { "id": "A", "text": "4,5 metros." },
+      { "id": "B", "text": "5 metros." },
+      { "id": "C", "text": "6 metros." },
+      { "id": "D", "text": "7 metros." },
+      { "id": "E", "text": "8 metros." }
+    ],
+    "correctOption": "B",
+    "explanation": "Pelo Teorema de Pitágoras: h² = 3² + 4² = 9 + 16 = 25 => h = √25 = 5 metros (o célebre triângulo pitagórico 3-4-5)."
+  },
+  {
+    "id": "rlm-a-11",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Permutação com Repetição",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O número de anagramas possíveis que podem ser formados com as letras da palavra 'CURITIBA' é igual a:",
+    "options": [
+      { "id": "A", "text": "10.080" },
+      { "id": "B", "text": "20.160" },
+      { "id": "C", "text": "40.320" },
+      { "id": "D", "text": "5.040" },
+      { "id": "E", "text": "2.520" }
+    ],
+    "correctOption": "B",
+    "explanation": "A palavra CURITIBA possui 8 letras no total, sendo que a letra 'I' repete 2 vezes. Permutação com repetição = 8! / 2! = 40.320 / 2 = 20.160 anagramas."
+  },
+  {
+    "id": "rlm-a-12",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Média Ponderada",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A nota final do concurso é calculada pela média ponderada das 3 provas: Conhecimentos Básicos (peso 2), Específicos (peso 3) e Redação (peso 1). Se o candidato obteve notas 70, 80 e 90, respectivamente, sua nota final é:",
+    "options": [
+      { "id": "A", "text": "76,6" },
+      { "id": "B", "text": "78,3" },
+      { "id": "C", "text": "80,0" },
+      { "id": "D", "text": "81,5" },
+      { "id": "E", "text": "83,3" }
+    ],
+    "correctOption": "B",
+    "explanation": "Soma ponderada = (70 × 2) + (80 × 3) + (90 × 1) = 140 + 240 + 90 = 470. Soma dos pesos = 2 + 3 + 1 = 6. Média = 470 / 6 ≈ 78,33."
+  },
+  {
+    "id": "rlm-a-13",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lógica de Predicados e Diagramas Lógicos Complexos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Se é falso que 'Algum servidor cometeu irregularidade', então é logicamente verdadeiro afirmar que:",
+    "options": [
+      { "id": "A", "text": "Nenhum servidor cometeu irregularidade." },
+      { "id": "B", "text": "Todos os servidores cometeram irregularidade." },
+      { "id": "C", "text": "Pelo menos um servidor foi penalizado." },
+      { "id": "D", "text": "A maioria cometeu irregularidade." },
+      { "id": "E", "text": "Não há elementos suficientes para qualquer inferência." }
+    ],
+    "correctOption": "A",
+    "explanation": "A negação da proposição particular afirmativa ('Existe/Algum A que é B') é a proposição universal negativa ('Nenhum A é B'). Se 'algum cometeu' é falso, 'nenhum cometeu' é verdade."
+  },
+  {
+    "id": "rlm-a-14",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Problemas de Idades e Sistemas Lineares",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A soma das idades de um pai e seu filho hoje é 56 anos. Há 4 anos, a idade do pai era o triplo da idade do filho. Qual é a idade atual do pai?",
+    "options": [
+      { "id": "A", "text": "38 anos." },
+      { "id": "B", "text": "40 anos." },
+      { "id": "C", "text": "42 anos." },
+      { "id": "D", "text": "44 anos." },
+      { "id": "E", "text": "46 anos." }
+    ],
+    "correctOption": "B",
+    "explanation": "Hoje: P + F = 56. Há 4 anos, a soma era 56 - 8 = 48. Como o pai era o triplo do filho: 3x + x = 48 => 4x = 48 => x = 12 (idade do filho há 4 anos). O pai tinha 3 × 12 = 36 anos há 4 anos. Hoje o pai tem 36 + 4 = 40 anos."
+  },
+  {
+    "id": "rlm-a-15",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Cálculo de Área de Círculo e Inscrição em Quadrado",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Um círculo de raio 5 metros está inscrito perfeitamente dentro de um quadrado. Adotando π = 3,14, a área do quadrado que NÃO é coberta pelo círculo (região de sobras nos cantos) mede:",
+    "options": [
+      { "id": "A", "text": "18,5 m²" },
+      { "id": "B", "text": "21,5 m²" },
+      { "id": "C", "text": "25,0 m²" },
+      { "id": "D", "text": "28,5 m²" },
+      { "id": "E", "text": "32,0 m²" }
+    ],
+    "correctOption": "B",
+    "explanation": "Se o raio é 5 m, o lado do quadrado é 2r = 10 m. Área do quadrado = 10² = 100 m². Área do círculo = π × 5² = 3,14 × 25 = 78,5 m². Área não coberta = 100 - 78,5 = 21,5 m²."
+  },
+  {
+    "id": "rlm-a-16",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Verdades e Mentiras (Problemas Lógicos de Agentes)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Três suspeitos de subtrair um processo declaram: Carlos diz: 'Foi o Beto'; Beto diz: 'Carlos está mentindo'; Daniel diz: 'Não fui eu'. Sabendo que apenas um deles disse a verdade e apenas um deles é o culpado, quem é o culpado?",
+    "options": [
+      { "id": "A", "text": "Carlos." },
+      { "id": "B", "text": "Beto." },
+      { "id": "C", "text": "Daniel." },
+      { "id": "D", "text": "Nenhum deles." },
+      { "id": "E", "text": "Não é possível determinar com essas premissas." }
+    ],
+    "correctOption": "C",
+    "explanation": "As declarações de Carlos e Beto são contraditórias, logo uma delas é verdadeira e a outra é falsa. Como só há uma verdade no total, a declaração de Daniel ('Não fui eu') é obrigatoriamente falsa. Se Daniel mentiu ao dizer que não foi ele, então o culpado é Daniel."
+  },
+  {
+    "id": "rlm-a-17",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Teorema do Resto e Aritmética Modular",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Se o dia de hoje é uma terça-feira, daqui a exatamente 100 dias será:",
+    "options": [
+      { "id": "A", "text": "Quarta-feira." },
+      { "id": "B", "text": "Quinta-feira." },
+      { "id": "C", "text": "Sexta-feira." },
+      { "id": "D", "text": "Sábado." },
+      { "id": "E", "text": "Domingo." }
+    ],
+    "correctOption": "B",
+    "explanation": "A semana tem ciclo de 7 dias. Dividindo 100 por 7: 100 = 14 × 7 + 2 (resto 2). Avançando 2 dias a partir de terça-feira: quarta-feira (1), quinta-feira (2)."
+  },
+  {
+    "id": "rlm-a-18",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Progressão Geométrica (P.G.)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O quarto termo de uma Progressão Geométrica de termos positivos é 24 e o sétimo termo é 192. A razão q dessa P.G. é igual a:",
+    "options": [
+      { "id": "A", "text": "2" },
+      { "id": "B", "text": "3" },
+      { "id": "C", "text": "4" },
+      { "id": "D", "text": "5" },
+      { "id": "E", "text": "6" }
+    ],
+    "correctOption": "A",
+    "explanation": "a₇ = a₄ × q³ => 192 = 24 × q³ => q³ = 192 / 24 = 8 => q = ∛8 = 2."
+  },
+  {
+    "id": "rlm-a-19",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Probabilidade de Retirada sem Reposição",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em uma gaveta há 6 canetas azuis e 4 canetas pretas. Retirando-se duas canetas sucessivamente sem reposição, qual a probabilidade de ambas serem azuis?",
+    "options": [
+      { "id": "A", "text": "1/3 (aproximadamente 33,3%)" },
+      { "id": "B", "text": "9/25 (36%)" },
+      { "id": "C", "text": "2/5 (40%)" },
+      { "id": "D", "text": "1/2 (50%)" },
+      { "id": "E", "text": "3/10 (30%)" }
+    ],
+    "correctOption": "A",
+    "explanation": "Primeira azul: 6/10. Segunda azul: 5/9. Probabilidade conjunta = (6/10) × (5/9) = 30 / 90 = 1/3."
+  },
+  {
+    "id": "rlm-a-20",
+    "subject": "raciocinio_logico",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Estimativa e Lógica Dedutiva Quantitativa",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um agente digitalizou 80 documentos em 2 horas. Um colega mais experiente digitaliza 60 documentos em 1 hora. Trabalhando juntos na mesma demanda de 400 documentos, quanto tempo levarão?",
+    "options": [
+      { "id": "A", "text": "3 horas." },
+      { "id": "B", "text": "4 horas." },
+      { "id": "C", "text": "4 horas e 30 minutos." },
+      { "id": "D", "text": "5 horas." },
+      { "id": "E", "text": "5 horas e 30 minutos." }
+    ],
+    "correctOption": "B",
+    "explanation": "O primeiro produz 80 / 2 = 40 doc/h. O segundo produz 60 doc/h. Juntos produzem 40 + 60 = 100 doc/h. Para digitalizar 400 documentos: 400 / 100 = 4 horas."
+  }
+]

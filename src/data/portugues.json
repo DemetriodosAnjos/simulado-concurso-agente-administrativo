@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "port-b-01",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Ortografia e Acentuação",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a alternativa em que todas as palavras estão grafadas e acentuadas corretamente de acordo com o Novo Acordo Ortográfico:",
+    "options": [
+      { "id": "A", "text": "Idéia, jibóia, assembléia." },
+      { "id": "B", "text": "Jiboia, assembleia, plateia." },
+      { "id": "C", "text": "Vôo, perdôo, enjôo." },
+      { "id": "D", "text": "Pára-quedas, pára-raios, auto-estrada." },
+      { "id": "E", "text": "Microondas, ultra-som, anti-social." }
+    ],
+    "correctOption": "B",
+    "explanation": "Com o Novo Acordo Ortográfico, os ditongos abertos 'ei' e 'oi' nas palavras paroxítonas deixaram de receber acento gráfico (jiboia, assembleia, plateia, ideia). As formas em A mantêm o acento extinto; em C, os hiatos 'oo' não são mais acentuados; em D, o hífen em paraquedas caiu; em E, consoantes 's' e 'r' após vogal dobram-se (ultrassom, antissocial)."
+  },
+  {
+    "id": "port-b-02",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Uso dos Porquês",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No trecho: 'Ele não compareceu à reunião ______ estava doente. Não compreendo o ______ de tamanha indiferença', as lacunas devem ser preenchidas, respectivamente, por:",
+    "options": [
+      { "id": "A", "text": "por que / por quê" },
+      { "id": "B", "text": "porque / porquê" },
+      { "id": "C", "text": "por quê / por que" },
+      { "id": "D", "text": "porquê / porque" },
+      { "id": "E", "text": "por que / porque" }
+    ],
+    "correctOption": "B",
+    "explanation": "'Porque' (junto e sem acento) é conjunção causal/explicativa equivalente a 'pois' ou 'já que'. 'Porquê' (junto e com acento) é substantivo com sentido de 'motivo' ou 'razão', sempre precedido de artigo ou determinante ('o porquê')."
+  },
+  {
+    "id": "port-b-03",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Classes de Palavras",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na frase 'O servidor público desempenhou um trabalho exemplar ontem', o termo sublinhado 'exemplar' classifica-se morfologicamente como:",
+    "options": [
+      { "id": "A", "text": "Substantivo comum." },
+      { "id": "B", "text": "Advérbio de modo." },
+      { "id": "C", "text": "Adjetivo." },
+      { "id": "D", "text": "Pronome demonstrativo." },
+      { "id": "E", "text": "Numeral ordinal." }
+    ],
+    "correctOption": "C",
+    "explanation": "'Exemplar' está qualificando o substantivo 'trabalho' ('trabalho exemplar'), funcionando portanto como adjetivo dentro do sintagma nominal."
+  },
+  {
+    "id": "port-b-04",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Divisão Silábica e Encontros Vocálicos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a alternativa que apresenta uma palavra que contém um hiato:",
+    "options": [
+      { "id": "A", "text": "Saúde." },
+      { "id": "B", "text": "Peixe." },
+      { "id": "C", "text": "Caixa." },
+      { "id": "D", "text": "Uruguai." },
+      { "id": "E", "text": "Noite." }
+    ],
+    "correctOption": "A",
+    "explanation": "Na divisão de 'sa-ú-de', as vogais 'a' e 'u' ficam em sílabas separadas, caracterizando um hiato. 'Peixe' e 'caixa' possuem ditongo decrescente; 'Uruguai' possui tritongo."
+  },
+  {
+    "id": "port-b-05",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Semântica (Sinônimos e Antônimos)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a alternativa que apresenta o vocábulo que melhor substitui a palavra 'efêmero' sem alterar o sentido do contexto original:",
+    "options": [
+      { "id": "A", "text": "Perene." },
+      { "id": "B", "text": "Passageiro." },
+      { "id": "C", "text": "Duradouro." },
+      { "id": "D", "text": "Eterno." },
+      { "id": "E", "text": "Imutável." }
+    ],
+    "correctOption": "B",
+    "explanation": "'Efêmero' significa algo de curta duração, transitório, passageiro. 'Perene', 'duradouro', 'eterno' e 'imutável' são seus antônimos."
+  },
+  {
+    "id": "port-b-06",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Sentido Conotativo e Denotativo",
+    "examBoard": "FAFIPA",
+    "year": 2022,
+    "statement": "Assinale a frase em que o termo em destaque foi empregado em sentido conotativo (figurado):",
+    "options": [
+      { "id": "A", "text": "O policial comprou uma chave de metal na loja." },
+      { "id": "B", "text": "A paciência é a chave para o sucesso no concurso." },
+      { "id": "C", "text": "A porta foi trancada com duas voltas da chave." },
+      { "id": "D", "text": "Perdi a chave do armário de arquivos ontem." },
+      { "id": "E", "text": "O chaveiro fez uma cópia idêntica da chave." }
+    ],
+    "correctOption": "B",
+    "explanation": "No item B, 'chave' é usada metaforicamente como 'segredo', 'método indispensável' ou 'solução', caracterizando sentido conotativo (figurado). Nas demais alternativas, trata-se do instrumento físico (sentido denotativo)."
+  },
+  {
+    "id": "port-b-07",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Pontuação",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Indique a alternativa que apresenta pontuação correta:",
+    "options": [
+      { "id": "A", "text": "O prefeito de Curitiba, assinou o novo decreto hoje." },
+      { "id": "B", "text": "Os servidores municipais, solicitaram novas capacitações." },
+      { "id": "C", "text": "Ontem pela manhã, o candidato entregou todos os documentos necessários." },
+      { "id": "D", "text": "Ela comprou: lápis caneta e borracha." },
+      { "id": "E", "text": "Aprovados no concurso comemoraram, com suas famílias." }
+    ],
+    "correctOption": "C",
+    "explanation": "Na alternativa C, a vírgula separa corretamente o adjunto adverbial de tempo deslocado ('Ontem pela manhã'). Nas alternativas A, B e E ocorre erro grave de pontuação: separação do sujeito do predicado por vírgula."
+  },
+  {
+    "id": "port-b-08",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Gêneros e Tipologias Textuais",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Um texto que tem por objetivo relatar uma sequência cronológica de acontecimentos envolvendo personagens em determinado tempo e espaço classifica-se predominantemente como:",
+    "options": [
+      { "id": "A", "text": "Dissertativo-argumentativo." },
+      { "id": "B", "text": "Narrativo." },
+      { "id": "C", "text": "Injuntivo." },
+      { "id": "D", "text": "Descritivo." },
+      { "id": "E", "text": "Expositivo." }
+    ],
+    "correctOption": "B",
+    "explanation": "A tipologia narrativa caracteriza-se pela sucessão temporal de eventos praticados por personagens em um espaço delimitado."
+  },
+  {
+    "id": "port-b-09",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Ortografia Oficial (Dígrafos)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em qual das seguintes palavras encontramos um dígrafo consonantal?",
+    "options": [
+      { "id": "A", "text": "Prato." },
+      { "id": "B", "text": "Folha." },
+      { "id": "C", "text": "Clima." },
+      { "id": "D", "text": "Vidro." },
+      { "id": "E", "text": "Braço." }
+    ],
+    "correctOption": "B",
+    "explanation": "O encontro 'lh' em 'folha' representa duas letras que produzem um único fonema, constituindo um dígrafo consonantal. Em 'prato', 'clima', 'vidro' e 'braço' há encontros consonantais pronunciados distintamente."
+  },
+  {
+    "id": "port-b-10",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Concordância Verbal Simples",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a opção em que a concordância verbal está em conformidade com a norma-padrão:",
+    "options": [
+      { "id": "A", "text": "Houveram muitos recursos contra o gabarito preliminar." },
+      { "id": "B", "text": "Fazem dois meses que o edital foi publicado." },
+      { "id": "C", "text": "Houve muitas dúvidas durante a aplicação da prova." },
+      { "id": "D", "text": "Existe muitas vagas reservadas para agentes." },
+      { "id": "E", "text": "Vai fazerem três dias da homologação." }
+    ],
+    "correctOption": "C",
+    "explanation": "O verbo 'haver' no sentido de 'existir' ou 'acontecer' é impessoal, devendo permanecer sempre na 3ª pessoa do singular ('Houve muitas dúvidas'). 'Fazer' indicando tempo decorrido também é impessoal ('Faz dois meses')."
+  },
+  {
+    "id": "port-b-11",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Plural dos Substantivos Compostos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O plural correto do vocábulo 'guarda-roupa' é:",
+    "options": [
+      { "id": "A", "text": "Guardas-roupa." },
+      { "id": "B", "text": "Guarda-roupas." },
+      { "id": "C", "text": "Guardas-roupas." },
+      { "id": "D", "text": "Guarda-roupa." },
+      { "id": "E", "text": "Guarda-roupazes." }
+    ],
+    "correctOption": "B",
+    "explanation": "Em substantivos compostos formados por verbo + substantivo, apenas o substantivo flexiona no plural: 'guarda' (verbo) + 'roupas' (substantivo) = 'guarda-roupas'."
+  },
+  {
+    "id": "port-b-12",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Acentuação de Monossílabos e Oxítonas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "As palavras 'café', 'cipó' e 'pará' são acentuadas graficamente pela mesma regra que justifica o acento em:",
+    "options": [
+      { "id": "A", "text": "Árvore." },
+      { "id": "B", "text": "Sofá." },
+      { "id": "C", "text": "Lápis." },
+      { "id": "D", "text": "Útil." },
+      { "id": "E", "text": "Tórax." }
+    ],
+    "correctOption": "B",
+    "explanation": "'Café', 'cipó', 'pará' e 'sofá' são oxítonas terminadas em 'a', 'e', 'o' (seguidos ou não de 's'), recebendo acento por essa regra."
+  },
+  {
+    "id": "port-b-13",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Pronomes Demonstrativos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Para se referir a algo que acabou de ser dito no texto anterior, a norma-padrão recomenda o emprego de:",
+    "options": [
+      { "id": "A", "text": "Este." },
+      { "id": "B", "text": "Esse." },
+      { "id": "C", "text": "Aquele." },
+      { "id": "D", "text": "Isto." },
+      { "id": "E", "text": "Destes." }
+    ],
+    "correctOption": "B",
+    "explanation": "O pronome 'esse' (e variações 'essa', 'isso') possui função anafórica, ou seja, retoma termo ou informação já citada anteriormente no texto."
+  },
+  {
+    "id": "port-b-14",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Variação Linguística",
+    "examBoard": "FAFIPA",
+    "year": 2022,
+    "statement": "O uso de gírias e expressões regionais em uma conversa informal entre amigos exemplifica uma variação linguística do tipo:",
+    "options": [
+      { "id": "A", "text": "Diafásica (situacional) e Diatópica (geográfica)." },
+      { "id": "B", "text": "Diacrônica apenas." },
+      { "id": "C", "text": "Norma culta estrita." },
+      { "id": "D", "text": "Jargão forense." },
+      { "id": "E", "text": "Linguagem arcaica." }
+    ],
+    "correctOption": "A",
+    "explanation": "A variação diafásica refere-se ao contexto ou registro (formal vs. informal) e a diatópica refere-se à região geográfica (regionalismos)."
+  },
+  {
+    "id": "port-b-15",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Figuras de Linguagem",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "'O relógio da sala insistia em correr contra nós naquela tarde'. A figura de linguagem presente na frase é:",
+    "options": [
+      { "id": "A", "text": "Metonímia." },
+      { "id": "B", "text": "Personificação (Prosopopeia)." },
+      { "id": "C", "text": "Hipérbole." },
+      { "id": "D", "text": "Eufemismo." },
+      { "id": "E", "text": "Antítese." }
+    ],
+    "correctOption": "B",
+    "explanation": "Atribuir ações e vontades humanas ('insistia em correr contra nós') a seres inanimados (o relógio) constitui prosopopeia ou personificação."
+  },
+  {
+    "id": "port-b-16",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Elementos de Coesão Textual",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na oração 'Estudou com muito afinco, todavia não atingiu a pontuação mínima', o conectivo 'todavia' expressa ideia de:",
+    "options": [
+      { "id": "A", "text": "Adição." },
+      { "id": "B", "text": "Conclusão." },
+      { "id": "C", "text": "Adversidade (oposição)." },
+      { "id": "D", "text": "Explicação." },
+      { "id": "E", "text": "Condição." }
+    ],
+    "correctOption": "C",
+    "explanation": "'Todavia', 'porém', 'contudo', 'entretanto' e 'no entanto' são conjunções coordenativas adversativas que estabelecem relação de contraste ou oposição."
+  },
+  {
+    "id": "port-b-17",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Funções da Linguagem",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Um cartaz governamental com os dizeres: 'Faça sua parte: vacine-se e proteja sua família!' tem como função de linguagem predominante a:",
+    "options": [
+      { "id": "A", "text": "Emotiva." },
+      { "id": "B", "text": "Metalinguística." },
+      { "id": "C", "text": "Conativa (ou Apelativa)." },
+      { "id": "D", "text": "Fática." },
+      { "id": "E", "text": "Poética." }
+    ],
+    "correctOption": "C",
+    "explanation": "A função conativa/apelativa foca no interlocutor, empregando verbos no imperativo ('faça', 'vacine-se') com a finalidade de persuadir ou orientar comportamento."
+  },
+  {
+    "id": "port-b-18",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Sinônimos Contextuais",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A palavra 'imprescindível' é equivalente em significado a:",
+    "options": [
+      { "id": "A", "text": "Dispensável." },
+      { "id": "B", "text": "Secundário." },
+      { "id": "C", "text": "Indispensável." },
+      { "id": "D", "text": "Facultativo." },
+      { "id": "E", "text": "Irrelevante." }
+    ],
+    "correctOption": "C",
+    "explanation": "'Imprescindível' qualifica aquilo do qual não se pode prescindir, isto é, algo estritamente indispensável, vital ou mandatório."
+  },
+  {
+    "id": "port-b-19",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Ortografia (Mal / Mau)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a opção preenchida corretamente com 'mau' ou 'mal':\n'Ele teve um ______ dia no trabalho e foi ______ atendido na recepção.'",
+    "options": [
+      { "id": "A", "text": "mal / mau" },
+      { "id": "B", "text": "mau / mal" },
+      { "id": "C", "text": "mau / mau" },
+      { "id": "D", "text": "mal / mal" },
+      { "id": "E", "text": "mauzinho / malzão" }
+    ],
+    "correctOption": "B",
+    "explanation": "'Mau' é adjetivo, antônimo de 'bom' ('bom dia' -> 'mau dia'). 'Mal' é advérbio de modo, antônimo de 'bem' ('bem atendido' -> 'mal atendido')."
+  },
+  {
+    "id": "port-b-20",
+    "subject": "portugues",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Tipologia Textual (Texto Injuntivo)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Manuais de instruções de aparelhos de informática, editais de concursos e receitas culinárias são exemplos típicos de textos:",
+    "options": [
+      { "id": "A", "text": "Poéticos." },
+      { "id": "B", "text": "Injuntivos (instrucionais)." },
+      { "id": "C", "text": "Argumentativos puros." },
+      { "id": "D", "text": "Dramáticos." },
+      { "id": "E", "text": "Líricos." }
+    ],
+    "correctOption": "B",
+    "explanation": "Textos injuntivos instruem, orientam e prescrevem regras e comandos para a realização de tarefas e cumprimento de normas."
+  },
+  {
+    "id": "port-i-01",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Crase e Regência Verbal",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a frase em que o uso do acento indicativo de crase é obrigatório:",
+    "options": [
+      { "id": "A", "text": "O candidato dirigiu-se a pé até o local da prova." },
+      { "id": "B", "text": "O relatório foi entregue à diretora administrativa." },
+      { "id": "C", "text": "Estamos dispostos a colaborar com todos os setores." },
+      { "id": "D", "text": "Ele começou a redigir a portaria com rapidez." },
+      { "id": "E", "text": "O documento refere-se a uma servidora recém-empossada." }
+    ],
+    "correctOption": "B",
+    "explanation": "Em 'entregue à diretora', o verbo entregar rege a preposição 'a' (entregar algo a alguém) e o substantivo feminino 'diretora' admite o artigo definido 'a', ocorrendo a fusão obrigatória (a + a = à). Não ocorre crase antes de palavra masculina ('a pé'), verbo ('a colaborar', 'a redigir') ou artigo indefinido ('a uma')."
+  },
+  {
+    "id": "port-i-02",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Concordância Verbal com Partícula 'Se'",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a alternativa correta quanto à concordância verbal com a partícula 'se':",
+    "options": [
+      { "id": "A", "text": "Aluga-se salas comerciais para novos órgãos." },
+      { "id": "B", "text": "Precisa-se de novos agentes administrativos no setor." },
+      { "id": "C", "text": "Necessitam-se de mais recursos materiais." },
+      { "id": "D", "text": "Tratam-se de questões prioritárias da gestão." },
+      { "id": "E", "text": "Consertam-se telefone da secretaria municipal." }
+    ],
+    "correctOption": "B",
+    "explanation": "Em 'Precisa-se de novos agentes', o verbo é transitivo indireto acompanhado de pronome indeterminador do sujeito ('se'), ficando obrigatoriamente no singular na 3ª pessoa. Em 'Alugam-se salas', 'salas' é sujeito paciente e exigiria o plural."
+  },
+  {
+    "id": "port-i-03",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Regência do Verbo Assistir",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No sentido de presenciar/ver, o verbo 'assistir' rege preposição 'a'. Qual alternativa atende à norma culta?",
+    "options": [
+      { "id": "A", "text": "Os servidores assistiram o vídeo institucional na íntegra." },
+      { "id": "B", "text": "Todos assistiram ao debate entre os gestores com atenção." },
+      { "id": "C", "text": "Assistiu um excelente treinamento na semana passada." },
+      { "id": "D", "text": "Nós assistimos a cerimônia sem interrupções." },
+      { "id": "E", "text": "O cidadão assistiu o julgamento da apelação." }
+    ],
+    "correctOption": "B",
+    "explanation": "Na acepção de ver, testemunhar, o verbo 'assistir' é transitivo indireto e exige a preposição 'a' ('assistir ao debate')."
+  },
+  {
+    "id": "port-i-04",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Colocação Pronominal (Próclise Obrigatória)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a oração em que a próclise do pronome oblíquo átono é estritamente motivada por palavra atrativa negativa:",
+    "options": [
+      { "id": "A", "text": "Nunca me disseram que os prazos seriam tão rígidos." },
+      { "id": "B", "text": "Disseram-me que tudo correria bem." },
+      { "id": "C", "text": "Espero que me compreendam de pronto." },
+      { "id": "D", "text": "Quando me chamaram, apresentei o formulário." },
+      { "id": "E", "text": "Quem me enviou este memorando?" }
+    ],
+    "correctOption": "A",
+    "explanation": "O advérbio de negação 'Nunca' atua como palavra atrativa imediata, tornando obrigatória a próclise do pronome oblíquo 'me'."
+  },
+  {
+    "id": "port-i-05",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Função Sintática do Pronome Relativo",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na frase: 'Os relatórios que foram elaborados pela comissão continham dados precisos', o pronome relativo 'que' exerce a função sintática de:",
+    "options": [
+      { "id": "A", "text": "Objeto direto." },
+      { "id": "B", "text": "Sujeito da oração subordinada." },
+      { "id": "C", "text": "Objeto indireto." },
+      { "id": "D", "text": "Adjunto adnominal." },
+      { "id": "E", "text": "Complemento nominal." }
+    ],
+    "correctOption": "B",
+    "explanation": "Substituindo o antecedente 'os relatórios' na oração adjetiva: 'os relatórios foram elaborados pela comissão'. Portanto, 'que' exerce função sintática de sujeito."
+  },
+  {
+    "id": "port-i-06",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Orações Coordenadas e Subordinadas",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em 'Embora houvesse previsão orçamentária, a aquisição dos novos computadores foi postergada', a oração iniciada por 'Embora' exprime valor semântico de:",
+    "options": [
+      { "id": "A", "text": "Causa." },
+      { "id": "B", "text": "Concessão." },
+      { "id": "C", "text": "Consequência." },
+      { "id": "D", "text": "Tempo." },
+      { "id": "E", "text": "Proporção." }
+    ],
+    "correctOption": "B",
+    "explanation": "'Embora' é a conjunção subordinativa concessiva por excelência, indicando um obstáculo ou ressalva que não impede a realização do fato principal."
+  },
+  {
+    "id": "port-i-07",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Voz Passiva Analítica e Sintética",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A transposição da frase ativa 'A prefeitura homologou o resultado do certame' para a voz passiva analítica resulta em:",
+    "options": [
+      { "id": "A", "text": "O resultado do certame foi homologado pela prefeitura." },
+      { "id": "B", "text": "Homologou-se o certame pela prefeitura." },
+      { "id": "C", "text": "O resultado do certame tinha sido homologado." },
+      { "id": "D", "text": "A prefeitura homologara o resultado do concurso." },
+      { "id": "E", "text": "O resultado do certame é homologado pela prefeitura." }
+    ],
+    "correctOption": "A",
+    "explanation": "Na voz passiva analítica, o objeto direto 'o resultado do certame' vira sujeito paciente; o verbo no pretérito perfeito 'homologou' torna-se 'foi homologado' (ser no pretérito + particípio); e o sujeito ativo torna-se agente da passiva 'pela prefeitura'."
+  },
+  {
+    "id": "port-i-08",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Concordância Nominal com 'Anexo', 'Obrigado', 'Meio'",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a opção com concordância nominal correta:",
+    "options": [
+      { "id": "A", "text": "Seguem anexo as certidões solicitadas pelo órgão." },
+      { "id": "B", "text": "A servidora disse: muito obrigado pela colaboração." },
+      { "id": "C", "text": "Ela estava meio preocupada com a data do edital." },
+      { "id": "D", "text": "É proibido entrada de pessoas não autorizadas." },
+      { "id": "E", "text": "Elas mesmas disseram que haviam menas vagas." }
+    ],
+    "correctOption": "C",
+    "explanation": "'Meio' quando funciona como advérbio ('um pouco') é invariável ('meio preocupada'). 'Anexo' deve concordar com o substantivo ('anexas as certidões'); a mulher deve dizer 'muito obrigada'; e 'menos' é sempre invariável ('menos vagas')."
+  },
+  {
+    "id": "port-i-09",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Uso da Vírgula em Orações Adjetivas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Em 'Os servidores que foram aprovados no estágio probatório adquiriram estabilidade', a ausência de vírgulas indica que a oração subordinada adjetiva é:",
+    "options": [
+      { "id": "A", "text": "Explicativa, aplicando-se à totalidade dos servidores indistintamente." },
+      { "id": "B", "text": "Restritiva, limitando o sentido apenas àqueles que obtiveram a aprovação." },
+      { "id": "C", "text": "Substantiva subjetiva." },
+      { "id": "D", "text": "Coordenada sindética explicativa." },
+      { "id": "E", "text": "Adverbial causal enfática." }
+    ],
+    "correctOption": "B",
+    "explanation": "Sem vírgulas, a oração adjetiva é restritiva: apenas uma parcela dos servidores (aqueles que foram aprovados no estágio probatório) adquiriu estabilidade."
+  },
+  {
+    "id": "port-i-10",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Regência Nominal",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O termo que exige a preposição 'a' para sua correta regência nominal é:",
+    "options": [
+      { "id": "A", "text": "Apto (ao cargo)." },
+      { "id": "B", "text": "Capaz (para tudo)." },
+      { "id": "C", "text": "Livre (de impostos)." },
+      { "id": "D", "text": "Confiante (em Deus)." },
+      { "id": "E", "text": "Incompatível (com as regras)." }
+    ],
+    "correctOption": "A",
+    "explanation": "O adjetivo 'apto' rege a preposição 'a' (ou 'para'): 'apto ao exercício das funções públicas'."
+  },
+  {
+    "id": "port-i-11",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Pontuação e Intercalação de Adjuntos",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No trecho 'O protocolo geral, segundo determina o regimento interno, deve cadastrar todos os requerimentos', as vírgulas isolam:",
+    "options": [
+      { "id": "A", "text": "Um vocativo impessoal." },
+      { "id": "B", "text": "Uma oração subordinada adverbial conformativa intercalada." },
+      { "id": "C", "text": "Um aposto puramente especificativo." },
+      { "id": "D", "text": "O objeto direto preposicionado." },
+      { "id": "E", "text": "Um adjunto adverbial de lugar deslocado." }
+    ],
+    "correctOption": "B",
+    "explanation": "'Segundo determina o regimento interno' é uma oração subordinada adverbial conformativa (introduzida pela conjunção 'segundo'), intercalada entre o sujeito e o predicado, devendo ficar entre vírgulas."
+  },
+  {
+    "id": "port-i-12",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Emprego do Hífen",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "De acordo com o Acordo Ortográfico vigente, deve-se empregar hífen quando o prefixo termina pela mesma vogal que inicia o segundo elemento. Assinale o exemplo correto:",
+    "options": [
+      { "id": "A", "text": "Microondas." },
+      { "id": "B", "text": "Micro-ondas." },
+      { "id": "C", "text": "Autoescola." },
+      { "id": "D", "text": "Antiinflamatório sem hífen." },
+      { "id": "E", "text": "Semiaberto com hífen." }
+    ],
+    "correctOption": "B",
+    "explanation": "A regra geral preconiza: vogais iguais se separam com hífen ('micro-ondas', 'anti-inflamatório'); vogais diferentes se juntam ('autoescola', 'semiaberto')."
+  },
+  {
+    "id": "port-i-13",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Semântica (Parônimos e Homônimos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a frase em que o parônimo foi empregado de maneira correta conforme o significado contextual pretendido:",
+    "options": [
+      { "id": "A", "text": "O agente cometeu uma infração grave às normas funcionais." },
+      { "id": "B", "text": "O fiscal sofreu uma inflação no trânsito." },
+      { "id": "C", "text": "O servidor pediu dispensa do mandato de deputado." },
+      { "id": "D", "text": "O juiz mandou cumprimentar a pena até o fim." },
+      { "id": "E", "text": "Ele agiu com muita descrição e discrição no sigilo médico." }
+    ],
+    "correctOption": "A",
+    "explanation": "'Infração' significa desrespeito ou violação a uma regra/lei (enquanto 'inflação' é alta generalizada de preços). 'Mandado' é ordem judicial; 'comprimento' é extensão e 'cumprimento' é execução/saudação."
+  },
+  {
+    "id": "port-i-14",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Acentuação das Palavras Proparoxítonas e Paroxítonas",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale o conjunto composto exclusivamente por palavras proparoxítonas:",
+    "options": [
+      { "id": "A", "text": "Público, lâmpada, tráfego, arquivística." },
+      { "id": "B", "text": "Caráter, revólver, açúcar, éter." },
+      { "id": "C", "text": "Mártir, fácil, júri, fórum." },
+      { "id": "D", "text": "Pajé, rapé, mocotó, maracujá." },
+      { "id": "E", "text": "Rubrica, recorde, pudico, Nobel." }
+    ],
+    "correctOption": "A",
+    "explanation": "Em 'Pú-bli-co', 'lâm-pa-da', 'trá-fe-go' e 'ar-qui-vís-ti-ca', o acento tônico recai na antepenúltima sílaba, sendo todas proparoxítonas (e portanto obrigatoriamente acentuadas)."
+  },
+  {
+    "id": "port-i-15",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Valores Semânticos das Preposições",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na frase 'Ele tremia de frio na sala de atendimento', a preposição 'de' estabelece relação semântica de:",
+    "options": [
+      { "id": "A", "text": "Posse." },
+      { "id": "B", "text": "Causa." },
+      { "id": "C", "text": "Matéria." },
+      { "id": "D", "text": "Finalidade." },
+      { "id": "E", "text": "Companhia." }
+    ],
+    "correctOption": "B",
+    "explanation": "'Tremia de frio' expressa o motivo, a razão pela qual tremia (causa: por causa do frio)."
+  },
+  {
+    "id": "port-i-16",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Concordância com Números Fracionários e Porcentagens",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em relação à concordância com porcentagem, assinale a opção gramaticalmente correta:",
+    "options": [
+      { "id": "A", "text": "1% dos candidatos faltou à prova objetiva." },
+      { "id": "B", "text": "1% dos candidatos faltaram à prova objetiva." },
+      { "id": "C", "text": "Tanto 'faltou' quanto 'faltaram' são admitidos pela norma culta." },
+      { "id": "D", "text": "Apenas o verbo no plural é aceito quando há especificador." },
+      { "id": "E", "text": "Nenhuma das formas atende à regra de porcentagem." }
+    ],
+    "correctOption": "C",
+    "explanation": "Com expressões partitivas ou numerais percentuais seguidos de substantivo no plural ('1% dos candidatos'), o verbo pode concordar tanto com o número percentual no singular (1% -> faltou) quanto com o substantivo no plural (candidatos -> faltaram)."
+  },
+  {
+    "id": "port-i-17",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Morfossintaxe (Pronomes Relativos 'Cujo')",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Sobre o emprego do pronome 'cujo', assinale a alternativa inteiramente correta:",
+    "options": [
+      { "id": "A", "text": "É correto dizer: 'O servidor cujo o relatório foi elogiado'." },
+      { "id": "B", "text": "'Cujo' estabelece relação de posse e nunca admite artigo posposto." },
+      { "id": "C", "text": "Pode ser substituído indiferentemente por 'que o' ou 'o qual seu'." },
+      { "id": "D", "text": "Deve concordar com o possuidor e não com a coisa possuída." },
+      { "id": "E", "text": "É invariável em gênero e número." }
+    ],
+    "correctOption": "B",
+    "explanation": "O pronome relativo 'cujo' concorda em gênero e número com o substantivo consequente (a coisa possuída) e veda expressamente o emprego de artigo subsequente (é erro grave dizer 'cujo o' ou 'cuja a')."
+  },
+  {
+    "id": "port-i-18",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Coesão Referencial e Sequencial",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em 'O município investiu em tecnologia; todavia, a transição para os processos digitais ainda demanda treinamento contínuo', o papel de 'todavia' é:",
+    "options": [
+      { "id": "A", "text": "Introduzir uma causa determinante da proposição anterior." },
+      { "id": "B", "text": "Estabelecer contraposição ou ressalva em relação à premissa inicial." },
+      { "id": "C", "text": "Concluir a demonstração de forma definitiva." },
+      { "id": "D", "text": "Retificar uma informação incorreta." },
+      { "id": "E", "text": "Exemplificar os investimentos aplicados." }
+    ],
+    "correctOption": "B",
+    "explanation": "A conjunção adversativa 'todavia' estabelece contraposição à ideia de investimento em tecnologia, destacando que ainda há uma demanda de adaptação."
+  },
+  {
+    "id": "port-i-19",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Orações Reduzidas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na oração 'Terminada a conferência dos malotes, a banca iniciou o desempate', o termo destacado 'Terminada a conferência dos malotes' é uma oração reduzida de particípio com valor de:",
+    "options": [
+      { "id": "A", "text": "Causa." },
+      { "id": "B", "text": "Condição." },
+      { "id": "C", "text": "Tempo (quando terminou a conferência)." },
+      { "id": "D", "text": "Concessão." },
+      { "id": "E", "text": "Proporção." }
+    ],
+    "correctOption": "C",
+    "explanation": "Pode ser desdobrada em: 'Assim que terminou a conferência...' ou 'Logo que foi terminada a conferência...', indicando valor temporal."
+  },
+  {
+    "id": "port-i-20",
+    "subject": "portugues",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Figuras de Sintaxe (Hipérbato, Elipse, Zeugma)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em 'Ela preferiu café; eu, água mineral', a vírgula após 'eu' indica a omissão de um verbo já expresso antes ('preferi'). Essa figura de linguagem é denominada:",
+    "options": [
+      { "id": "A", "text": "Zeugma." },
+      { "id": "B", "text": "Pleonasmo." },
+      { "id": "C", "text": "Hipérbato." },
+      { "id": "D", "text": "Silepse." },
+      { "id": "E", "text": "Anacoluto." }
+    ],
+    "correctOption": "A",
+    "explanation": "Zeugma é a elipse de um termo que já foi enunciado anteriormente no mesmo período sintático."
+  },
+  {
+    "id": "port-a-01",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Sintaxe do Período Composto e Regência Complexa",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Considere o período: 'A comissão a cujos pareceres fizemos expressa menção absteve-se de emitir o juízo final'. Sobre ele, analise a sintaxe e a regência:\nI. A preposição 'a' antes de 'cujos' é exigida pelo substantivo 'menção' ('menção a').\nII. O verbo 'abster-se' é pronominal e rege a preposição 'de'.\nIII. 'Cujos' poderia ser substituído por 'aos quais os' sem prejuízo gramatical.\nEstá correto o contido em:",
+    "options": [
+      { "id": "A", "text": "I apenas." },
+      { "id": "B", "text": "I e II apenas." },
+      { "id": "C", "text": "II e III apenas." },
+      { "id": "D", "text": "I, II e III." },
+      { "id": "E", "text": "III apenas." }
+    ],
+    "correctOption": "B",
+    "explanation": "A afirmativa I está certa ('fazer menção a algo'); a II está certa ('abster-se de algo'); a III está incorreta porque 'cujo' estabelece relação de posse direta entre pareceres e comissão, enquanto 'aos quais os pareceres' geraria erro sintático e truncamento."
+  },
+  {
+    "id": "port-a-02",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Crase Diante de Pronomes e Casos Especiais",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale o período em que o emprego da crase atende rigorosamente às exigências da norma culta formal:",
+    "options": [
+      { "id": "A", "text": "A candidata solicitou vista àquela folha de respostas rubricada." },
+      { "id": "B", "text": "Ficamos cara à cara com os examinadores na prova prática." },
+      { "id": "C", "text": "O superintendente dirigiu-se à Vossa Excelência com deferência." },
+      { "id": "D", "text": "A proposta foi enviada à quem de direito cabia a decisão." },
+      { "id": "E", "text": "Eles foram à cavalo inspecionar as obras rurais." }
+    ],
+    "correctOption": "A",
+    "explanation": "Ocorre crase na junção da preposição 'a' exigida por 'vista a' com a vogal inicial do pronome demonstrativo 'aquela' ('vista àquela'). Não há crase em palavras repetidas ('cara a cara'), antes de pronome de tratamento ('Vossa Excelência'), antes de pronome relativo sem artigo ('quem') e antes de substantivo masculino ('a cavalo')."
+  },
+  {
+    "id": "port-a-03",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Concordância Verbal com Sujeito Oracional e Núcleos Partitivos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Analise a oração: 'Importa que se ______ todas as precauções sanitárias para que não ______ surpresas desagradáveis'. O preenchimento correto das lacunas é:",
+    "options": [
+      { "id": "A", "text": "adote / aconteçam" },
+      { "id": "B", "text": "adotem / aconteça" },
+      { "id": "C", "text": "adotem / aconteçam" },
+      { "id": "D", "text": "adote / aconteça" },
+      { "id": "E", "text": "adotem-se / hajam" }
+    ],
+    "correctOption": "C",
+    "explanation": "Na primeira oração com voz passiva pronominal ('que se adotem todas as precauções'), o sujeito 'todas as precauções' está no plural, exigindo verbo no plural ('adotem'). Na segunda oração, o verbo 'acontecer' é pessoal e concorda com o sujeito 'surpresas desagradáveis' ('aconteçam surpresas')."
+  },
+  {
+    "id": "port-a-04",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Diferença entre Complemento Nominal e Adjunto Adnominal",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na oração 'A leitura do processo pelo assessor foi conclusiva', os termos 'do processo' e 'pelo assessor' exercem, respectivamente, a função de:",
+    "options": [
+      { "id": "A", "text": "Adjunto adnominal e complemento nominal." },
+      { "id": "B", "text": "Complemento nominal e adjunto adnominal." },
+      { "id": "C", "text": "Complemento nominal e agente da passiva." },
+      { "id": "D", "text": "Adjunto adnominal e agente da passiva." },
+      { "id": "E", "text": "Objeto indireto e complemento nominal." }
+    ],
+    "correctOption": "C",
+    "explanation": "'Leitura' é substantivo abstrato derivado de verbo. O processo é o alvo/objeto paciente da leitura (alguém lê o processo = valor passivo, portanto Complemento Nominal). 'Pelo assessor' representa o agente que realizou a leitura sobre a nominalização passiva (Agente da Passiva de forma nominalizada)."
+  },
+  {
+    "id": "port-a-05",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Morfologia e Sintaxe das Funções da Palavra 'Que'",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No fragmento: 'Temos que manter a serenidade, que os momentos difíceis logo passarão', os dois termos 'que' classificam-se, respectivamente, como:",
+    "options": [
+      { "id": "A", "text": "Pronome relativo e conjunção integrante." },
+      { "id": "B", "text": "Preposição acidental e conjunção explicativa." },
+      { "id": "C", "text": "Conjunção integrante e pronome relativo." },
+      { "id": "D", "text": "Partícula expletiva e conjunção causal." },
+      { "id": "E", "text": "Conjunção consecutiva e advérbio de intensidade." }
+    ],
+    "correctOption": "B",
+    "explanation": "Na locução 'ter que + infinitivo' com sentido de 'ter de', 'que' atua como preposição acidental. No segundo caso, equivale a 'pois', atuando como conjunção coordenativa explicativa."
+  },
+  {
+    "id": "port-a-06",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Regência Verbal dos Verbos Implicar, Custar, Aspirar",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Em relação à regência verbal padrão, assinale a oração gramaticalmente correta:",
+    "options": [
+      { "id": "A", "text": "O descumprimento do horário implicará em penalidades disciplinares." },
+      { "id": "B", "text": "O descumprimento do horário implicará penalidades disciplinares." },
+      { "id": "C", "text": "O candidato aspira o cargo de agente com afinco." },
+      { "id": "D", "text": "Custou para o concursando memorizar todos os prazos legais." },
+      { "id": "E", "text": "Preferia mais os temas de direito do que matemática." }
+    ],
+    "correctOption": "B",
+    "explanation": "O verbo 'implicar' no sentido de acarretar/produzir consequência é transitivo direto, repudiando a preposição 'em' ('implicará penalidades', e não 'implicará em'). 'Aspirar a' exige preposição 'a' no sentido de desejar; 'preferir' repele 'mais' e 'do que'."
+  },
+  {
+    "id": "port-a-07",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Pontuação Estilística e Semântica de Conectivos",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Considere: 'Os servidores públicos, que cumprem estritamente o código ético, dignificam o serviço municipal'. Se retirarmos as vírgulas, qual alteração semântica ocorrerá?",
+    "options": [
+      { "id": "A", "text": "Nenhuma alteração, pois a pontuação é meramente facultativa." },
+      { "id": "B", "text": "A oração passará a afirmar que apenas os servidores cumpridores do código dignificam o serviço, restringindo o universo do sujeito." },
+      { "id": "C", "text": "O texto tornar-se-á incorreto perante a concordância verbal." },
+      { "id": "D", "text": "A oração adjetiva se transformará em oração subordinada substantiva." },
+      { "id": "E", "text": "Haverá mudança do sujeito composto para sujeito oculto." }
+    ],
+    "correctOption": "B",
+    "explanation": "Com vírgulas, a oração é adjetiva explicativa (todos os servidores públicos cumprem o código). Sem as vírgulas, torna-se restritiva (restringe a qualidade de dignificar o serviço apenas ao subgrupo que cumpre o código)."
+  },
+  {
+    "id": "port-a-08",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Morfologia e Valores de 'Se'",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a alternativa em que a palavra 'se' atua como partícula apassivadora:",
+    "options": [
+      { "id": "A", "text": "Vive-se com tranquilidade na capital paranaense." },
+      { "id": "B", "text": "Apensaram-se os novos documentos ao processo principal." },
+      { "id": "C", "text": "Os diretores cumprimentaram-se na solenidade de posse." },
+      { "id": "D", "text": "Ele arrependeu-se da manifestação extemporânea." },
+      { "id": "E", "text": "Não sei se as inscrições foram prorrogadas pela banca." }
+    ],
+    "correctOption": "B",
+    "explanation": "Em 'Apensaram-se os novos documentos', temos verbo transitivo direto acompanhado de 'se' com sujeito paciente no plural ('os novos documentos foram apensados'), configurando partícula apassivadora (ou pronome apassivador)."
+  },
+  {
+    "id": "port-a-09",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Figuras de Pensamento (Paradoxo vs Antítese)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "'Amor é fogo que arde sem se ver, é ferida que dói e não se sente...'. Os versos camonianos contêm um exemplo célebre de:",
+    "options": [
+      { "id": "A", "text": "Paradoxo (oxímoro)." },
+      { "id": "B", "text": "Eufemismo irônico." },
+      { "id": "C", "text": "Metonímia causal." },
+      { "id": "D", "text": "Catacrese morfológica." },
+      { "id": "E", "text": "Pleonasmo vicioso." }
+    ],
+    "correctOption": "A",
+    "explanation": "O paradoxo (ou oxímoro) reúne ideias logicamente inconciliáveis ou contraditórias em uma mesma asserção ('doer e não se sentir', 'arder sem se ver')."
+  },
+  {
+    "id": "port-a-10",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Literatura Brasileira (Arcadismo e Romantismo)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A valorização do nacionalismo, a idealização da mulher e da figura do indígena como herói nacional caracterizam a primeira fase de qual movimento literário brasileiro?",
+    "options": [
+      { "id": "A", "text": "Barroco." },
+      { "id": "B", "text": "Romantismo." },
+      { "id": "C", "text": "Realismo." },
+      { "id": "D", "text": "Parnasianismo." },
+      { "id": "E", "text": "Modernismo de 1930." }
+    ],
+    "correctOption": "B",
+    "explanation": "A 1ª geração do Romantismo no Brasil (indianista/nacionalista), representada por autores como Gonçalves Dias e José de Alencar, elegeu a natureza pátria e o indígena mítico como símbolos de identidade nacional pós-independência."
+  },
+  {
+    "id": "port-a-11",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Redação Oficial (Manual da Presidência da República)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo o Manual de Redação da Presidência da República, o fecho padrão utilizado para autoridades de hierarquia superior à do emissor é:",
+    "options": [
+      { "id": "A", "text": "Atenciosamente." },
+      { "id": "B", "text": "Respeitosamente." },
+      { "id": "C", "text": "Cordialmente." },
+      { "id": "D", "text": "Com os nossos mais sinceros votos de estima." },
+      { "id": "E", "text": "Saudações cívicas." }
+    ],
+    "correctOption": "B",
+    "explanation": "No padrão da redação oficial brasileira existem apenas dois fechos: 'Respeitosamente' (para autoridades superiores, inclusive o Presidente da República) e 'Atenciosamente' (para autoridades de mesma hierarquia ou de hierarquia inferior)."
+  },
+  {
+    "id": "port-a-12",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Concordância com Expressões do Tipo 'Um dos que'",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "De acordo com o padrão culto, na estrutura 'Curitiba é uma das cidades que mais ______ em sustentabilidade urbana':",
+    "options": [
+      { "id": "A", "text": "Apenas 'investe' no singular é admitido." },
+      { "id": "B", "text": "Apenas 'investem' no plural é rigorosamente admitido." },
+      { "id": "C", "text": "Admitem-se ambas as formas: 'investem' (preferência dos gramáticos) e 'investe'." },
+      { "id": "D", "text": "O verbo deve permanecer obrigatoriamente no infinitivo." },
+      { "id": "E", "text": "Exige-se a partícula passiva 'se investe'." }
+    ],
+    "correctOption": "C",
+    "explanation": "Com a locução 'um dos que' / 'uma das que', a maioria dos gramáticos aceita a dupla concordância: no plural ('investem', concordando com cidades) e no singular ('investe', enfatizando a unidade)."
+  },
+  {
+    "id": "port-a-13",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Interpretação e Inferência Textual",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Dizer que um argumento é 'falacioso' significa que ele:",
+    "options": [
+      { "id": "A", "text": "É fundamentado em premissas exatas e conclusões dedutivas perfeitas." },
+      { "id": "B", "text": "Apresenta aparência de verdade e coerência, mas possui vício lógico de raciocínio." },
+      { "id": "C", "text": "Foi pronunciado em tom agressivo e desrespeitoso." },
+      { "id": "D", "text": "É estritamente conciso e objetivo." },
+      { "id": "E", "text": "Contém necessariamente erros de acentuação gráfica." }
+    ],
+    "correctOption": "B",
+    "explanation": "Uma falácia é um raciocínio enganoso ou capcioso, que aparenta solidez e validade retórica, mas contém erro intrínseco de lógica formal."
+  },
+  {
+    "id": "port-a-14",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Sintaxe de Regência de Verbos com Dupla Transitividade",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a opção em que a substituição dos termos por pronomes oblíquos na frase 'O diretor informou os novos procedimentos aos funcionários' foi realizada corretamente:",
+    "options": [
+      { "id": "A", "text": "O diretor informou-lhes aos funcionários." },
+      { "id": "B", "text": "O diretor informou-os a eles." },
+      { "id": "C", "text": "O diretor informou-lhes os novos procedimentos." },
+      { "id": "D", "text": "O diretor informou-os os novos procedimentos." },
+      { "id": "E", "text": "O diretor informou-lhes a eles." }
+    ],
+    "correctOption": "C",
+    "explanation": "'Informar algo a alguém': 'os novos procedimentos' é objeto direto e 'aos funcionários' é objeto indireto. Substituindo o objeto indireto por pronome átono tem-se 'lhes': 'informou-lhes os novos procedimentos'."
+  },
+  {
+    "id": "port-a-15",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Concordância Ideológica (Silepse)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na oração 'Vossa Excelência parece cansado após a longa sabatina', ocorre uma figura de sintaxe denominada:",
+    "options": [
+      { "id": "A", "text": "Silepse de gênero." },
+      { "id": "B", "text": "Silepse de número." },
+      { "id": "C", "text": "Silepse de pessoa." },
+      { "id": "D", "text": "Anástrofe." },
+      { "id": "E", "text": "Polissíndeto." }
+    ],
+    "correctOption": "A",
+    "explanation": "O pronome de tratamento 'Vossa Excelência' é gramaticalmente feminino, mas o adjetivo 'cansado' concorda no masculino com o gênero biológico da pessoa representada (homem), configurando silepse de gênero."
+  },
+  {
+    "id": "port-a-16",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Acentuação das Formas Verbais com Pronomes",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale a opção em que a forma verbal combinada ao pronome enclítico recebeu o acento de acordo com a norma-padrão:",
+    "options": [
+      { "id": "A", "text": "Faze-lo." },
+      { "id": "B", "text": "Fazê-lo." },
+      { "id": "C", "text": "Comprá-las." },
+      { "id": "D", "text": "Tanto B quanto C estão perfeitamente corretas." },
+      { "id": "E", "text": "Partí-lo." }
+    ],
+    "correctOption": "D",
+    "explanation": "'Fazer + o' torna-se 'fazê-lo' (oxítona terminada em 'e'); 'comprar + as' torna-se 'comprá-las' (oxítona terminada em 'a'). Ambas recebem acento gráfico obrigatório."
+  },
+  {
+    "id": "port-a-17",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Sintaxe do Período Composto (Conectivo Proporcional)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Assinale a frase em que o conectivo proporcional foi empregado de maneira correta segundo o registro formal:",
+    "options": [
+      { "id": "A", "text": "À medida em que nos aproximamos da prova, a dedicação deve crescer." },
+      { "id": "B", "text": "À medida que nos aproximamos da prova, a dedicação deve crescer." },
+      { "id": "C", "text": "Na medida que o tempo passa, adquirimos experiência." },
+      { "id": "D", "text": "De medida em que os dados chegam, nós tabulamos." },
+      { "id": "E", "text": "Em medida que o certame ocorre, conferimos as presenças." }
+    ],
+    "correctOption": "B",
+    "explanation": "A locução conjuntiva proporcional correta é 'à medida que' (com crase e sem preposição 'em'). A forma 'na medida em que' é causal (equivalente a 'já que'). Misturas como 'à medida em que' e 'na medida que' são incorretas perante a norma culta."
+  },
+  {
+    "id": "port-a-18",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Sintaxe do Infinitivo Pessoal vs Impessoal",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Assinale o período que exige o emprego do infinitivo flexionado (pessoal):",
+    "options": [
+      { "id": "A", "text": "O superintendente convidou os novos agentes para apresentarem suas credenciais." },
+      { "id": "B", "text": "Eles não podem chegar atrasados amanhã." },
+      { "id": "C", "text": "Ouvimos os pássaros cantar na praça." },
+      { "id": "D", "text": "Estudar muito é essencial para a aprovação." },
+      { "id": "E", "text": "Devemos concluir o expediente às 18h." }
+    ],
+    "correctOption": "A",
+    "explanation": "Quando a oração reduzida de infinitivo possui sujeito próprio, explícito e diferente do da oração principal, a flexão em pessoa e número ('apresentarem') é recomendada para clareza e precisão sintática."
+  },
+  {
+    "id": "port-a-19",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Análise da Coesão Textual por Elipse",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Considere: 'Os auditores revisaram as planilhas contábeis e encaminharam o relatório final ao gabinete'. A coesão entre as duas orações é mantida principalmente por:",
+    "options": [
+      { "id": "A", "text": "Elipse do sujeito na segunda oração." },
+      { "id": "B", "text": "Catáfora pronominal." },
+      { "id": "C", "text": "Repetição vocabular enfática." },
+      { "id": "D", "text": "Metáfora estrutural." },
+      { "id": "E", "text": "Hiperonímia lexical." }
+    ],
+    "correctOption": "A",
+    "explanation": "O sujeito 'Os auditores' não foi repetido na segunda oração ('[eles] encaminharam o relatório final'), configurando um recurso coesivo de elipse gramatical bem articulado."
+  },
+  {
+    "id": "port-a-20",
+    "subject": "portugues",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Semântica e Polissemia das Palavras",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A propriedade de uma mesma palavra assumir diferentes significados conforme o contexto sintático e semântico em que se insere (como 'linha' telefônica, 'linha' de costura, 'linha' de ônibus) denomina-se:",
+    "options": [
+      { "id": "A", "text": "Polissemia." },
+      { "id": "B", "text": "Homonímia perfeita." },
+      { "id": "C", "text": "Paronímia morfológica." },
+      { "id": "D", "text": "Pleonasmo semântico." },
+      { "id": "E", "text": "Hiperonímia estrita." }
+    ],
+    "correctOption": "A",
+    "explanation": "Polissemia é o fenômeno semântico pelo qual um mesmo signo linguístico adquire múltiplos sentidos conexos e contextualizados no uso linguístico."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Simulado Concurso Agente Administrativo",
+  "description": "Plataforma de estudos com simulados, níveis de dificuldade, cronômetro e feedback detalhado para o concurso de Agente Administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

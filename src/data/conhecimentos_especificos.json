@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "esp-b-01",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Manual de Redação da Presidência da República (Fechos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo a 3ª edição do Manual de Redação da Presidência da República, os fechos para comunicações oficiais foram simplificados e unificados em apenas duas modalidades:",
+    "options": [
+      { "id": "A", "text": "\"Respeitosamente\" (para autoridades superiores) e \"Atenciosamente\" (para autoridades de mesma hierarquia ou de hierarquia inferior)." },
+      { "id": "B", "text": "\"Cordialmente\" e \"Saudações Fraternais\"." },
+      { "id": "C", "text": "\"Com elevados protestos de estima\" e \"Sem mais para o momento\"." },
+      { "id": "D", "text": "\"Digníssimo Senhor\" e \"Excelentíssimo Servidor\"." },
+      { "id": "E", "text": "\"Subscrevo-me atencioso\" e \"Atenciosamente a todos\"." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Manual de Redação da Presidência da República estabelece estritamente dois fechos: 'Respeitosamente', para autoridades superiores (inclusive o Presidente da República); e 'Atenciosamente', para autoridades de mesma hierarquia, de hierarquia inferior ou a particulares."
+  },
+  {
+    "id": "esp-b-02",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Arquivologia (Teoria das Três Idades)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Na arquivologia, a Teoria das Três Idades classifica os documentos de acordo com a sua fase de utilização e valor em:",
+    "options": [
+      { "id": "A", "text": "Arquivo Corrente (1ª idade), Arquivo Intermediário (2ª idade) e Arquivo Permanente (3ª idade)." },
+      { "id": "B", "text": "Arquivo Ativo, Arquivo Parado e Arquivo Destruído." },
+      { "id": "C", "text": "Arquivo Primário, Arquivo Secundário e Arquivo Morto irrevogável." },
+      { "id": "D", "text": "Documentos Físicos, Documentos Digitais e Documentos Microfilmados." },
+      { "id": "E", "text": "Arquivo Secreto, Arquivo Confidencial e Arquivo Aberto." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Teoria das Três Idades (ou ciclo vital dos documentos) divide os arquivos em: Corrente (em tramitação, consulta frequente), Intermediário (aguardando prazos prescricionais ou precaucionais) e Permanente (de valor histórico/secundário, de guarda definitiva)."
+  },
+  {
+    "id": "esp-b-03",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Documentos Oficiais (Ata)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O documento oficial no qual se registram, com fidelidade, clareza e sem emendas ou rasuras, os fatos, deliberações e ocorrências verificadas durante uma reunião, assembleia ou sessão administrativa denomina-se:",
+    "options": [
+      { "id": "A", "text": "Ata." },
+      { "id": "B", "text": "Ofício." },
+      { "id": "C", "text": "Portaria." },
+      { "id": "D", "text": "Despacho interlocutório." },
+      { "id": "E", "text": "Edital." }
+    ],
+    "correctOption": "A",
+    "explanation": "A ata é o registro fidedigno e circunstanciado das discussões e resoluções tomadas em uma reunião ou sessão colegiada oficial."
+  },
+  {
+    "id": "esp-b-04",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Nova Lei de Licitações (Lei 14.133/2021) - Modalidades",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "De acordo com o artigo 28 da Lei Federal nº 14.133/2021 (Nova Lei de Licitações), são modalidades de licitação:",
+    "options": [
+      { "id": "A", "text": "Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo." },
+      { "id": "B", "text": "Tomada de Preços, Convite, Concorrência e Pregão." },
+      { "id": "C", "text": "Consulta, Concorrência, Tomada de Preços e Leilão." },
+      { "id": "D", "text": "Carta-Convite, Concurso, Pregão e Registro de Preços." },
+      { "id": "E", "text": "Pregão eletrônico, Pregão presencial e Convite aberto." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Lei 14.133/2021 extinguiu as modalidades Convite e Tomada de Preços, fixando taxativamente cinco modalidades no art. 28: Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo."
+  },
+  {
+    "id": "esp-b-05",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Gestão de Materiais e Estoque (PEPS / FIFO)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No controle e armazenagem de materiais no almoxarifado público, o método de controle de estoque conhecido como PEPS (Primeiro que Entra, Primeiro que Sai) ou FIFO consiste em:",
+    "options": [
+      { "id": "A", "text": "Consumir ou expedir prioritariamente os lotes de materiais mais antigos recebidos, evitando vencimento de prazos de validade e obsolescência." },
+      { "id": "B", "text": "Utilizar primeiro os itens que chegaram por último no almoxarifado." },
+      { "id": "C", "text": "Sortear aleatoriamente as caixas a serem entregues aos setores." },
+      { "id": "D", "text": "Guardar os materiais mais caros para descarte imediato." },
+      { "id": "E", "text": "Calcular a média ponderada diária sem movimentar estoques físicos." }
+    ],
+    "correctOption": "A",
+    "explanation": "O método PEPS (FIFO) garante que os itens estocados há mais tempo sejam liberados primeiro para o consumo, fundamental para materiais perecíveis, medicamentos e insumos de escritório com prazo de validade."
+  },
+  {
+    "id": "esp-b-06",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Manual de Redação (Pronomes de Tratamento)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No padrão ofício, para se dirigir ao Prefeito Municipal de Curitiba no vocativo da comunicação oficial, utiliza-se a expressão:",
+    "options": [
+      { "id": "A", "text": "Senhor Prefeito," },
+      { "id": "B", "text": "Digníssimo Prefeito da Capital," },
+      { "id": "C", "text": "Vossa Excelência Prefeito Municipal Amigo," },
+      { "id": "D", "text": "Ilustríssimo Alcaide Chefe," },
+      { "id": "E", "text": "Prezado Colega de Governo," }
+    ],
+    "correctOption": "A",
+    "explanation": "O Manual de Redação da Presidência da República aboliu os vocativos 'Digníssimo' (DD.) e 'Ilustríssimo' (Ilmo.). O vocativo padrão para Chefes de Poder e autoridades é 'Senhor + Cargo', logo: 'Senhor Prefeito,'."
+  },
+  {
+    "id": "esp-b-07",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Noções de Protocolo (Autuação e Tramitação)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No setor de protocolo administrativo, o ato de juntar documentos, conferir numeração e colocar capa com número de identificação para dar origem a um processo administrativo chama-se:",
+    "options": [
+      { "id": "A", "text": "Autuação." },
+      { "id": "B", "text": "Descarte." },
+      { "id": "C", "text": "Tombamento." },
+      { "id": "D", "text": "Inventário de contingência." },
+      { "id": "E", "text": "Expedição simples." }
+    ],
+    "correctOption": "A",
+    "explanation": "Autuação é o procedimento formal de protocolo pelo qual um documento inicial (requerimento, ofício, etc.) recebe capa de processo, numeração única sequencial e termo de autuação, tornando-se processo formal."
+  },
+  {
+    "id": "esp-b-08",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Patrimônio Público (Tombamento de Bens)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na gestão de bens patrimoniais permanentes da Prefeitura Municipal, o 'Tombamento' é o procedimento administrativo que consiste em:",
+    "options": [
+      { "id": "A", "text": "Identificar numericamente e cadastrar formalmente o bem permanente no acervo patrimonial do município com afixação de plaqueta ou código de barras." },
+      { "id": "B", "text": "Derrubar fisicamente móveis quebrados na lixeira do pátio." },
+      { "id": "C", "text": "Vender imediatamente veículos novos em leilão judicial." },
+      { "id": "D", "text": "Transferir a posse provisória a servidores em férias." },
+      { "id": "E", "text": "Calcular o desgaste diário de materiais de consumo como canetas e clipes." }
+    ],
+    "correctOption": "A",
+    "explanation": "Tombamento patrimonial é o registro contábil e físico que individualiza o bem móvel permanente, atribuindo-lhe número de patrimônio e plaqueta para controle e inventário."
+  },
+  {
+    "id": "esp-b-09",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Atendimento ao Público e Postura Profissional",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No atendimento ao público em uma repartição pública municipal, o agente administrativo deve demonstrar atitude profissional baseada em:",
+    "options": [
+      { "id": "A", "text": "Urbanidade, empatia, respeito, clareza na linguagem e estrita observância à impessoalidade e igualdade de tratamento." },
+      { "id": "B", "text": "Privilegiar amigos e parentes para reduzir o tempo de espera no guichê." },
+      { "id": "C", "text": "Manifestar opiniões político-partidárias pessoais aos munícipes durante a conferência de documentos." },
+      { "id": "D", "text": "Ignorar dúvidas de idosos para manter a fila sempre rápida." },
+      { "id": "E", "text": "Delegar todo o atendimento presencial a estagiários voluntários." }
+    ],
+    "correctOption": "A",
+    "explanation": "O servidor público deve pautar seu atendimento pela urbanidade, respeito, cortesia, presteza, isonomia e impessoalidade, garantindo a dignidade de qualquer cidadão."
+  },
+  {
+    "id": "esp-b-10",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Documentos Oficiais (Portaria)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O ato administrativo pelo qual dirigentes de órgãos públicos baixam instruções internas para o funcionamento do serviço, designam servidores para comissões ou concedem férias e licenças denomina-se:",
+    "options": [
+      { "id": "A", "text": "Portaria." },
+      { "id": "B", "text": "Atestado de óbito." },
+      { "id": "C", "text": "Recibo de caixa." },
+      { "id": "D", "text": "Certidão negativa." },
+      { "id": "E", "text": "Manifesto de carga." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Portaria é o instrumento expedido por autoridades públicas para dispor sobre a organização e funcionamento de serviços e disciplinar a vida funcional de servidores (nomeações de comissão, lotações, etc.)."
+  },
+  {
+    "id": "esp-b-11",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Métodos de Arquivamento (Alfabético)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No arquivamento pelo método alfabético com aplicação das regras universais de alfabetação, como deve ser arquivada a pasta funcional do servidor 'Carlos Drummond de Andrade'?",
+    "options": [
+      { "id": "A", "text": "ANDRADE, Carlos Drummond de" },
+      { "id": "B", "text": "DE ANDRADE, Carlos Drummond" },
+      { "id": "C", "text": "CARLOS, Drummond de Andrade" },
+      { "id": "D", "text": "DRUMMOND, Carlos de Andrade" },
+      { "id": "E", "text": "ANDRADE DE, Carlos Drummond" }
+    ],
+    "correctOption": "A",
+    "explanation": "Nas regras de alfabetação de nomes de pessoas físicas nacionais, o último sobrenome vem primeiro em maiúsculas, seguido dos prenomes e das partículas intermediárias (ex: ANDRADE, Carlos Drummond de)."
+  },
+  {
+    "id": "esp-b-12",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Licitações (Lei 14.133/2021) - Modalidade Pregão",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na Nova Lei de Licitações (Lei 14.133/2021), a modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou de maior desconto, é o:",
+    "options": [
+      { "id": "A", "text": "Pregão." },
+      { "id": "B", "text": "Concurso." },
+      { "id": "C", "text": "Leilão." },
+      { "id": "D", "text": "Diálogo Competitivo." },
+      { "id": "E", "text": "Tomada de Subsídios." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 29 da Lei 14.133/2021: a modalidade pregão é obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser menor preço ou maior desconto."
+  },
+  {
+    "id": "esp-b-13",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Manual de Redação (Padrão Ofício - Partes)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Em um documento oficial formatado segundo o Padrão Ofício do Manual de Redação da Presidência da República, o cabeçalho deve conter:",
+    "options": [
+      { "id": "A", "text": "O brasão de armas da República ou brasão do município e o nome do órgão expedidor alinhados ao topo da primeira página." },
+      { "id": "B", "text": "A assinatura do prefeito em todas as folhas." },
+      { "id": "C", "text": "O valor do salário do remetente." },
+      { "id": "D", "text": "Apenas propagandas turísticas da cidade." },
+      { "id": "E", "text": "O resumo das notícias policiais do dia." }
+    ],
+    "correctOption": "A",
+    "explanation": "O cabeçalho é elemento obrigatório na primeira página das comunicações oficiais, trazendo o brasão de armas e a identificação hierárquica do órgão expedidor."
+  },
+  {
+    "id": "esp-b-14",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Administração Pública (Eficácia vs Eficiência vs Efetividade)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na gestão pública, enquanto a Eficiência foca em 'fazer as coisas com o menor custo e desperdício de recursos', a Efetividade mede:",
+    "options": [
+      { "id": "A", "text": "O impacto real, a transformação positiva e a solução duradoura gerada na vida dos cidadãos e na sociedade." },
+      { "id": "B", "text": "A quantidade de folhas de papel gastas no expediente." },
+      { "id": "C", "text": "O número de carimbos apostos no processo." },
+      { "id": "D", "text": "A pressa dos servidores em bater o ponto eletrônico." },
+      { "id": "E", "text": "A cor da tinta da impressora matricial." }
+    ],
+    "correctOption": "A",
+    "explanation": "Eficiência = otimização dos meios e custos. Eficácia = alcance das metas previstas. Efetividade = impacto real das ações públicas na melhoria sustentável da sociedade."
+  },
+  {
+    "id": "esp-b-15",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Documentos Oficiais (Certidão vs Atestado)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O documento expedido pela administração municipal pelo qual um servidor com fé pública reproduz fielmente dados constantes de livros, fichas ou registros públicos do órgão é a:",
+    "options": [
+      { "id": "A", "text": "Certidão." },
+      { "id": "B", "text": "Declaração informal." },
+      { "id": "C", "text": "Carta confidencial." },
+      { "id": "D", "text": "Moção de congratulações." },
+      { "id": "E", "text": "Circular informativa." }
+    ],
+    "correctOption": "A",
+    "explanation": "A certidão é o ato administrativo enunciativo que atesta fatos ou situações jurídicas que constam de arquivos e registros oficiais da administração."
+  },
+  {
+    "id": "esp-b-16",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Arquivologia (Tabela de Temporalidade)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O instrumento arquivístico resultante da avaliação documental que define os prazos de guarda dos documentos nas fases corrente e intermediária e determina sua destinação final (eliminação ou guarda permanente) é a:",
+    "options": [
+      { "id": "A", "text": "Tabela de Temporalidade Documental (TTD)." },
+      { "id": "B", "text": "Lista de Chamada Escolar." },
+      { "id": "C", "text": "Ficha de Estoque de Combustível." },
+      { "id": "D", "text": "Folha de Pagamento Anual." },
+      { "id": "E", "text": "Escala de Plantão de Motoristas." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Tabela de Temporalidade é o instrumento legal que regulamenta o ciclo vital dos documentos do órgão, estipulando quanto tempo permanecem em cada arquivo e se serão eliminados ou recolhidos permanentemente."
+  },
+  {
+    "id": "esp-b-17",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Manual de Redação (Características da Redação Oficial)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "São características obrigatórias da redação dos atos e comunicações oficiais, EXCETO:",
+    "options": [
+      { "id": "A", "text": "Clareza e precisão." },
+      { "id": "B", "text": "Impessoalidade e concisão." },
+      { "id": "C", "text": "Formalidade e padronização." },
+      { "id": "D", "text": "Uso da norma padrão da língua portuguesa." },
+      { "id": "E", "text": "Expressão de sentimentos pessoais e gírias regionais do redator." }
+    ],
+    "correctOption": "E",
+    "explanation": "A redação oficial rejeita o coloquialismo, gírias e impressões de caráter pessoal ou subjetivo, prezando estritamente pela clareza, concisão, impessoalidade, precisão e norma padrão culta."
+  },
+  {
+    "id": "esp-b-18",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Patrimônio Público (Inventário Físico)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O procedimento periódico de conferência e verificação presencial in loco para comprovar a existência física e o estado de conservação dos bens móveis e imóveis da prefeitura denomina-se:",
+    "options": [
+      { "id": "A", "text": "Inventário Físico." },
+      { "id": "B", "text": "Desapropriação." },
+      { "id": "C", "text": "Amortização fiscal." },
+      { "id": "D", "text": "Subdelegação." },
+      { "id": "E", "text": "Permuta judicial." }
+    ],
+    "correctOption": "A",
+    "explanation": "O inventário físico é o levantamento detalhado e físico de todos os bens materiais e patrimoniais do órgão público para conciliação com os registros contábeis."
+  },
+  {
+    "id": "esp-b-19",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Noções de Protocolo (Despacho Administrativo)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A manifestação ou decisão fundamentada emitida por uma autoridade administrativa sobre o pedido ou assunto constante em um processo em tramitação chama-se:",
+    "options": [
+      { "id": "A", "text": "Despacho." },
+      { "id": "B", "text": "Ofício circular." },
+      { "id": "C", "text": "Atestado de vacina." },
+      { "id": "D", "text": "Comprovante de residência." },
+      { "id": "E", "text": "Nota fiscal de serviço." }
+    ],
+    "correctOption": "A",
+    "explanation": "Despacho administrativo é o ato pelo qual a autoridade competente decide, encaminha, solicita providências ou encerra o andamento de um processo."
+  },
+  {
+    "id": "esp-b-20",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Nova Lei de Licitações (Fases da Licitação)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na Lei Federal nº 14.133/2021 (art. 17), a regra geral para a sequência das fases do processo licitatório estabelece que a fase de habilitação:",
+    "options": [
+      { "id": "A", "text": "Ocorre POSTERIORMENTE ao julgamento das propostas, analisando-se os documentos apenas do licitante vencedor (inversão de fases como regra geral)." },
+      { "id": "B", "text": "Ocorre obrigatoriamente antes da abertura de qualquer proposta de todos os 50 licitantes." },
+      { "id": "C", "text": "Foi abolida e não existe mais em nenhuma contratação." },
+      { "id": "D", "text": "É realizada exclusivamente pela Polícia Federal." },
+      { "id": "E", "text": "Fica suspensa até o final do ano fiscal." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Lei 14.133/2021 consagrou como regra geral a inversão das fases: primeiro ocorre a apresentação e julgamento das propostas e lances, e apenas o licitante classificado em primeiro lugar terá seus documentos de habilitação examinados."
+  },
+  {
+    "id": "esp-i-01",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 14.133/2021 - Dispensa de Licitação por Valor (Art. 75)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na Nova Lei de Licitações (Lei nº 14.133/2021), a contratação direta por Dispensa de Licitação em razão do valor aplica-se para:",
+    "options": [
+      { "id": "A", "text": "Obras e serviços de engenharia ou de manutenção de veículos automotores (até R$ 100.000,00 atualizados por decreto), e para outros serviços e compras (até R$ 50.000,00 atualizados)." },
+      { "id": "B", "text": "Qualquer valor desde que haja urgência política." },
+      { "id": "C", "text": "Apenas compras com valor inferior a R$ 500,00." },
+      { "id": "D", "text": "Contratos de publicidade institucional de qualquer montante." },
+      { "id": "E", "text": "Aquisições internacionais com dispensa perpétua." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 75, I e II, da Lei 14.133/2021 fixou valores-base de dispensa (atualizados periodicamente por Decreto Federal) para obras/serviços de engenharia/veículos e para compras e outros serviços."
+  },
+  {
+    "id": "esp-i-02",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 14.133/2021 - Inexigibilidade de Licitação (Art. 74)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A Inexigibilidade de Licitação caracteriza-se juridicamente pela inviabilidade de competição. Nos termos do art. 74 da Lei 14.133/2021, é hipótese de inexigibilidade:",
+    "options": [
+      { "id": "A", "text": "A contratação de profissional do setor artístico, diretamente ou através de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública." },
+      { "id": "B", "text": "A compra de papel sulfite para o expediente dos setores." },
+      { "id": "C", "text": "O abastecimento semanal de gasolina comum dos veículos oficiais." },
+      { "id": "D", "text": "A contratação de empresa de limpeza com mais de 20 concorrentes no município." },
+      { "id": "E", "text": "A aquisição de computadores padrão para as secretarias." }
+    ],
+    "correctOption": "A",
+    "explanation": "A contratação de artista consagrado (art. 74, II), fornecedor exclusivo (art. 74, I) e serviços técnicos especializados de natureza predominantemente intelectual com profissionais de notória especialização (art. 74, III) são clássicos casos de inexigibilidade pela inviabilidade lógica de competição de preços."
+  },
+  {
+    "id": "esp-i-03",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Arquivologia (Métodos de Arquivamento Ideográfico)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Quando os documentos em um arquivo administrativo são organizados pelo seu 'Assunto' ou 'Conteúdo temático', utiliza-se o método:",
+    "options": [
+      { "id": "A", "text": "Ideográfico (por assunto)." },
+      { "id": "B", "text": "Geográfico." },
+      { "id": "C", "text": "Cronológico estrito." },
+      { "id": "D", "text": "Numérico simples sem índice." },
+      { "id": "E", "text": "Soundex fonético puro." }
+    ],
+    "correctOption": "A",
+    "explanation": "O método ideográfico organiza os documentos pelo conteúdo, tema ou assunto, podendo ser alfabético (dicionário ou enciclopédico) ou numérico (decimal, duplex, etc.)."
+  },
+  {
+    "id": "esp-i-04",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Manual de Redação (Identificação do Signatário)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo o Manual de Redação da Presidência da República, a assinatura dos documentos oficiais do Padrão Ofício deve ser composta por:",
+    "options": [
+      { "id": "A", "text": "Nome do signatário (em maiúsculas/minúsculas sem linha de assinatura sobre o nome) e Cargo da autoridade remetente logo abaixo." },
+      { "id": "B", "text": "Apenas o primeiro nome e o número de telefone particular." },
+      { "id": "C", "text": "Um traço horizontal espesso e nenhuma indicação de nome." },
+      { "id": "D", "text": "Foto do servidor e comprovante de filiação partidária." },
+      { "id": "E", "text": "Apenas o apelido pelo qual é conhecido na repartição." }
+    ],
+    "correctOption": "A",
+    "explanation": "A identificação do signatário compõe-se de: nome em destaque e, na linha imediatamente abaixo, o cargo ou função. O Manual condena expressamente a linha pontilhada ou traço para assinar sobre o nome."
+  },
+  {
+    "id": "esp-i-05",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Gestão de Estoques (Custo Médio Ponderado Móvel)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No método de avaliação de estoques pelo Custo Médio Ponderado Móvel, o valor unitário das saídas e do saldo em estoque:",
+    "options": [
+      { "id": "A", "text": "É recalculado a cada nova entrada de mercadorias no almoxarifado, dividindo o custo total acumulado pela quantidade total disponível." },
+      { "id": "B", "text": "Permanece congelado no valor da primeira compra do ano." },
+      { "id": "C", "text": "Equivale sempre ao valor mais alto cobrado no mercado internacional." },
+      { "id": "D", "text": "Ignora a quantidade de produtos comprados." },
+      { "id": "E", "text": "Zera o estoque contábil ao fim de cada mês." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Custo Médio Ponderado Móvel recalcula o preço unitário médio sempre que há uma nova aquisição a preço diferente: Custo Médio = (Valor total do estoque anterior + Valor da nova compra) / (Quantidade total em estoque)."
+  },
+  {
+    "id": "esp-i-06",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Gestão de Processos e Fluxogramas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Em modelagem e mapeamento de processos administrativos públicos (BPM), a representação gráfica que exibe a sequência de etapas, pontos de decisão e o fluxo de trabalho é o:",
+    "options": [
+      { "id": "A", "text": "Fluxograma." },
+      { "id": "B", "text": "Diagrama de Ishikawa de peixe sem setas." },
+      { "id": "C", "text": "Organograma estrutural de cargos." },
+      { "id": "D", "text": "Histograma de frequência salarial." },
+      { "id": "E", "text": "Gráfico de dispersão espacial." }
+    ],
+    "correctOption": "A",
+    "explanation": "O fluxograma é a ferramenta gráfica clássica utilizada para mapear e padronizar o fluxo operacional de processos, identificando gargalos, decisões e tempos de execução."
+  },
+  {
+    "id": "esp-i-07",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 14.133/2021 - Modalidade Diálogo Competitivo (Art. 32)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A modalidade 'Diálogo Competitivo', introduzida pela Lei 14.133/2021, destina-se à contratação de obras, serviços e compras em que a Administração Pública:",
+    "options": [
+      { "id": "A", "text": "Vislumbra inovação tecnológica ou técnica e não pode ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado, desenvolvendo alternativas em diálogo com licitantes pré-selecionados." },
+      { "id": "B", "text": "Pretende vender bens imóveis inservíveis em leilão." },
+      { "id": "C", "text": "Necessita comprar canetas esferográficas com entrega em 24 horas." },
+      { "id": "D", "text": "Dispensa totalmente a apresentação de propostas formais." },
+      { "id": "E", "text": "Contrata exclusivamente empresas do terceiro setor sem fins lucrativos." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 32 da Lei 14.133/2021: o Diálogo Competitivo é restrito a contratações complexas que envolvam inovação tecnológica, impossibilidade de o órgão definir com precisão as especificações técnicas ou necessidade de definir a conformação jurídica e financeira da solução."
+  },
+  {
+    "id": "esp-i-08",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Patrimônio Público (Baixa e Descarte de Bens Inservíveis)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Quando um equipamento da prefeitura é classificado como inservível por não mais atender às necessidades públicas e cuja recuperação for antieconômica (custo superior a 50% de seu valor de mercado), ele é classificado tecnicamente como:",
+    "options": [
+      { "id": "A", "text": "Antieconômico (ou irrecuperável)." },
+      { "id": "B", "text": "Ocioso com pleno rendimento." },
+      { "id": "C", "text": "Bem de consumo imediato." },
+      { "id": "D", "text": "Patrimônio cultural tombado." },
+      { "id": "E", "text": "Ativo imobilizado permanente de alta liquidez." }
+    ],
+    "correctOption": "A",
+    "explanation": "Bens inservíveis classificam-se em: ociosos (em perfeitas condições mas sem uso), recuperáveis (cujo conserto não ultrapassa 50% do valor), antieconômicos (reforma muito cara frente ao rendimento) e irrecuperáveis (perda total)."
+  },
+  {
+    "id": "esp-i-09",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Documentos Oficiais (Ofício vs Memorando na 3ª Edição)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na 3ª edição do Manual de Redação da Presidência da República, quanto às nomenclaturas de Aviso, Ofício e Memorando, ocorreu a seguinte alteração:",
+    "options": [
+      { "id": "A", "text": "Suprimiram-se o Aviso e o Memorando, unificando-se essas comunicações sob o vocábulo único e padronizado \"Ofício\"." },
+      { "id": "B", "text": "Extinguiu-se o Ofício, permanecendo apenas o Memorando." },
+      { "id": "C", "text": "Tornou-se obrigatório o uso do telegrama impresso para secretarias." },
+      { "id": "D", "text": "Criou-se a figura do 'WhatsApp Oficial' com valor de escritura pública." },
+      { "id": "E", "text": "Proibiu-se o uso de qualquer comunicação escrita entre órgãos." }
+    ],
+    "correctOption": "A",
+    "explanation": "A 3ª edição do MRPR aboliu a distinção entre Aviso, Ofício e Memorando, congregando todas as comunicações oficiais externas e internas sob o gênero unificado 'Ofício'."
+  },
+  {
+    "id": "esp-i-10",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Arquivologia (Classificação quanto ao Gênero Documental)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Na classificação arquivística quanto ao GÊNERO, documentos que contêm registros textuais manuscritos, datilografados ou impressos são classificados como:",
+    "options": [
+      { "id": "A", "text": "Documentos Textuais." },
+      { "id": "B", "text": "Documentos Iconográficos." },
+      { "id": "C", "text": "Documentos Cartográficos." },
+      { "id": "D", "text": "Documentos Micrográficos." },
+      { "id": "E", "text": "Documentos Sonoros." }
+    ],
+    "correctOption": "A",
+    "explanation": "Quanto ao gênero: Textuais (documentos escritos em papel ou digitais), Cartográficos (mapas, plantas), Iconográficos (fotografias, gravuras), Filmográficos/Audiovisuais (filmes, vídeos), Sonoros (gravações de áudio) e Micrográficos (microfilmes)."
+  },
+  {
+    "id": "esp-i-11",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 14.133/2021 - Fiscalização e Gestão de Contratos (Art. 117)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos da Lei nº 14.133/2021, a execução do contrato administrativo deve ser acompanhada e fiscalizada por:",
+    "options": [
+      { "id": "A", "text": "1 (um) ou mais fiscais do contrato, representantes da Administração especialmente designados, permitida a contratação de terceiros para assisti-los." },
+      { "id": "B", "text": "Apenas pelo próprio empresário contratado." },
+      { "id": "C", "text": "Exclusivamente por comissão de 10 vereadores." },
+      { "id": "D", "text": "Somente pelo Prefeito Municipal pessoalmente." },
+      { "id": "E", "text": "Pelo cidadão que vencer o sorteio mensal do IPTU." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 117 da Lei 14.133/2021: a execução do contrato deverá ser acompanhada e fiscalizada por 1 ou mais fiscais do contrato, que registrarão todas as ocorrências e determinarão as regularizações necessárias."
+  },
+  {
+    "id": "esp-i-12",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Noções de Arquivamento (Princípio da Proveniência / Respeito aos Fundos)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O princípio arquivístico basilar segundo o qual os arquivos originários de uma mesma entidade, órgão ou indivíduo não devem ser misturados com arquivos de outra entidade geradora denomina-se:",
+    "options": [
+      { "id": "A", "text": "Princípio da Proveniência (ou Respeito aos Fundos)." },
+      { "id": "B", "text": "Princípio da Universalidade Fiscal." },
+      { "id": "C", "text": "Princípio da Indivisibilidade Humana." },
+      { "id": "D", "text": "Princípio da Anterioridade Tributária." },
+      { "id": "E", "text": "Princípio da Oportunidade Econômica." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Princípio da Proveniência (Respeito aos Fundos) determina que o acervo de uma proveniência/fundo deve manter sua individualidade orgânica, nunca se mesclando a fundos de origem distinta."
+  },
+  {
+    "id": "esp-i-13",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Gestão de Materiais (Estoque de Segurança / Mínimo)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No gerenciamento de materiais, o Estoque Mínimo (ou Estoque de Segurança) é a quantidade de material que deve existir no almoxarifado para:",
+    "options": [
+      { "id": "A", "text": "Cobrir eventuais atrasos na entrega por fornecedores ou aumentos imprevistos no consumo durante o tempo de reposição, evitando a ruptura do estoque." },
+      { "id": "B", "text": "Garantir a venda com lucro no comércio local." },
+      { "id": "C", "text": "Bloquear o espaço físico do almoxarifado." },
+      { "id": "D", "text": "Impedir que novos servidores recebam materiais." },
+      { "id": "E", "text": "Substituir as compras anuais da prefeitura." }
+    ],
+    "correctOption": "A",
+    "explanation": "O estoque de segurança é uma margem de amortecimento para prevenir paradas operacionais (ruptura) decorrentes de variações atípicas na demanda ou atrasos no prazo de entrega dos fornecedores."
+  },
+  {
+    "id": "esp-i-14",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Manual de Redação (Concisão e Clareza)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Manual de Redação da Presidência da República, a concisão na escrita oficial é definida como a qualidade de:",
+    "options": [
+      { "id": "A", "text": "Transmitir o máximo de informação com o mínimo de palavras necessárias, sem prejuízo da clareza e do sentido." },
+      { "id": "B", "text": "Usar palavras arcaicas e orações com mais de cem linhas." },
+      { "id": "C", "text": "Omitir informações essenciais para economizar papel." },
+      { "id": "D", "text": "Repetir três vezes a mesma mensagem em parágrafos diferentes." },
+      { "id": "E", "text": "Redigir todo o documento em tópicos com emojis modernos." }
+    ],
+    "correctOption": "A",
+    "explanation": "Concisão é dizer o estritamente necessário com a maior clareza e economia verbal, expurgando floreios, adjetivações excessivas e redundâncias vazias."
+  },
+  {
+    "id": "esp-i-15",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 14.133/2021 - Sanções Administrativas aos Licitantes (Art. 156)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Pela prática de infrações no processo licitatório ou na execução do contrato, o art. 156 da Lei 14.133/2021 prevê a aplicação das seguintes sanções administrativas:",
+    "options": [
+      { "id": "A", "text": "Advertência; Multa; Impedimento de licitar e contratar; e Declaração de inidoneidade para licitar ou contratar." },
+      { "id": "B", "text": "Prisão em regime disciplinar diferenciado e censura pública." },
+      { "id": "C", "text": "Confisco sumário de patrimônio familiar dos acionistas." },
+      { "id": "D", "text": "Suspensão temporária da certidão de nascimento dos diretores." },
+      { "id": "E", "text": "Multa criminal privativa da liberdade." }
+    ],
+    "correctOption": "A",
+    "explanation": "O rol taxativo do art. 156 da Lei 14.133/2021 estabelece quatro sanções: 1) Advertência; 2) Multa; 3) Impedimento de licitar e contratar (por até 3 anos no âmbito da mesma esfera); 4) Declaração de inidoneidade (de 3 a 6 anos perante toda a Administração Pública)."
+  },
+  {
+    "id": "esp-i-16",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Noções de Protocolo (Desapensação e Desentranhamento)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No trâmite processual, a separação definitiva de folhas ou documentos anexados indevidamente ou cuja devolução ao requerente foi autorizada chama-se:",
+    "options": [
+      { "id": "A", "text": "Desentranhamento." },
+      { "id": "B", "text": "Apensamento provisório." },
+      { "id": "C", "text": "Anexação definitiva." },
+      { "id": "D", "text": "Autuação secundária." },
+      { "id": "E", "text": "Ressignificação documental." }
+    ],
+    "correctOption": "A",
+    "explanation": "Desentranhamento é a retirada formal de folhas de um processo por determinação fundamentada, lavrando-se certidão correspondente nos autos para manter a continuidade numérica das folhas."
+  },
+  {
+    "id": "esp-i-17",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Gestão de Projetos no Setor Público (Ciclo PDCA)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O ciclo PDCA é uma metodologia iterativa de gestão de qualidade e projetos amplamente aplicada na melhoria contínua de processos administrativos. Suas quatro etapas são:",
+    "options": [
+      { "id": "A", "text": "Plan (Planejar), Do (Executar), Check (Verificar/Controlar) e Act (Agir corretivamente)." },
+      { "id": "B", "text": "Protocolar, Deferir, Cancelar e Arquivar." },
+      { "id": "C", "text": "Pesquisar, Divulgar, Cobrar e Amortizar." },
+      { "id": "D", "text": "Planejar, Descartar, Custodiar e Auditar." },
+      { "id": "E", "text": "Propor, Deliberar, Contratar e Assinar." }
+    ],
+    "correctOption": "A",
+    "explanation": "O ciclo PDCA (Plan-Do-Check-Act) é a base do aprimoramento contínuo: planejam-se as metas e métodos; executa-se o plano; checam-se os resultados comparando com o planejado; e age-se corretivamente sobre os desvios."
+  },
+  {
+    "id": "esp-i-18",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Métodos de Arquivamento (Geográfico)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No arquivamento pelo método geográfico, ao organizar pastas pelo Estado do Paraná e Cidade de Curitiba, a ordenação alfabética canônica é:",
+    "options": [
+      { "id": "A", "text": "Paraná (Estado) - Curitiba (Capital)." },
+      { "id": "B", "text": "Curitiba - Paraná." },
+      { "id": "C", "text": "Capital - Curitiba - Paraná." },
+      { "id": "D", "text": "Região Sul - Brasil - Curitiba." },
+      { "id": "E", "text": "Por ordem alfabética da primeira letra do prefeito." }
+    ],
+    "correctOption": "A",
+    "explanation": "No método geográfico por estado-cidade, o estado vem em primeiro lugar e a capital precede as demais cidades ou é disposta em destaque alfabético conforme a estrutura adotada."
+  },
+  {
+    "id": "esp-i-19",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 14.133/2021 - Critérios de Julgamento das Propostas (Art. 33)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O artigo 33 da Lei 14.133/2021 estabelece os critérios de julgamento que podem ser adotados na licitação. Assinale a alternativa que contém apenas critérios válidos:",
+    "options": [
+      { "id": "A", "text": "Menor preço; Maior desconto; Melhor técnica ou conteúdo artístico; Técnica e preço; Maior lance (no leilão); e Maior retorno econômico." },
+      { "id": "B", "text": "Menor preço e Sorteio apenas." },
+      { "id": "C", "text": "Maior número de funcionários contratados e Menor tempo de mercado." },
+      { "id": "D", "text": "Indicação política e Menor capital social." },
+      { "id": "E", "text": "Menor preço e Maior margem de lucro declarada." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 33 da Nova Lei de Licitações elenca 6 critérios objetivos de julgamento: I - menor preço; II - maior desconto; III - melhor técnica ou conteúdo artístico; IV - técnica e preço; V - maior lance, no caso de leilão; VI - maior retorno econômico."
+  },
+  {
+    "id": "esp-i-20",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Documentos Oficiais (Requerimento)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O Requerimento é o documento oficial pelo qual o interessado (servidor ou munícipe) postula formalmente a uma autoridade pública um direito, concessão ou vantagem com base na legislação. Sua estrutura básica encerra-se com a fórmula:",
+    "options": [
+      { "id": "A", "text": "\"Nestes termos, pede deferimento.\"" },
+      { "id": "B", "text": "\"Atenciosamente aos superiores.\"" },
+      { "id": "C", "text": "\"Sem mais protestos cordiais.\"" },
+      { "id": "D", "text": "\"Cumpra-se e publique-se.\"" },
+      { "id": "E", "text": "\"Em fé do que lavrei a presente ata.\"" }
+    ],
+    "correctOption": "A",
+    "explanation": "O fecho tradicional e canônico do requerimento é: 'Nestes termos, pede (ou espera) deferimento.', seguido do local, data e assinatura do requerente."
+  },
+  {
+    "id": "esp-a-01",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Matriz de Riscos e Equilíbrio Econômico-Financeiro",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos contratos de grande vulto e obras sob o regime da Lei Federal nº 14.133/2021, a 'Matriz de Alocação de Riscos' é a cláusula contratual indispensável que:",
+    "options": [
+      { "id": "A", "text": "Define a repartição objetiva e antecipada de responsabilidades e encargos financeiros decorrentes de eventos supervenientes extraordinários entre contratante e contratado, delimitando as hipóteses de reequilíbrio econômico-financeiro." },
+      { "id": "B", "text": "Garante lucro mínimo de 50% à empresa mesmo em caso de inexecução culposa." },
+      { "id": "C", "text": "Transfere todos os riscos de acidentes climáticos ao Ministério Público." },
+      { "id": "D", "text": "Isenta o contratante do dever de efetuar qualquer pagamento após a entrega." },
+      { "id": "E", "text": "Substitui a exigência de certidões negativas de débitos trabalhistas." }
+    ],
+    "correctOption": "A",
+    "explanation": "A matriz de alocação de riscos (art. 103 da Lei 14.133/2021) estipula claramente quem suportará o ônus financeiro de cada risco (álea ordinária e extraordinária), impedindo pleitos abusivos de reequilíbrio econômico-financeiro contratual."
+  },
+  {
+    "id": "esp-a-02",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Arquivologia (Classificação e Planos de Destinação Conarq)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo as diretrizes do Conselho Nacional de Arquivos (CONARQ), os documentos de valor permanente (3ª idade documental) possuem como atributo basilar e inegociável:",
+    "options": [
+      { "id": "A", "text": "A inalienabilidade, a imprescritibilidade e a impossibilidade de eliminação (dever de custódia perpétua para fins comprobatórios e histórico-culturais)." },
+      { "id": "B", "text": "A destruição sumária após 30 anos para desafogar o espaço dos almoxarifados." },
+      { "id": "C", "text": "A comercialização de seus originais em leilões particulares." },
+      { "id": "D", "text": "A transferência compulsória para bancos de dados de empresas estrangeiras." },
+      { "id": "E", "text": "A obrigatoriedade de conversão exclusiva em fitas magnéticas VHS." }
+    ],
+    "correctOption": "A",
+    "explanation": "Documentos recolhidos ao arquivo permanente são dotados de valor secundário (histórico, probatório, informativo e científico), sendo imprescritíveis, inalienáveis e absolutamente insuscetíveis de eliminação posterior."
+  },
+  {
+    "id": "esp-a-03",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Manual de Redação (Correlação Sintática e Vocativos)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No que concerne à concordância e regência ao utilizar o pronome de tratamento 'Vossa Excelência', o Manual de Redação da Presidência da República prescreve que:",
+    "options": [
+      { "id": "A", "text": "Os verbos, pronomes possessivos e pronomes oblíquos correlatos devem ser grafados obrigatoriamente na terceira pessoa (ele/sua/seu), embora a pessoa com quem se fala seja a segunda pessoa gramatical." },
+      { "id": "B", "text": "Os verbos devem ser flexionados sempre na segunda pessoa do plural (vós)." },
+      { "id": "C", "text": "O adjetivo deve concordar sempre no gênero feminino, independentemente de quem seja a autoridade destinatária." },
+      { "id": "D", "text": "É obrigatória a intercalação de expressões em latim forense arcaico." },
+      { "id": "E", "text": "O uso de crase é compulsório imediatamente antes de Vossa Excelência." }
+    ],
+    "correctOption": "A",
+    "explanation": "Embora os pronomes de tratamento se refiram à 2ª pessoa do discurso (com quem se fala), a concordância verbal e pronominal dá-se obrigatoriamente na 3ª pessoa ('Vossa Excelência designará seu assessor'). O adjetivo concorda com o sexo da autoridade ('Vossa Excelência está ocupado', para um homem)."
+  },
+  {
+    "id": "esp-a-04",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Contratação Integrada e Semi-integrada",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na Nova Lei de Licitações (Lei 14.133/2021), no regime de 'Contratação Integrada', compete ao contratado privado:",
+    "options": [
+      { "id": "A", "text": "Elaborar e desenvolver os projetos básico e executivo, executar a totalidade das obras e serviços de engenharia e realizar os testes para entrega final em condições de operação." },
+      { "id": "B", "text": "Apenas a execução da obra a partir de projeto básico integralmente fornecido pela Prefeitura." },
+      { "id": "C", "text": "Financiar 100% dos custos da obra sem qualquer pagamento do poder público." },
+      { "id": "D", "text": "Contratar os servidores públicos que irão atuar na fiscalização da obra." },
+      { "id": "E", "text": "Fiscalizar judicialmente a atuação do Tribunal de Contas." }
+    ],
+    "correctOption": "A",
+    "explanation": "Na contratação integrada, a Administração fornece apenas o Anteprojeto de Engenharia, incumbindo ao particular a elaboração tanto do Projeto Básico quanto do Projeto Executivo e a realização completa da obra."
+  },
+  {
+    "id": "esp-a-05",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Gestão de Estoques (Classificação ABC ou Curva de Pareto)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Na gestão de almoxarifados públicos, a classificação de materiais pela Curva ABC define que os itens da 'Classe A':",
+    "options": [
+      { "id": "A", "text": "Representam pequena fração da quantidade física estocada (cerca de 10% a 20% dos itens), mas respondem pela maior fatia do investimento financeiro total (cerca de 70% a 80% do valor do estoque)." },
+      { "id": "B", "text": "São materiais descartáveis de baixíssimo custo e controle dispensável." },
+      { "id": "C", "text": "Equivalem exatamente a 50% dos itens e 50% dos custos em todos os casos." },
+      { "id": "D", "text": "São itens que devem ser eliminados sem qualquer controle de entrada." },
+      { "id": "E", "text": "Referem-se apenas a combustíveis e lubrificantes automotivos." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Análise ABC (baseada no Princípio de Pareto) prioriza a gestão: Classe A (poucos itens, altíssimo valor monetário ~80% do valor); Classe B (itens e valores intermediários); Classe C (grande volume físico, mas ínfimo valor monetário agregado)."
+  },
+  {
+    "id": "esp-a-06",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Sistema de Registro de Preços (SRP)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Sobre o Sistema de Registro de Preços (SRP) disciplinado na Lei 14.133/2021 (arts. 82 a 86), assinale a afirmativa correta:",
+    "options": [
+      { "id": "A", "text": "O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso." },
+      { "id": "B", "text": "A assinatura da ata de registro de preços obriga a Administração a adquirir 100% dos quantitativos registrados." },
+      { "id": "C", "text": "O SRP não pode ser utilizado para a contratação de serviços contínuos." },
+      { "id": "D", "text": "Apenas os órgãos do Poder Judiciário podem atuar como gerenciadores de atas." },
+      { "id": "E", "text": "A adesão de órgãos não participantes (caronas) foi proibida em definitivo." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 84 da Lei 14.133/2021: o prazo de vigência da ata de registro de preços é de 1 ano, prorrogável por igual período (totalizando até 2 anos), desde que comprovada a manutenção da vantajosidade dos preços."
+  },
+  {
+    "id": "esp-a-07",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Patrimônio Público (Depreciação, Amortização e Exaustão)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nas Normas Brasileiras de Contabilidade Aplicadas ao Setor Público (NBC TSP) e na gestão patrimonial, a redução do valor contábil de um bem permanente decorrente do desgaste físico pelo uso, ação da natureza ou obsolescência tecnológica denomina-se:",
+    "options": [
+      { "id": "A", "text": "Depreciação." },
+      { "id": "B", "text": "Alienação fiduciária." },
+      { "id": "C", "text": "Superveniência ativa." },
+      { "id": "D", "text": "Aporte de capital." },
+      { "id": "E", "text": "Desapropriação indireta." }
+    ],
+    "correctOption": "A",
+    "explanation": "Depreciação é o declínio sistemático do potencial de geração de serviços ou benefícios econômicos de ativos imobilizados tangíveis durante sua vida útil estimada."
+  },
+  {
+    "id": "esp-a-08",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Arquivologia (Instrumentos de Pesquisa Arquivística)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No contexto da custódia e descrição arquivística permanente, o 'Guia', o 'Inventário' e o 'Catálogo' são classificados tecnicamente como:",
+    "options": [
+      { "id": "A", "text": "Instrumentos de Pesquisa que possibilitam o acesso e a localização dos documentos no acervo." },
+      { "id": "B", "text": "Planilhas contábeis de prestação de contas fiscais." },
+      { "id": "C", "text": "Formulários restritos de auditoria tributária." },
+      { "id": "D", "text": "Certificados de destruição de arquivos correntes." },
+      { "id": "E", "text": "Listas de patrimônio leiloado." }
+    ],
+    "correctOption": "A",
+    "explanation": "Instrumentos de pesquisa (Guia, Inventário, Catálogo, Repertório) são ferramentas arquivísticas que orientam o consulente na identificação e recuperação de documentos sob a guarda da instituição."
+  },
+  {
+    "id": "esp-a-09",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Agente de Contratação e Pregoeiro (Art. 8º)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do art. 8º da Lei nº 14.133/2021, a condução da licitação é encargo do Agente de Contratação, servidor que deve ser preferencialmente:",
+    "options": [
+      { "id": "A", "text": "Servidor efetivo ou empregado público dos quadros permanentes da Administração Pública, designado pela autoridade competente." },
+      { "id": "B", "text": "Profissional terceirizado contratado sem concurso público." },
+      { "id": "C", "text": "Parente consanguíneo de licitante participante da disputa." },
+      { "id": "D", "text": "Candidato a cargo eletivo em campanha partidária ativa." },
+      { "id": "E", "text": "Auditor militar da ativa." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 8º da Lei 14.133/2021 exige expressamente que o Agente de Contratação (e a comissão de contratação) seja preferencialmente servidor efetivo ou empregado público dos quadros permanentes do órgão público."
+  },
+  {
+    "id": "esp-a-10",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Manual de Redação (Exposição de Motivos e Mensagem)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O expediente oficial pelo qual um Ministro de Estado ou Secretário Municipal submete à consideração do Chefe do Poder Executivo um projeto de ato normativo (projeto de lei, decreto) ou justifica uma medida relevante é denominado:",
+    "options": [
+      { "id": "A", "text": "Exposição de Motivos." },
+      { "id": "B", "text": "Atestado de conduta." },
+      { "id": "C", "text": "Telegrama ordinário." },
+      { "id": "D", "text": "Boletim de caixa." },
+      { "id": "E", "text": "Conhecimento de frete." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Exposição de Motivos (EM) é o documento emitido por titulares de pastas com o propósito de justificar a conveniência e oportunidade de edição de atos legais ou regulamentares ao Chefe do Executivo."
+  },
+  {
+    "id": "esp-a-11",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Gestão Pública (Governança vs Gestão Pública)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No modelo contemporâneo de administração pública preconizado pelo Tribunal de Contas da União (TCU), a distinção essencial entre 'Governança Pública' e 'Gestão Pública' é que a Governança:",
+    "options": [
+      { "id": "A", "text": "Direciona, monitora e avalia estrategicamente as políticas para garantir que atendam aos interesses da sociedade, enquanto a Gestão executa e operacionaliza as ações planejadas." },
+      { "id": "B", "text": "É responsável apenas pelo pagamento de diárias e passagens de servidores." },
+      { "id": "C", "text": "Aplica-se unicamente ao setor privado com fins lucrativos." },
+      { "id": "D", "text": "Substitui a exigência de concursos públicos na prefeitura." },
+      { "id": "E", "text": "É a execução manual dos serviços diários de conservação e limpeza." }
+    ],
+    "correctOption": "A",
+    "explanation": "Governança atua nas instâncias superiores definindo diretrizes estratégicas, monitorando e avaliando a conduta institucional (avaliação, direcionamento e monitoramento). A Gestão é responsável pelo planejamento operacional, execução e controle das atividades diárias."
+  },
+  {
+    "id": "esp-a-12",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Extinção Contratual e Prerrogativas Públicas",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos contratos administrativos decorrentes da Lei 14.133/2021, a Administração Pública detém prerrogativas especiais (cláusulas exorbitantes) que lhe permitem, fundamentadamente:",
+    "options": [
+      { "id": "A", "text": "Modificar unilateralmente o contrato para melhor adequação ao interesse público e rescindi-lo unilateralmente nos casos especificados em lei, respeitados os limites legais e o direito de ampla defesa." },
+      { "id": "B", "text": "Expropriar os bens particulares dos acionistas da empresa sem processo judicial." },
+      { "id": "C", "text": "Não pagar pelos serviços já prestados e atestados na obra." },
+      { "id": "D", "text": "Alterar o objeto contratual em 100% de forma ilimitada e discricionária." },
+      { "id": "E", "text": "Prender o representante legal da empresa em caso de atraso na entrega." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 104 da Lei 14.133/2021 consagra as prerrogativas da Administração: modificar unilateralmente o contrato (dentro dos limites legais de até 25% para acréscimos/supressões ordinárias), rescindi-lo unilateralmente, fiscalizar e aplicar sanções."
+  },
+  {
+    "id": "esp-a-13",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Gestão de Materiais e Almoxarifado (Lote Econômico de Compra - LEC)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O cálculo do Lote Econômico de Compras (LEC) na administração de recursos materiais busca encontrar a quantidade ideal de aquisição que:",
+    "options": [
+      { "id": "A", "text": "Minimiza o custo total resultante do somatório entre os custos de pedido (aquisição) e os custos de posse (manutenção e estocagem dos materiais)." },
+      { "id": "B", "text": "Maximiza o volume físico de produtos no armazém até o teto." },
+      { "id": "C", "text": "Garante a compra exclusiva no último dia útil de cada ano fiscal." },
+      { "id": "D", "text": "Elimina totalmente a necessidade de realizar licitações públicas." },
+      { "id": "E", "text": "Determina o descarte imediato dos materiais mais caros." }
+    ],
+    "correctOption": "A",
+    "explanation": "O modelo do LEC objetiva equilibrar os custos associados a fazer pedidos (pedidos frequentes elevam custo administrativo) com os custos de carregar estoque (manter grandes volumes guardados custa espaço, risco e capital), encontrando o ponto de mínimo custo global."
+  },
+  {
+    "id": "esp-a-14",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Arquivologia (Conservação, Restauração e Preservação de Suportes)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nas dependências do arquivo permanente municipal, o controle de temperatura (em torno de 18ºC a 22ºC) e de umidade relativa do ar (entre 45% e 55%) tem como objetivo técnico primordial:",
+    "options": [
+      { "id": "A", "text": "Prevenir o ressecamento do papel, a proliferação de fungos (bolor) e a degradação biológica e química do suporte documental." },
+      { "id": "B", "text": "Economizar na conta de luz dos servidores municipais." },
+      { "id": "C", "text": "Substituir a dedetização predial contra roedores." },
+      { "id": "D", "text": "Permitir a secagem rápida de documentos impressos a laser." },
+      { "id": "E", "text": "Congelar documentos secretos em cofres criogênicos." }
+    ],
+    "correctOption": "A",
+    "explanation": "O controle ambiental estrito em arquivos visa conter a proliferação de agentes biológicos destruidores (fungos e insetos) e desacelerar reações químicas de oxidação e hidrólise ácida das fibras de celulose do papel."
+  },
+  {
+    "id": "esp-a-15",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Portal Nacional de Contratações Públicas (PNCP)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O Portal Nacional de Contratações Públicas (PNCP), instituído pelo art. 174 da Lei 14.133/2021, é o sítio eletrônico oficial centralizado que tem por objetivo:",
+    "options": [
+      { "id": "A", "text": "Divulgar obrigatoriamente os editais, atas de registro de preços e contratos de todos os entes federativos, sendo condição indispensável para a eficácia dos atos administrativos de contratação." },
+      { "id": "B", "text": "Substituir todas as contas bancárias da prefeitura de Curitiba." },
+      { "id": "C", "text": "Funcionar como rede social restrita para os prefeitos do Brasil." },
+      { "id": "D", "text": "Disponibilizar download gratuito de softwares de uso pessoal para servidores." },
+      { "id": "E", "text": "Emitir passaportes e carteiras de identidade para cidadãos." }
+    ],
+    "correctOption": "A",
+    "explanation": "O PNCP centraliza a publicidade de todos os atos de compras e contratações públicas do país. A publicação do extrato do contrato no PNCP é condição legal de sua eficácia jurídica perante terceiros."
+  },
+  {
+    "id": "esp-a-16",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Manual de Redação (Padrão Ofício - Diagramação e Tipografia)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Segundo as normas de padronização visual da 3ª edição do Manual de Redação da Presidência da República, as fontes tipográficas recomendadas para documentos do Padrão Ofício e o espaçamento entrelinhas padrão são:",
+    "options": [
+      { "id": "A", "text": "Calibri ou Carlito, tamanho 12 para o corpo do texto (e tamanho 10 para citações e notas), com espaçamento simples entre linhas." },
+      { "id": "B", "text": "Comic Sans em tamanho 16 com entrelinhas duplo." },
+      { "id": "C", "text": "Impact em negrito itálico com entrelinhas de 2,5 cm." },
+      { "id": "D", "text": "Gothic negritado exclusivo em fonte tamanho 8." },
+      { "id": "E", "text": "Qualquer fonte decorativa colorida à escolha do redator." }
+    ],
+    "correctOption": "A",
+    "explanation": "A 3ª edição do MRPR adotou as fontes padrão Calibri ou Carlito (12 pt para o corpo do texto, 10 pt para citações recuadas e notas de rodapé), com entrelinhas simples e parágrafos com recuo de 2,5 cm na primeira linha."
+  },
+  {
+    "id": "esp-a-17",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Gestão de Riscos e Compliance na Administração Pública",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Na gestão de riscos corporativos do setor público (modelo COSO / ISO 31000), a primeira linha de defesa (ou primeira camada de controle interno) é composta por:",
+    "options": [
+      { "id": "A", "text": "Pelos próprios gestores operacionais e servidores públicos que executam os processos de trabalho no dia a dia." },
+      { "id": "B", "text": "Exclusivamente por juízes de varas da fazenda pública." },
+      { "id": "C", "text": "Por peritos da Polícia Civil em regime de plantão." },
+      { "id": "D", "text": "Apenas pelos auditores independentes do Tribunal de Contas." },
+      { "id": "E", "text": "Pelos contribuintes em audiência pública anual." }
+    ],
+    "correctOption": "A",
+    "explanation": "No modelo das Três Linhas: 1ª linha = os gestores e equipes operacionais responsáveis por gerenciar diretamente os riscos e controles no dia a dia; 2ª linha = áreas de conformidade, riscos e controle interno; 3ª linha = auditoria interna independente."
+  },
+  {
+    "id": "esp-a-18",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.133/2021 - Seguro-Garantia com Cláusula de Retomada (Step-in Rights)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Na Lei Federal nº 14.133/2021 (art. 102), para obras e serviços de engenharia de grande vulto, o edital pode exigir seguro-garantia com cláusula de retomada (step-in rights) de até 30% do valor inicial do contrato. Essa cláusula assegura que:",
+    "options": [
+      { "id": "A", "text": "Em caso de inadimplemento da empresa contratada, a seguradora assumirá a execução e concluirá a obra por conta própria ou mediante subcontratação, evitando a paralisação do empreendimento público." },
+      { "id": "B", "text": "O valor da garantia é doado aos partidos políticos da situação." },
+      { "id": "C", "text": "A prefeitura transfere a titularidade do imóvel para o banco privado." },
+      { "id": "D", "text": "A seguradora não precisará pagar nada se houver atraso na obra." },
+      { "id": "E", "text": "A obra deve ser demolida integralmente sem perícia prévia." }
+    ],
+    "correctOption": "A",
+    "explanation": "A cláusula de retomada autoriza a seguradora a intervir e assumir a execução do contrato inadimplido, subcontratando outra empresa para finalizar a obra pública sem que o município fique com esqueletos ou obras inacabadas."
+  },
+  {
+    "id": "esp-a-19",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Arquivologia (Microfilmagem e Digitalização de Documentos)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do Decreto Federal nº 10.278/2020 e da Lei nº 12.682/2012, para que um documento público digitalizado tenha os mesmos efeitos legais e o mesmo valor probatório do documento original em papel, é exigido:",
+    "options": [
+      { "id": "A", "text": "Assinatura digital com certificado no padrão da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), observados os requisitos de integridade, confiabilidade e metadados mínimos." },
+      { "id": "B", "text": "Apenas fotografia colorida tirada por câmera de celular de qualquer resolução." },
+      { "id": "C", "text": "Carimbo manual de borracha aposto sobre a tela do monitor." },
+      { "id": "D", "text": "Reconhecimento de firma presencial em três cartórios diferentes de Curitiba." },
+      { "id": "E", "text": "Envio do arquivo compactado em disquete magnético antigo." }
+    ],
+    "correctOption": "A",
+    "explanation": "A legislação brasileira confere fé pública e equivalência ao documento digitalizado desde que contenha assinatura digital no padrão ICP-Brasil e metadados que garantam rastreabilidade, confidencialidade e integridade."
+  },
+  {
+    "id": "esp-a-20",
+    "subject": "conhecimentos_especificos",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Manual de Redação (Padronização e Numeração de Documentos)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Na identificação do expediente oficial do Padrão Ofício, a forma correta de grafia no canto superior esquerdo da página é:",
+    "options": [
+      { "id": "A", "text": "Ofício 123/2026/SGM-PMC" },
+      { "id": "B", "text": "Ofício nº 123 do ano 2026 da prefeitura" },
+      { "id": "C", "text": "DOC-OFÍCIO 123, aos 12 dias do mês de maio" },
+      { "id": "D", "text": "Ofício número 123" },
+      { "id": "E", "text": "Carta Oficiosa de nº 123/26" }
+    ],
+    "correctOption": "A",
+    "explanation": "O Manual de Redação da Presidência da República prescreve a seguinte estrutura para a identificação do expediente: tipo de documento (Ofício) + número sequencial / ano com 4 dígitos / sigla do órgão expedidor em letras maiúsculas (ex: Ofício 123/2026/SGM-PMC)."
+  }
+]

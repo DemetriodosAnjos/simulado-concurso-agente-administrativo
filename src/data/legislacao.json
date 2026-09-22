@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "leg-b-01",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Princípios da Administração Pública (Art. 37)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo o artigo 37 da Constituição Federal de 1988, a administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos seguintes princípios expressos:",
+    "options": [
+      { "id": "A", "text": "Legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE)." },
+      { "id": "B", "text": "Legalidade, proporcionalidade, razoabilidade, sigilo e discricionariedade." },
+      { "id": "C", "text": "Isonomia, impessoalidade, supremacia, publicidade e lealdade." },
+      { "id": "D", "text": "Autonomia, hierarquia, economicidade, probidade e decoro." },
+      { "id": "E", "text": "Transparência, impessoalidade, antiguidade, produtividade e celeridade." }
+    ],
+    "correctOption": "A",
+    "explanation": "O caput do artigo 37 da CF/88 consagra expressamente o rol conhecido pelo mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência."
+  },
+  {
+    "id": "leg-b-02",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Lei Federal nº 10.048/2000 - Prioridade de Atendimento",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "De acordo com a Lei Federal nº 10.048/2000 e suas atualizações, têm direito a atendimento prioritário nas repartições públicas e concessionárias de serviços públicos:",
+    "options": [
+      { "id": "A", "text": "Pessoas com deficiência, pessoas idosas, gestantes, lactantes, pessoas com criança de colo e pessoas com obesidade mórbida." },
+      { "id": "B", "text": "Apenas servidores públicos e advogados munidos de procuração." },
+      { "id": "C", "text": "Apenas cidadãos maiores de 80 anos." },
+      { "id": "D", "text": "Qualquer munícipe que agendar o atendimento com 48 horas de antecedência." },
+      { "id": "E", "text": "Exclusivamente gestantes no último trimestre de gestação." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Lei nº 10.048/2000 (art. 1º) confere prioridade de atendimento às pessoas com deficiência, às pessoas idosas, às gestantes, às lactantes, às pessoas com crianças de colo, aos obesos e às pessoas com transtorno do espectro autista."
+  },
+  {
+    "id": "leg-b-03",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Estatuto dos Funcionários Públicos de Curitiba (Lei 1.656/1958)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos da Lei Municipal nº 1.656/1958 (Estatuto dos Funcionários Públicos Municipais de Curitiba), o ato pelo qual o cidadão é investido em cargo público denomina-se:",
+    "options": [
+      { "id": "A", "text": "Nomeação." },
+      { "id": "B", "text": "Posse." },
+      { "id": "C", "text": "Exercício." },
+      { "id": "D", "text": "Lotação." },
+      { "id": "E", "text": "Homologação." }
+    ],
+    "correctOption": "B",
+    "explanation": "A investidura no cargo público municipal ocorre com a posse, momento em que se aceitam expressamente as atribuições, deveres e responsabilidades inerentes ao cargo."
+  },
+  {
+    "id": "leg-b-04",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Lei de Acesso à Informação (Lei 12.527/2011)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Segundo a Lei de Acesso à Informação (LAI - Lei nº 12.527/2011), como regra geral na administração pública, o acesso à informação deve ser:",
+    "options": [
+      { "id": "A", "text": "O sigilo é a regra e a publicidade é a exceção." },
+      { "id": "B", "text": "A publicidade é a regra geral e o sigilo é a exceção expressamente motivada em lei." },
+      { "id": "C", "text": "Condicionado ao pagamento de taxas de protocolo em qualquer caso." },
+      { "id": "D", "text": "Restrito exclusivamente a pessoas com formação jurídica." },
+      { "id": "E", "text": "Permitido apenas a requerimentos com justificativa pessoal aceita pelo prefeito." }
+    ],
+    "correctOption": "B",
+    "explanation": "O art. 3º, I, da LAI consagra expressamente como diretriz que 'a publicidade é a regra e o sigilo é a exceção'."
+  },
+  {
+    "id": "leg-b-05",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Direitos e Garantias Fundamentais (Art. 5º)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "De acordo com o artigo 5º da CF/88, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de:",
+    "options": [
+      { "id": "A", "text": "Flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial." },
+      { "id": "B", "text": "Cobrança de tributos municipais atrasados durante o horário de expediente." },
+      { "id": "C", "text": "Determinação da autoridade policial a qualquer hora da noite." },
+      { "id": "D", "text": "Suspeita leve de infração de trânsito em vias vicinais." },
+      { "id": "E", "text": "Intimação de testemunha para audiência administrativa." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 5º, XI: 'a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial'."
+  },
+  {
+    "id": "leg-b-06",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Lei Orgânica de Curitiba (Poderes Municipais)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos da Lei Orgânica do Município de Curitiba, são Poderes do Município, independentes e harmônicos entre si:",
+    "options": [
+      { "id": "A", "text": "O Legislativo e o Executivo." },
+      { "id": "B", "text": "O Legislativo, o Executivo e o Judiciário." },
+      { "id": "C", "text": "O Executivo e o Ministério Público." },
+      { "id": "D", "text": "O Legislativo e a Defensoria Pública." },
+      { "id": "E", "text": "O Executivo e o Tribunal de Contas." }
+    ],
+    "correctOption": "A",
+    "explanation": "No âmbito municipal brasileiro não há Poder Judiciário próprio. Os Poderes do Município são exclusivamente o Poder Legislativo (Câmara Municipal) e o Poder Executivo (Prefeitura Municipal)."
+  },
+  {
+    "id": "leg-b-07",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "ECA (Lei 8.069/1990) - Definição de Criança e Adolescente",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Para os efeitos do Estatuto da Criança e do Adolescente (art. 2º da Lei 8.069/1990), considera-se criança a pessoa até:",
+    "options": [
+      { "id": "A", "text": "10 anos de idade incompletos." },
+      { "id": "B", "text": "12 anos de idade incompletos, e adolescente aquela entre 12 e 18 anos de idade." },
+      { "id": "C", "text": "14 anos de idade completos." },
+      { "id": "D", "text": "16 anos de idade incompletos." },
+      { "id": "E", "text": "18 anos de idade incompletos." }
+    ],
+    "correctOption": "B",
+    "explanation": "Art. 2º do ECA: 'Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade'."
+  },
+  {
+    "id": "leg-b-08",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Estabilidade do Servidor Público (Art. 41)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Segundo o artigo 41 da CF/88, são estáveis após quanto tempo de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público?",
+    "options": [
+      { "id": "A", "text": "1 ano." },
+      { "id": "B", "text": "2 anos." },
+      { "id": "C", "text": "3 anos." },
+      { "id": "D", "text": "5 anos." },
+      { "id": "E", "text": "10 anos." }
+    ],
+    "correctOption": "C",
+    "explanation": "Com a Emenda Constitucional nº 19/1998, o prazo de estágio probatório para aquisição de estabilidade no serviço público é de 3 (três) anos de efetivo exercício, condicionado à avaliação especial de desempenho."
+  },
+  {
+    "id": "leg-b-09",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Lei Federal nº 8.429/1992 - Improbidade Administrativa",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Com as alterações promovidas pela Lei Federal nº 14.230/2021 na Lei de Improbidade Administrativa, a configuração dos atos de improbidade administrativa exige a demonstração de:",
+    "options": [
+      { "id": "A", "text": "Dolo específico, tendo sido revogada a modalidade culposa em todas as condutas." },
+      { "id": "B", "text": "Culpa simples ou imperícia funcional." },
+      { "id": "C", "text": "Negligência grave devidamente comprovada." },
+      { "id": "D", "text": "Mero erro de interpretação gramatical da norma." },
+      { "id": "E", "text": "Dano presumido sem necessidade de elemento subjetivo." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Lei nº 14.230/2021 alterou substancialmente a Lei nº 8.429/1992, exigindo expressamente o dolo (vontade livre e consciente de alcançar o resultado ilícito) para todas as modalidades de improbidade, revogando a forma culposa."
+  },
+  {
+    "id": "leg-b-10",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "LINDB (Decreto-Lei 4.657/1942)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O artigo 20 da LINDB estabelece que, nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas:",
+    "options": [
+      { "id": "A", "text": "As consequências práticas da decisão." },
+      { "id": "B", "text": "As opiniões de redes sociais digitais." },
+      { "id": "C", "text": "As indicações políticas de líderes partidários." },
+      { "id": "D", "text": "Apenas as teses doutrinárias estrangeiras." },
+      { "id": "E", "text": "A vontade pessoal soberana do julgador." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 20 da LINDB (incluído pela Lei 13.655/2018): 'Nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão'."
+  },
+  {
+    "id": "leg-b-11",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Princípios Fundamentais (Art. 1º)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "São fundamentos da República Federativa do Brasil, expressos no artigo 1º da CF/88, EXCETO:",
+    "options": [
+      { "id": "A", "text": "A soberania." },
+      { "id": "B", "text": "A cidadania." },
+      { "id": "C", "text": "A dignidade da pessoa humana." },
+      { "id": "D", "text": "Os valores sociais do trabalho e da livre iniciativa." },
+      { "id": "E", "text": "A intervenção estatal compulsória em toda propriedade privada." }
+    ],
+    "correctOption": "E",
+    "explanation": "Os fundamentos da RFB (art. 1º) são: Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, e Pluralismo político (mnemônico SO-CI-DI-VA-PLU)."
+  },
+  {
+    "id": "leg-b-12",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "LGPD (Lei 13.709/2018) - Conceito de Dado Pessoal",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A LGPD define 'dado pessoal' como:",
+    "options": [
+      { "id": "A", "text": "Informação relacionada a pessoa natural identificada ou identificável." },
+      { "id": "B", "text": "Apenas o número do CPF e o nome da mãe." },
+      { "id": "C", "text": "Qualquer dado pertencente a pessoas jurídicas de direito público." },
+      { "id": "D", "text": "Exclusivamente informações de prontuários médicos e biometria." },
+      { "id": "E", "text": "Arquivos eletrônicos gravados em pendrives municipais." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 5º, I, da LGPD: dado pessoal é qualquer 'informação relacionada a pessoa natural identificada ou identificável'."
+  },
+  {
+    "id": "leg-b-13",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Estatuto dos Servidores de Curitiba (Deveres Funcionais)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos da Lei Municipal nº 1.656/1958, constitui dever fundamental do funcionário público municipal:",
+    "options": [
+      { "id": "A", "text": "Exercer com zelo e dedicação as atribuições do cargo." },
+      { "id": "B", "text": "Recusar atendimento ao cidadão em dias chuvosos." },
+      { "id": "C", "text": "Divulgar senhas internas para agilizar serviços a conhecidos." },
+      { "id": "D", "text": "Utilizar papel timbrado oficial para interesses particulares." },
+      { "id": "E", "text": "Ausentar-se do serviço sem autorização prévia da chefia." }
+    ],
+    "correctOption": "A",
+    "explanation": "Constitui dever do funcionário público exercer com zelo e dedicação as atribuições funcionais, guardar lealdade às instituições e atender com presteza ao público em geral."
+  },
+  {
+    "id": "leg-b-14",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Lei Municipal nº 7.671/1991 (Poder Executivo de Curitiba)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A Lei Municipal nº 7.671/1991 dispõe sobre a Organização Administrativa do Poder Executivo do Município de Curitiba, que tem na sua cúpula decisória e representativa:",
+    "options": [
+      { "id": "A", "text": "O Prefeito Municipal, auxiliado pelos Secretários Municipais." },
+      { "id": "B", "text": "Apenas os vereadores da mesa diretora." },
+      { "id": "C", "text": "O Procurador-Geral do Estado do Paraná." },
+      { "id": "D", "text": "O Governador do Estado." },
+      { "id": "E", "text": "O Presidente do Tribunal de Justiça." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Poder Executivo Municipal de Curitiba é chefiado pelo Prefeito Municipal, auxiliado diretamente pelos Secretários Municipais e órgãos colegiados conforme a Lei nº 7.671/1991."
+  },
+  {
+    "id": "leg-b-15",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Autonomia Municipal (Art. 18)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo o artigo 18 da CF/88, a organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos:",
+    "options": [
+      { "id": "A", "text": "Autônomos, nos termos da Constituição." },
+      { "id": "B", "text": "Soberanos internacionalmente." },
+      { "id": "C", "text": "Subordinados hierarquicamente ao Distrito Federal." },
+      { "id": "D", "text": "Dependentes de autorização do Senado para legislar." },
+      { "id": "E", "text": "Desprovidos de patrimônio próprio." }
+    ],
+    "correctOption": "A",
+    "explanation": "O artigo 18 consagra que a União, Estados, DF e Municípios são dotados de AUTONOMIA política, financeira e administrativa. A Soberania pertence unicamente à República Federativa do Brasil (ao todo nacional)."
+  },
+  {
+    "id": "leg-b-16",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Lei de Acesso à Informação (Prazos de Resposta)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Não sendo possível o acesso imediato à informação solicitada via LAI, o órgão público terá o prazo de até quantos dias para responder ao cidadão, prorrogável por mais 10 dias mediante justificativa expressa?",
+    "options": [
+      { "id": "A", "text": "10 dias." },
+      { "id": "B", "text": "15 dias." },
+      { "id": "C", "text": "20 dias." },
+      { "id": "D", "text": "30 dias." },
+      { "id": "E", "text": "60 dias." }
+    ],
+    "correctOption": "C",
+    "explanation": "Art. 11, § 1º, da LAI: prazo de até 20 (vinte) dias, prorrogável por mais 10 (dez) dias mediante justificativa expressa encaminhada ao requerente."
+  },
+  {
+    "id": "leg-b-17",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Direito de Petição e Certidões (Art. 5º, XXXIV)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder e a obtenção de certidões em repartições públicas são assegurados a todos:",
+    "options": [
+      { "id": "A", "text": "Independentemente do pagamento de taxas." },
+      { "id": "B", "text": "Mediante cobrança de emolumentos fixados pelo órgão." },
+      { "id": "C", "text": "Apenas a quem comprovar renda inferior a dois salários mínimos." },
+      { "id": "D", "text": "Somente com a intermediação obrigatória de advogado." },
+      { "id": "E", "text": "Desde que haja autorização prévia da Câmara de Vereadores." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 5º, XXXIV: são a todos assegurados, INDEPENDENTEMENTE DO PAGAMENTO DE TAXAS: o direito de petição e a obtenção de certidões para defesa de direitos e esclarecimento de situações de interesse pessoal."
+  },
+  {
+    "id": "leg-b-18",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "ECA - Princípio da Prioridade Absoluta",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos do artigo 4º do ECA, a garantia de prioridade absoluta compreende a:",
+    "options": [
+      { "id": "A", "text": "Primazia de receber proteção e socorro em quaisquer circunstâncias e preferência na formulação e execução das políticas públicas sociais." },
+      { "id": "B", "text": "Isenção perpétua de tributos para seus familiares." },
+      { "id": "C", "text": "Possibilidade de descumprir normas municipais de trânsito." },
+      { "id": "D", "text": "Contratação de adolescentes de 10 anos no serviço público." },
+      { "id": "E", "text": "Dispensa da obrigatoriedade escolar após os 12 anos." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 4º, parágrafo único, do ECA: a garantia de prioridade compreende primazia em proteção e socorro, precedência no atendimento nos serviços públicos e preferência na destinação privilegiada de recursos públicos."
+  },
+  {
+    "id": "leg-b-19",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "Estatuto de Curitiba (Formas de Provimento)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O retorno à atividade do funcionário público municipal de Curitiba que se encontrava em disponibilidade denomina-se:",
+    "options": [
+      { "id": "A", "text": "Aproveitamento." },
+      { "id": "B", "text": "Reintegração." },
+      { "id": "C", "text": "Reversão." },
+      { "id": "D", "text": "Readaptação." },
+      { "id": "E", "text": "Recondução." }
+    ],
+    "correctOption": "A",
+    "explanation": "Aproveitamento é o retorno obrigatório à atividade do funcionário em disponibilidade em cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado."
+  },
+  {
+    "id": "leg-b-20",
+    "subject": "legislacao",
+    "difficulty": "basico",
+    "levelNumber": 1,
+    "subtopic": "CF/88 - Vedações Constitucionais da Federação (Art. 19)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "De acordo com o artigo 19 da CF/88, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:",
+    "options": [
+      { "id": "A", "text": "Estabelecer cultos religiosos ou igrejas, subvencioná-los ou embaraçar-lhes o funcionamento." },
+      { "id": "B", "text": "Cobrar IPTU de imóveis urbanos residenciais." },
+      { "id": "C", "text": "Realizar concursos públicos para provimento de cargos." },
+      { "id": "D", "text": "Instituir guarda municipal para proteção de bens e instalações." },
+      { "id": "E", "text": "Firmar convênios administrativos com entidades privadas de saúde." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Estado brasileiro é laico: o art. 19, I, da CF/88 veda a qualquer ente federativo criar ou subvencionar cultos religiosos ou criar distinções entre brasileiros com base em credo."
+  },
+  {
+    "id": "leg-i-01",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 8.429/1992 - Atos de Improbidade (Tipologia)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo a Lei nº 8.429/1992 (com redação da Lei nº 14.230/2021), os atos de improbidade administrativa dividem-se em três modalidades principais, que são atos que:",
+    "options": [
+      { "id": "A", "text": "Importam enriquecimento ilícito (art. 9º), causam prejuízo ao erário (art. 10) e atentam contra os princípios da administração pública (art. 11)." },
+      { "id": "B", "text": "Causam dano moral, ofensa à honra e sonegação fiscal." },
+      { "id": "C", "text": "Violam a ordem econômica, cartelização e corrupção eleitoral apenas." },
+      { "id": "D", "text": "Importam falta grave, advertência e suspensão funcional." },
+      { "id": "E", "text": "Descumprem horário, insubordinação e negligência no protocolo." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Lei nº 8.429/1992 organiza os atos de improbidade nos artigos 9º (Enriquecimento Ilícito), 10 (Prejuízo ao Erário) e 11 (Violação aos Princípios da Administração Pública), tendo sido revogado o art. 10-A."
+  },
+  {
+    "id": "leg-i-02",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "LGPD no Setor Público (Art. 23)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo o art. 23 da LGPD (Lei 13.709/2018), o tratamento de dados pessoais pelas pessoas jurídicas de direito público deve ser realizado para o atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de:",
+    "options": [
+      { "id": "A", "text": "Executar as competências legais ou cumprir as atribuições legais do serviço público." },
+      { "id": "B", "text": "Comercializar cadastros de contribuintes com empresas privadas de marketing." },
+      { "id": "C", "text": "Monopolizar o acesso a informações em redes sociais dos servidores." },
+      { "id": "D", "text": "Cobrar taxas adicionais a cada certidão solicitada por munícipes." },
+      { "id": "E", "text": "Substituir o consentimento em todo e qualquer contrato particular dos cidadãos." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 23 da LGPD estipula que os órgãos públicos tratam dados pessoais para executar suas competências legais e cumprir as atribuições legais do serviço público, informando as hipóteses de tratamento e mantendo a transparência."
+  },
+  {
+    "id": "leg-i-03",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Estatuto dos Servidores de Curitiba - Penalidades Disciplinares",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Conforme a Lei Municipal nº 1.656/1958, são penas disciplinares aplicáveis aos funcionários públicos municipais:",
+    "options": [
+      { "id": "A", "text": "Repreensão, suspensão, demissão, cassação de aposentadoria ou disponibilidade e destituição de função." },
+      { "id": "B", "text": "Prisão administrativa em regime fechado e perda dos direitos políticos." },
+      { "id": "C", "text": "Multa civil obrigatória e prestação de serviços comunitários aos finais de semana." },
+      { "id": "D", "text": "Transferência compulsória para outro município do estado." },
+      { "id": "E", "text": "Perda dos direitos civis e bloqueio bancário sumário." }
+    ],
+    "correctOption": "A",
+    "explanation": "As penas disciplinares estatutárias são: repreensão, suspensão, demissão, cassação de aposentadoria/disponibilidade e destituição de função de confiança."
+  },
+  {
+    "id": "leg-i-04",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "CF/88 - Remédios Constitucionais (Mandado de Segurança)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do art. 5º, LXIX, da CF/88, conceder-se-á mandado de segurança para proteger direito:",
+    "options": [
+      { "id": "A", "text": "Líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público." },
+      { "id": "B", "text": "À liberdade de locomoção, sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação." },
+      { "id": "C", "text": "Ao conhecimento de informações relativas à pessoa do impetrante constantes de registros públicos." },
+      { "id": "D", "text": "À anulação de ato lesivo ao patrimônio público por qualquer cidadão." },
+      { "id": "E", "text": "À edição de norma regulamentadora que falte para inviabilizar o exercício de direitos constitucionais." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Mandado de Segurança é a garantia constitucional destinada à proteção de direito líquido e certo (comprovado documentalmente de plano), com caráter residual frente ao habeas corpus e habeas data."
+  },
+  {
+    "id": "leg-i-05",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "LINDB - Erro Grosseiro e Responsabilidade do Agente Público (Art. 28)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O artigo 28 da LINDB estabelece que o agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de:",
+    "options": [
+      { "id": "A", "text": "Dolo ou erro grosseiro." },
+      { "id": "B", "text": "Qualquer erro material leve de digitação." },
+      { "id": "C", "text": "Mudança superveniente de orientação jurisprudencial." },
+      { "id": "D", "text": "Culpa levíssima em situações de urgência." },
+      { "id": "E", "text": "Decisão que desagrade ao superior hierárquico." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 28 da LINDB: 'O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro'."
+  },
+  {
+    "id": "leg-i-06",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Competências Municipais na CF/88 (Art. 30)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do artigo 30 da Constituição Federal, compete expressamente aos Municípios:",
+    "options": [
+      { "id": "A", "text": "Legislar sobre assuntos de interesse local e suplementar a legislação federal e a estadual no que couber." },
+      { "id": "B", "text": "Emitir moeda nacional e controlar as reservas cambiais do país." },
+      { "id": "C", "text": "Manter relações com Estados estrangeiros e declarar guerra." },
+      { "id": "D", "text": "Instituir impostos sobre comércio exterior e importação de produtos." },
+      { "id": "E", "text": "Legislar com exclusividade sobre direito penal e processual." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 30, I e II: compete aos Municípios legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual no que couber."
+  },
+  {
+    "id": "leg-i-07",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei de Acesso à Informação (Classificação de Sigilo)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Conforme a Lei nº 12.527/2011 (LAI), a informação em poder dos órgãos públicos pode ser classificada quanto ao grau de sigilo em:",
+    "options": [
+      { "id": "A", "text": "Ultrassecreta (prazo máximo de 25 anos), Secreta (15 anos) e Reservada (5 anos)." },
+      { "id": "B", "text": "Confidencial (30 anos), Sigilosa (20 anos) e Aberta (10 anos)." },
+      { "id": "C", "text": "Máxima (50 anos), Média (25 anos) e Mínima (5 anos)." },
+      { "id": "D", "text": "Perpétua, Transitória e Provisória." },
+      { "id": "E", "text": "Restrita (10 anos) e Pública (imediata)." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 24 da LAI: os prazos máximos de restrição de acesso são: Ultrassecreta = até 25 anos; Secreta = até 15 anos; Reservada = até 5 anos."
+  },
+  {
+    "id": "leg-i-08",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei Orgânica de Curitiba (Competência Tributária Municipal)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "De acordo com a CF/88 e a Lei Orgânica do Município de Curitiba, são tributos de competência privativa do Município:",
+    "options": [
+      { "id": "A", "text": "IPTU, ISSQN (ISS) e ITBI." },
+      { "id": "B", "text": "ICMS, IPVA e ITCMD." },
+      { "id": "C", "text": "IR, IPI e ITR." },
+      { "id": "D", "text": "IOF, Cide-Combustíveis e PIS/Pasep." },
+      { "id": "E", "text": "IGF e Contribuição Sindical." }
+    ],
+    "correctOption": "A",
+    "explanation": "Os impostos municipais (art. 156 da CF/88) são: IPTU (Imposto Predial e Territorial Urbano), ITBI (Transmissão Inter Vivos de Bens Imóveis) e ISSQN (Serviços de Qualquer Natureza)."
+  },
+  {
+    "id": "leg-i-09",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "CF/88 - Vedação de Acumulação Remunerada de Cargos (Art. 37, XVI)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "A regra geral da CF/88 veda a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, para:",
+    "options": [
+      { "id": "A", "text": "A de dois cargos de professor; a de um cargo de professor com outro técnico ou científico; e a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas." },
+      { "id": "B", "text": "Dois cargos administrativos em municípios vizinhos." },
+      { "id": "C", "text": "Um cargo de agente administrativo e um mandato de vereador sem compatibilidade." },
+      { "id": "D", "text": "Três cargos em comissão de livre nomeação." },
+      { "id": "E", "text": "Qualquer cargo efetivo com a titularidade de cargo político de prefeito." }
+    ],
+    "correctOption": "A",
+    "explanation": "As exceções taxativas do art. 37, XVI, da CF/88 são: 2 cargos de professor; 1 cargo de professor com 1 cargo técnico ou científico; 2 cargos privativos de profissionais de saúde, havendo em todos os casos compatibilidade de horários."
+  },
+  {
+    "id": "leg-i-10",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Estatuto de Curitiba - Licença-Prêmio / Especial",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do Estatuto dos Funcionários Públicos Municipais de Curitiba (Lei 1.656/1958), a cada quinquênio (5 anos) de efetivo exercício ininterrupto, o funcionário tem direito a:",
+    "options": [
+      { "id": "A", "text": "Licença especial de 3 (três) meses com vencimento integral." },
+      { "id": "B", "text": "Aposentadoria proporcional imediata." },
+      { "id": "C", "text": "Dispensa definitiva de avaliações anuais." },
+      { "id": "D", "text": "6 meses de férias remuneradas consecutivas." },
+      { "id": "E", "text": "Promoção automática para o último nível da carreira." }
+    ],
+    "correctOption": "A",
+    "explanation": "A licença especial (ou prêmio por assiduidade) disciplinada no regime estatutário confere ao servidor estável o direito a 3 meses de afastamento com remuneração integral após 5 anos ininterruptos de serviço sem faltas graves."
+  },
+  {
+    "id": "leg-i-11",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei de Improbidade (Prescrição - Art. 23)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Com a nova redação conferida pela Lei nº 14.230/2021 ao art. 23 da Lei nº 8.429/1992, a ação para a aplicação das sanções de improbidade administrativa prescreve em:",
+    "options": [
+      { "id": "A", "text": "8 (oito) anos, contados a partir da data da ocorrência do fato ou, no caso de infrações permanentes, do dia em que tiver cessado a permanência." },
+      { "id": "B", "text": "5 (cinco) anos após o término do mandato." },
+      { "id": "C", "text": "10 (dez) anos após a notificação do tribunal de contas." },
+      { "id": "D", "text": "2 (dois) anos contados da publicação da portaria de instauração." },
+      { "id": "E", "text": "É imprescritível em qualquer hipótese." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 23 da Lei 8.429/1992 unificou o prazo prescricional para 8 (oito) anos a contar da ocorrência do fato (ou da cessação da permanência), prevendo também hipóteses de prescrição intercorrente de 4 anos."
+  },
+  {
+    "id": "leg-i-12",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "ECA - Direito à Convivência Familiar e Comunitária",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "No Estatuto da Criança e do Adolescente, a colocação de criança ou adolescente em família substituta far-se-á mediante:",
+    "options": [
+      { "id": "A", "text": "Guarda, tutela ou adoção." },
+      { "id": "B", "text": "Emancipação cartorial imediata." },
+      { "id": "C", "text": "Internação administrativa compulsória." },
+      { "id": "D", "text": "Apenas por procuração particular dos genitores." },
+      { "id": "E", "text": "Contrato de trabalho de aprendizagem." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 28 do ECA: 'A colocação em família substituta far-se-á mediante guarda, tutela ou adoção'."
+  },
+  {
+    "id": "leg-i-13",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "CF/88 - Princípio da Publicidade e Suas Exceções",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O princípio da publicidade dos atos administrativos admite restrições constitucionais legítimas quando:",
+    "options": [
+      { "id": "A", "text": "A defesa da intimidade da pessoa ou o interesse social e a segurança da sociedade e do Estado o exigirem." },
+      { "id": "B", "text": "A autoridade municipal considerar o tema desinteressante para a imprensa." },
+      { "id": "C", "text": "O valor da licitação for inferior a R$ 50.000,00." },
+      { "id": "D", "text": "Houver parecer verbal de servidores do protocolo." },
+      { "id": "E", "text": "O documento tiver sido redigido em dia feriado." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 5º, LX: 'a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem'."
+  },
+  {
+    "id": "leg-i-14",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "LINDB - Modulação dos Efeitos de Decisões (Art. 21)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos do artigo 21 da LINDB, a decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá:",
+    "options": [
+      { "id": "A", "text": "Indicar de modo expresso as suas consequências jurídicas e administrativas e, quando cabível, as condições para regularização de modo proporcional e equânime." },
+      { "id": "B", "text": "Aplicar penalidade sumária a todos os envolvidos sem contraditório." },
+      { "id": "C", "text": "Encaminhar o processo ao arquivo morto sem fundamentação." },
+      { "id": "D", "text": "Invalidar retroativamente todas as aposentadorias do órgão." },
+      { "id": "E", "text": "Suspender o concurso público em andamento automaticamente." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 21 da LINDB exige que a decisão invalidatória preveja de modo expresso as consequências práticas e imponha regime de transição para mitigar inseguranças e prejuízos aos administrados de boa-fé."
+  },
+  {
+    "id": "leg-i-15",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "CF/88 - Fiscalização do Município e Tribunais de Contas (Art. 31)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados (ou do Município, onde houver). Sobre a criação de novos tribunais de contas municipais, a CF/88 estabelece que:",
+    "options": [
+      { "id": "A", "text": "É expressamente vedada a criação de novos Tribunais, Conselhos ou órgãos de Contas Municipais." },
+      { "id": "B", "text": "Qualquer município com mais de 500 mil habitantes pode criar seu próprio tribunal." },
+      { "id": "C", "text": "Depende unicamente de emenda à Lei Orgânica de cada capital." },
+      { "id": "D", "text": "É permitida desde que aprovada por maioria simples dos vereadores." },
+      { "id": "E", "text": "Compete exclusivamente ao governador decretar a criação." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 31, § 4º: 'É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais'. Foram mantidos apenas os já existentes antes de 1988 (São Paulo e Rio de Janeiro)."
+  },
+  {
+    "id": "leg-i-16",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "LGPD - Encarregado pelo Tratamento de Dados (DPO)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos da LGPD, a pessoa indicada pelo controlador para atuar como canal de comunicação entre o órgão público, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD) é o:",
+    "options": [
+      { "id": "A", "text": "Encarregado pelo Tratamento de Dados Pessoais (DPO)." },
+      { "id": "B", "text": "Operador terceirizado exclusivo." },
+      { "id": "C", "text": "Auditor-Fiscal tributário." },
+      { "id": "D", "text": "Perito criminal judiciário." },
+      { "id": "E", "text": "Procurador de Justiça adjunto." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 41 da LGPD: o controlador deverá indicar encarregado pelo tratamento de dados pessoais (DPO), cuja identidade e informações de contato devem ser divulgadas publicamente."
+  },
+  {
+    "id": "leg-i-17",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Estatuto dos Servidores de Curitiba - Reintegração",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A reintegração do servidor público municipal de Curitiba ocorre quando:",
+    "options": [
+      { "id": "A", "text": "Sua demissão é invalidada por decisão judicial ou administrativa, com ressarcimento de todas as vantagens devidas." },
+      { "id": "B", "text": "Ele retorna da licença para tratar de interesses particulares sem remuneração." },
+      { "id": "C", "text": "É aprovado em novo concurso para carreira diferente." },
+      { "id": "D", "text": "Completa 75 anos de idade na aposentadoria compulsória." },
+      { "id": "E", "text": "É transferido a pedido por motivo de saúde familiar." }
+    ],
+    "correctOption": "A",
+    "explanation": "A reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado quando sua demissão for invalidada por sentença judicial ou administrativa, garantido o ressarcimento integral de seus vencimentos e direitos."
+  },
+  {
+    "id": "leg-i-18",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "CF/88 - Direito à Informação e Habeas Data (Art. 5º, LXXII)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O remédio constitucional cabível para assegurar o conhecimento de informações relativas à pessoa do impetrante constantes de registros ou bancos de dados de entidades governamentais ou de caráter público é o:",
+    "options": [
+      { "id": "A", "text": "Habeas Data." },
+      { "id": "B", "text": "Habeas Corpus." },
+      { "id": "C", "text": "Mandado de Injunção." },
+      { "id": "D", "text": "Ação Popular." },
+      { "id": "E", "text": "Ação Civil Pública." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 5º, LXXII: concede-se habeas data para assegurar o conhecimento de informações relativas à pessoa do impetrante e para a retificação de dados quando não se prefira fazê-lo por processo sigiloso."
+  },
+  {
+    "id": "leg-i-19",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei 10.048/2000 - Acessibilidade e Atendimento de Caixas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "As repartições públicas, agências bancárias e empresas concessionárias de serviços públicos estão obrigadas pela Lei 10.048/2000 a destinar para atendimento prioritário:",
+    "options": [
+      { "id": "A", "text": "Guichês e caixas de atendimento exclusivos e sinalizados de modo visível." },
+      { "id": "B", "text": "Apenas atendimento telefônico por gravação digital." },
+      { "id": "C", "text": "Horário restrito entre 6h e 7h da manhã." },
+      { "id": "D", "text": "Um dia fixo na semana para cada categoria beneficiada." },
+      { "id": "E", "text": "Filas comuns sem distinção para evitar privilégios." }
+    ],
+    "correctOption": "A",
+    "explanation": "A legislação determina a manutenção de guichês, caixas e postos de atendimento exclusivo prioritário, devidamente sinalizados com placas e identificação tátil e visual."
+  },
+  {
+    "id": "leg-i-20",
+    "subject": "legislacao",
+    "difficulty": "intermediario",
+    "levelNumber": 2,
+    "subtopic": "Lei Orgânica de Curitiba - Vedações aos Vereadores",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Segundo a Lei Orgânica de Curitiba e a CF/88, desde a posse, os Vereadores não podem:",
+    "options": [
+      { "id": "A", "text": "Ser proprietários, controladores ou diretores de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público municipal, ou nela exercer função remunerada." },
+      { "id": "B", "text": "Votar proposições orçamentárias de interesse da comunidade." },
+      { "id": "C", "text": "Apresentar projetos de lei de iniciativa parlamentar permitida." },
+      { "id": "D", "text": "Participar de sessões legislativas extraordinárias." },
+      { "id": "E", "text": "Exercer livremente a advocacia em causas privadas cíveis sem vínculo com o poder público." }
+    ],
+    "correctOption": "A",
+    "explanation": "As vedações aos parlamentares visam proteger a moralidade pública, impedindo que o vereador mantenha contratos vantajosos ou ocupe cargos diretivos em empresas concessionárias ou contratadas pelo município."
+  },
+  {
+    "id": "leg-a-01",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 14.230/2021 - Inovação no Art. 11 de Improbidade Administrativa",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "A Lei Federal nº 14.230/2021 conferiu nova redação ao artigo 11 da Lei de Improbidade Administrativa (violação a princípios). Atualmente, a caracterização de improbidade com base no art. 11 exige que:",
+    "options": [
+      { "id": "A", "text": "A conduta esteja taxativamente prevista em um dos incisos do próprio art. 11 (rol taxativo) e resulte da lesividade relevante ao bem jurídico tutelado, repudiando-se a mera violação genérica a princípios." },
+      { "id": "B", "text": "O rol de condutas seja meramente exemplificativo, cabendo ao juiz criar novas hipóteses conforme a moralidade social." },
+      { "id": "C", "text": "Haja condenação criminal prévia transitada em julgado perante o STF." },
+      { "id": "D", "text": "O agente tenha obtido lucro superior a R$ 1.000.000,00." },
+      { "id": "E", "text": "Exista apenas culpa grave e ausência de dano patrimonial." }
+    ],
+    "correctOption": "A",
+    "explanation": "A reforma da Lei nº 14.230/2021 transformou o rol do art. 11 em rol taxativo (números clausus), exigindo lesividade relevante e expressa previsão legal nos incisos vigentes, além do dolo específico, vedando o enquadramento por afronta genérica aos princípios."
+  },
+  {
+    "id": "leg-a-02",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "CF/88 - Responsabilidade Civil Objetiva do Estado (Art. 37, § 6º)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do art. 37, § 6º, da CF/88: 'As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa'. Essa norma consagra a:",
+    "options": [
+      { "id": "A", "text": "Responsabilidade civil objetiva do Estado fundada na teoria do risco administrativo e responsabilidade civil subjetiva do servidor na ação regressiva." },
+      { "id": "B", "text": "Responsabilidade subjetiva do Estado e objetiva do servidor público." },
+      { "id": "C", "text": "Teoria do risco integral com indenização irrestrita mesmo em caso de culpa exclusiva da vítima." },
+      { "id": "D", "text": "Isenção total do servidor público que causou dano culposo." },
+      { "id": "E", "text": "Necessidade de processo criminal prévio antes de qualquer reparação de dano." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Estado responde objetivamente perante a vítima (basta provar conduta administrativa, dano e nexo causal, sem necessidade de provar dolo/culpa). Já na ação regressiva contra o agente público, a responsabilidade deste é subjetiva (exige comprovação de dolo ou culpa)."
+  },
+  {
+    "id": "leg-a-03",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "LINDB - Regime de Transição e Orientações Gerais (Arts. 23 e 24)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Conforme o art. 24 da LINDB, a revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta:",
+    "options": [
+      { "id": "A", "text": "As orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas." },
+      { "id": "B", "text": "Apenas a jurisprudência mais recente, anulando todos os atos praticados nos 20 anos anteriores." },
+      { "id": "C", "text": "Exclusivamente a opinião dos auditores recém-empossados." },
+      { "id": "D", "text": "A vontade soberana do novo governante eleito sem critérios de transição." },
+      { "id": "E", "text": "A revogação de todas as leis vigentes à época." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 24 da LINDB protege a segurança jurídica e a boa-fé: veda que uma nova interpretação ou orientação geral anule retroativamente situações consolidadas sob a égide da interpretação administrativa pacífica da época."
+  },
+  {
+    "id": "leg-a-04",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Estatuto de Curitiba e Processo Administrativo Disciplinar (PAD)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No âmbito do Processo Administrativo Disciplinar previsto na Lei Municipal nº 1.656/1958 de Curitiba, a comissão processante deve ser composta por:",
+    "options": [
+      { "id": "A", "text": "3 (três) funcionários públicos estáveis, designados pela autoridade competente, que indicarão o presidente dentre os membros." },
+      { "id": "B", "text": "Apenas estagiários de direito sob supervisão externa." },
+      { "id": "C", "text": "1 único auditor comissionado de livre escolha do prefeito." },
+      { "id": "D", "text": "5 vereadores integrantes da Comissão de Ética Parlamentar." },
+      { "id": "E", "text": "Cidadãos sorteados da lista geral de jurados do tribunal do júri." }
+    ],
+    "correctOption": "A",
+    "explanation": "A comissão do PAD é formada por 3 servidores municipais estáveis para assegurar imparcialidade, independência técnica e garantia do contraditório e da ampla defesa."
+  },
+  {
+    "id": "leg-a-05",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "LGPD no Setor Público - Compartilhamento de Dados (Art. 26)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O artigo 26 da LGPD disciplina o compartilhamento de dados pessoais pelo Poder Público com entidades privadas. Assinale a regra correta:",
+    "options": [
+      { "id": "A", "text": "É vedado aos órgãos públicos transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, exceto em hipóteses legais específicas como execução descentralizada de serviço público e mediante comunicação à ANPD." },
+      { "id": "B", "text": "O Poder Público pode vender comercialmente suas bases de dados para elevar a arrecadação tributária municipal." },
+      { "id": "C", "text": "É livre e irrestrito o compartilhamento com qualquer empresa de cobrança privada." },
+      { "id": "D", "text": "A transferência a entidades privadas é proibida sem qualquer tipo de exceção legal." },
+      { "id": "E", "text": "Apenas dados de menores podem ser compartilhados com patrocinadores privados." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 26 da LGPD: é vedada a transferência a entidades privadas de dados de bases públicas, ressalvadas hipóteses como execução descentralizada de serviço público, previsão legal expressa e órgãos de pesquisa, com dever de publicidade e informação à ANPD."
+  },
+  {
+    "id": "leg-a-06",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "CF/88 - Limite Constitucional de Remuneração (Teto Remuneratório)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do artigo 37, XI, da CF/88, nos Municípios brasileiros, o teto remuneratório geral para todos os servidores da administração direta, autárquica e fundacional equivale ao subsídio mensal de:",
+    "options": [
+      { "id": "A", "text": "Prefeito Municipal." },
+      { "id": "B", "text": "Governador do Estado." },
+      { "id": "C", "text": "Desembargador do Tribunal de Justiça." },
+      { "id": "D", "text": "Ministro do Supremo Tribunal Federal (irrestritamente)." },
+      { "id": "E", "text": "Presidente da Câmara de Vereadores." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 37, XI: nos Municípios, o subteto constitucional único é o subsídio mensal do Prefeito Municipal para os servidores de todos os Poderes municipais."
+  },
+  {
+    "id": "leg-a-07",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei de Improbidade - Acordo de Não Continuidade e Não Persecução Civil",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos da Lei nº 8.429/1992 com as reformas da Lei nº 14.230/2021, é cabível no âmbito da ação de improbidade administrativa a celebração de:",
+    "options": [
+      { "id": "A", "text": "Acordo de Não Persecução Civil (ANPC), com ressarcimento integral do dano e sanções compatíveis." },
+      { "id": "B", "text": "Perdão tácito sem necessidade de ressarcir o erário." },
+      { "id": "C", "text": "Transação penal sem intervenção do Ministério Público." },
+      { "id": "D", "text": "Substituição da sanção por pagamento de dízimo." },
+      { "id": "E", "text": "Imunidade perpétua concedida pelo prefeito municipal." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 17-B da Lei 8.429/1992 autoriza expressamente a celebração de Acordo de Não Persecução Civil (ANPC) entre o legitimado ativo (como o MP) e o investigado, exigindo a reparação integral do dano e aplicação de sanções consensuais homologadas pelo juízo."
+  },
+  {
+    "id": "leg-a-08",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "ECA - Ato Infracional e Medidas Socioeducativas",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do Estatuto da Criança e do Adolescente (Lei 8.069/1990), a conduta descrita como crime ou contravenção penal praticada por criança (menor de 12 anos) acarreta a aplicação de:",
+    "options": [
+      { "id": "A", "text": "Medidas específicas de proteção (art. 101), sendo vedada a aplicação de medidas socioeducativas a crianças." },
+      { "id": "B", "text": "Medida socioeducativa de internação em unidade fechada." },
+      { "id": "C", "text": "Pena de detenção no regime semiaberto." },
+      { "id": "D", "text": "Prestação de serviços comunitários forçados no setor de limpeza." },
+      { "id": "E", "text": "Multa criminal sobre o patrimônio dos pais." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 105 do ECA: ao ato infracional praticado por criança corresponderão exclusivamente as medidas de proteção do art. 101. As medidas socioeducativas (advertência, internação, etc.) aplicam-se apenas a adolescentes (12 a 18 anos)."
+  },
+  {
+    "id": "leg-a-09",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei Orgânica de Curitiba - Processo Legislativo Municipal",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Segundo a Lei Orgânica do Município de Curitiba, a iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros pode ser exercida pela manifestação de, pelo menos:",
+    "options": [
+      { "id": "A", "text": "5% (cinco por cento) do eleitorado municipal." },
+      { "id": "B", "text": "1% do eleitorado estadual." },
+      { "id": "C", "text": "10% dos servidores municipais concursados." },
+      { "id": "D", "text": "500 eleitores do bairro correspondente." },
+      { "id": "E", "text": "20% dos inscritos no cadastro imobiliário." }
+    ],
+    "correctOption": "A",
+    "explanation": "A CF/88 (art. 29, XIII) e a Lei Orgânica de Curitiba fixam a iniciativa popular municipal através da subscrição de pelo menos 5% do eleitorado do Município."
+  },
+  {
+    "id": "leg-a-10",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "CF/88 - Princípio do Concurso Público e Prazo de Validade (Art. 37, III)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "O artigo 37, III, da Constituição Federal estabelece que o prazo de validade do concurso público será de:",
+    "options": [
+      { "id": "A", "text": "Até 2 (dois) anos, prorrogável uma vez, por igual período." },
+      { "id": "B", "text": "Exatamente 2 anos, improrrogável." },
+      { "id": "C", "text": "Até 4 anos, sem prorrogação." },
+      { "id": "D", "text": "1 ano, prorrogável indefinidamente até o fim do mandato." },
+      { "id": "E", "text": "3 anos, prorrogável por 1 ano." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 37, III: o prazo de validade do concurso público é de até dois anos, prorrogável uma única vez, por igual período."
+  },
+  {
+    "id": "leg-a-11",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "LINDB - Termo de Ajustamento de Gestão (Art. 26)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos do art. 26 da LINDB, para eliminar irregularidade, incerteza jurídica ou situação contenciosa na aplicação do direito público, a autoridade administrativa poderá:",
+    "options": [
+      { "id": "A", "text": "Celebrar compromisso com os interessados, ouvindo o órgão jurídico e prevendo obrigações proporcionais e compensatórias." },
+      { "id": "B", "text": "Decretar sigilo absoluto sem acesso ao Ministério Público." },
+      { "id": "C", "text": "Anular a Constituição Federal de 1988 no âmbito do município." },
+      { "id": "D", "text": "Perdoar judicialmente crimes dolosos contra a vida." },
+      { "id": "E", "text": "Substituir a lei por decreto sem autorização legislativa." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 26 da LINDB formaliza a celebração de compromissos administrativos para sanar incertezas e irregularidades, exigindo prévia manifestação do órgão consultivo jurídico e fixação de metas e obrigações proporcionais aos interessados."
+  },
+  {
+    "id": "leg-a-12",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "CF/88 - Imunidade Material e Formal de Vereadores (Art. 29, VIII)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Conforme o artigo 29, VIII, da CF/88, a inviolabilidade dos Vereadores por suas opiniões, palavras e votos aplica-se:",
+    "options": [
+      { "id": "A", "text": "No exercício do mandato e na circunscrição do respectivo Município." },
+      { "id": "B", "text": "Em todo o território nacional, sem qualquer restrição espacial." },
+      { "id": "C", "text": "Apenas durante os discursos na tribuna do plenário da Câmara." },
+      { "id": "D", "text": "Apenas quando acompanhados do Procurador da Câmara." },
+      { "id": "E", "text": "Exclusivamente para questões ligadas ao IPTU." }
+    ],
+    "correctOption": "A",
+    "explanation": "CF/88, art. 29, VIII: os vereadores gozam de imunidade material (inviolabilidade civil e penal por opiniões, palavras e votos) desde que no exercício do mandato e circunscrita ao território do Município."
+  },
+  {
+    "id": "leg-a-13",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei 12.527/2011 - Informações Pessoais (Art. 31)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "De acordo com o art. 31 da LAI, o tratamento das informações pessoais relativas à intimidade, vida privada, honra e imagem das pessoas:",
+    "options": [
+      { "id": "A", "text": "Terá seu acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de 100 (cem) anos a contar da data de sua produção." },
+      { "id": "B", "text": "É de livre acesso a qualquer cidadão após 5 anos." },
+      { "id": "C", "text": "Pode ser divulgado em redes sociais sem autorização legal." },
+      { "id": "D", "text": "Deve ser mantido em segredo por 25 anos apenas." },
+      { "id": "E", "text": "Não goza de qualquer proteção perante a administração municipal." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 31, § 1º, I, da LAI: as informações pessoais relativas à intimidade, vida privada, honra e imagem terão seu acesso restrito pelo prazo de até 100 (cem) anos a contar de sua produção."
+  },
+  {
+    "id": "leg-a-14",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Estatuto de Curitiba - Prescrição da Ação Disciplinar",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No regime disciplinar dos servidores municipais de Curitiba (Lei 1.656/1958), a prescrição da falta disciplinar punível com a pena de demissão ocorre em:",
+    "options": [
+      { "id": "A", "text": "5 (cinco) anos a partir da data em que a autoridade competente tomou conhecimento do fato." },
+      { "id": "B", "text": "1 (um) ano contado da falta." },
+      { "id": "C", "text": "10 (dez) anos impreterivelmente." },
+      { "id": "D", "text": "6 (seis) meses se não instaurada sindicância." },
+      { "id": "E", "text": "É imprescritível na esfera administrativa." }
+    ],
+    "correctOption": "A",
+    "explanation": "O prazo prescricional para infrações puníveis com demissão, cassação de aposentadoria e disponibilidade é de 5 anos, contados a partir da ciência oficial do fato pela autoridade competente para instaurar o processo."
+  },
+  {
+    "id": "leg-a-15",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "LGPD - Bases Legais para Tratamento pelo Poder Público (Art. 7º e 11)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Nos termos do art. 7º, III, e art. 11, II, 'b', da LGPD, a administração pública pode tratar dados pessoais (inclusive dados sensíveis) SEM o consentimento do titular para:",
+    "options": [
+      { "id": "A", "text": "O cumprimento de obrigação legal ou regulatória e para a execução de políticas públicas previstas em leis e regulamentos." },
+      { "id": "B", "text": "Qualquer finalidade com fins lucrativos da prefeitura." },
+      { "id": "C", "text": "Campanhas publicitárias de candidatos do partido político dominante." },
+      { "id": "D", "text": "Venda compulsória a birôs de crédito particulares." },
+      { "id": "E", "text": "Apenas durante estado de sítio ou defesa." }
+    ],
+    "correctOption": "A",
+    "explanation": "O Poder Público dispõe de base legal autônoma e expressa na LGPD que dispensa o consentimento do titular para cumprir obrigação legal/regulatória e para executar políticas públicas legalmente instituídas."
+  },
+  {
+    "id": "leg-a-16",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "CF/88 - Repartição de Competências Legislativas Suplementares",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Segundo a pacífica jurisprudência do Supremo Tribunal Federal (STF) relativa ao art. 30, I e II, da CF/88, o Município é competente para legislar sobre:",
+    "options": [
+      { "id": "A", "text": "Horário de funcionamento do comércio local e tempo máximo de espera em filas de agências bancárias em seu território (Súmulas Vinculantes 38 e 49)." },
+      { "id": "B", "text": "Segurança e transporte de valores interestadual dos bancos." },
+      { "id": "C", "text": "Horário de atendimento das agências dos Correios em nível federal." },
+      { "id": "D", "text": "Taxas de juros remuneratórios cobrados por instituições financeiras." },
+      { "id": "E", "text": "Regulamentação trabalhista da jornada de bancários." }
+    ],
+    "correctOption": "A",
+    "explanation": "Súmula Vinculante 38: 'É competente o Município para fixar o horário de funcionamento de estabelecimento comercial'. O STF também consolidou que leis municipais que estipulam tempo razoável de espera em agências bancárias são matérias de interesse local legítimas."
+  },
+  {
+    "id": "leg-a-17",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Lei de Improbidade - Sanções do Art. 12 (Perda da Função Pública)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "Conforme a nova redação do art. 12, § 1º, da Lei 8.429/1992 dada pela Lei 14.230/2021, a sanção de perda da função pública decorrente de condenação por ato de improbidade administrativa:",
+    "options": [
+      { "id": "A", "text": "Atinge apenas o vínculo de mesma qualidade e natureza que o agente público detinha com o poder público na época do cometimento da infração, salvo hipótese de magistrados ou extensão motivada em casos graves de enriquecimento ilícito." },
+      { "id": "B", "text": "Gera a demissão automática e perpétua de todo e qualquer cargo futuro que o indivíduo venha a assumir." },
+      { "id": "C", "text": "Não se aplica a servidores que ingressaram por concurso público." },
+      { "id": "D", "text": "Pode ser executada logo após a petição inicial do Ministério Público." },
+      { "id": "E", "text": "Atinge também a aposentadoria dos ascendentes do servidor." }
+    ],
+    "correctOption": "A",
+    "explanation": "A Lei 14.230/2021 restringiu o alcance da perda da função pública ao vínculo funcional de mesma natureza ocupado ao tempo do ilícito, impedindo demissões automáticas em cargos distintos assumidos posteriormente, salvo decisão expressamente fundamentada."
+  },
+  {
+    "id": "leg-a-18",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "CF/88 - Desapropriação por Interesse Social Municipal (Art. 182)",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "Nos termos do art. 182, § 4º, da CF/88, para o proprietário de solo urbano não edificado, subutilizado ou não utilizado em conformidade com o plano diretor, o Município de Curitiba pode exigir sucessivamente:",
+    "options": [
+      { "id": "A", "text": "Parcelamento ou edificação compulsórios; IPTU progressivo no tempo; e desapropriação com pagamento mediante títulos da dívida pública." },
+      { "id": "B", "text": "Confisco imediato da propriedade sem qualquer indenização." },
+      { "id": "C", "text": "Prisão do proprietário por crime ambiental." },
+      { "id": "D", "text": "Venda obrigatória ao prefeito pelo valor venal." },
+      { "id": "E", "text": "Doação compulsória a entidades beneficentes de Curitiba." }
+    ],
+    "correctOption": "A",
+    "explanation": "O art. 182, § 4º, prevê os instrumentos sucessivos de garantia da função social da propriedade urbana: 1º) parcelamento/edificação compulsórios; 2º) IPTU progressivo no tempo; 3º) desapropriação com pagamento em títulos da dívida pública resgatáveis em até 10 anos."
+  },
+  {
+    "id": "leg-a-19",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "LINDB - Segurança Jurídica e Súmulas Administrativas (Art. 30)",
+    "examBoard": "FAFIPA",
+    "year": 2023,
+    "statement": "O art. 30 da LINDB preconiza que as autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por meio de:",
+    "options": [
+      { "id": "A", "text": "Regulamentos, súmulas administrativas e respostas a consultas formais vinculantes para o respectivo órgão." },
+      { "id": "B", "text": "Publicação de portarias secretas não divulgadas na internet." },
+      { "id": "C", "text": "Decisões orais transmitidas em conversas informais." },
+      { "id": "D", "text": "Delegação integral de competências judiciais aos secretários." },
+      { "id": "E", "text": "Eliminação de todos os recursos administrativos." }
+    ],
+    "correctOption": "A",
+    "explanation": "Art. 30 da LINDB: as autoridades públicas promoverão a segurança jurídica por meio de regulamentos, súmulas administrativas e respostas a consultas com efeito vinculante para a administração."
+  },
+  {
+    "id": "leg-a-20",
+    "subject": "legislacao",
+    "difficulty": "avancado",
+    "levelNumber": 3,
+    "subtopic": "Estatuto de Curitiba e Lei 7.671/1991 - Delegação e Hierarquia",
+    "examBoard": "FAFIPA",
+    "year": 2024,
+    "statement": "No âmbito do direito administrativo municipal, a delegação de competência realizada pelo Prefeito ou Secretários Municipais caracteriza-se por:",
+    "options": [
+      { "id": "A", "text": "Ser revogável a qualquer tempo pela autoridade delegante e temporária, não podendo abranger a edição de atos de caráter normativo geral nem a decisão de recursos administrativos quando vedado em lei." },
+      { "id": "B", "text": "Transferir definitivamente e de forma irreversível a titularidade do cargo." },
+      { "id": "C", "text": "Exigir autorização prévia unânime da Câmara de Vereadores." },
+      { "id": "D", "text": "Impedir a autoridade delegante de avocar o processo em qualquer hipótese." },
+      { "id": "E", "text": "Aplicar-se exclusivamente a pessoas estranhas ao quadro funcional." }
+    ],
+    "correctOption": "A",
+    "explanation": "A delegação é instrumento de desconcentração de gestão: é sempre revogável a qualquer tempo, temporária e não transfere a titularidade originária, sendo indelegáveis atos de caráter estritamente normativo ou julgamento final de recursos."
+  }
+]
